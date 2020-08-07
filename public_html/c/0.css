@@ -1,0 +1,432 @@
+.lovenotechildspicture
+{
+	max-width:100% !important;
+	max-height:100% !important;
+	margin-bottom:-100% !important;
+	display:block !important;
+	object-fit:contain;
+	height:100% !important;
+	width:100% !important;
+}
+
+.lovenotechildspicturecontainer
+{
+-webkit-transform: translateY(-100%) rotate(-16deg); /* Safari */
+    -moz-transform: translateY(-100%) rotate(-16deg); /* Firefox 3.6 Firefox 4 */
+    -ms-transform: translateY(-100%) rotate(-16deg); /* IE9 */
+    -o-transform: translateY(-100%) rotate(-16deg); /* Opera */
+    transform: translateY(-100%) rotate(-16deg); /* W3C */  
+    -webkit-transform-origin: left top;
+    -moz-transform-origin: left top;
+    -ms-transform-origin: left top;
+    -o-transform-origin: left top;
+    transform-origin: left top;
+}
+
+.lovenotechildspictureborder
+{
+	position:relative;
+	max-width:unset;
+	display:block;
+	
+	webkit-transform:translateY(0%) rotate(16deg);
+	-moz-transform:translateY(0%) rotate(16deg);
+	-moz-transform-origin:right top;
+	-ms-transform:translateY(0%) rotate(16deg);
+	-o-transform:translateY(0%) rotate(16deg);
+	transform:translateY(0%) rotate(16deg);
+	-webkit-transform-origin:left top;
+	-moz-transform-origin:left top;
+	-ms-transform-origin:left top;
+	-o-transform-origin:left top;
+	transform-origin:left top;
+}
+
+.page21textcontainer
+{
+	webkit-transform:translateY(0%) rotate(7.7deg);
+	-moz-transform:translateY(0%) rotate(7.7deg);
+	-ms-transform:translateY(0%) rotate(7.7deg);
+	-o-transform:translateY(0%) rotate(7.7deg);
+	transform:translateY(0%) rotate(7.7deg);
+	-webkit-transform-origin:left top;
+	-moz-transform-origin:left top;
+	-ms-transform-origin:left top;
+	-o-transform-origin:left top;
+	transform-origin:left top;
+}
+
+
+
+#imaginetextarea h3
+{
+	font-size:25px;
+	line-height:25px;
+}
+
+.checkboxcontainer,.crosscontainer,.pagenumbercontainer
+{
+	display:none;
+	visibility:hidden;
+}
+
+.showit .checkboxcontainer,.showit .crosscontainer,.showit .pagenumbercontainer
+{
+	display:inherit;
+	visibility:inherit;
+}
+
+.checkboxcontainer,.crosscontainer
+{
+	height:0;
+}
+
+.pageselectorcheckbox
+{
+	position:relative;
+	left:27px;
+	bottom:37px;
+	background-color:#fff;
+	color:#43a010;
+	border-radius:13px;
+	padding:3px;
+	border:#43a010 1px solid;
+}
+
+.pageremovercross {
+	color:#ff354f;
+	border:1px solid #ff354f;
+	border-radius:23px;
+	padding:0px 2px 1px 2px;
+	font-size:13px;
+	position:relative;
+	right:43px;
+	bottom:6px;
+}
+
+.pagenumbercontainer
+{
+	height:0px;
+	position:relative;
+	font-size:55px;
+	font-weight:bold;
+	z-index:1;
+}
+
+#childsnameinput,#lovenotefrominput
+{
+	width:25%;
+}
+
+
+
+#pageselectors img.highlight
+{
+	border:2px solid #43a010;
+	opacity:0.2;
+}
+
+.page1textcontainer,.page2textcontainer,.page6textcontainer .first,.page8textcontainer,.page9textcontainer,.page10textcontainer,.page11textcontainer,.page12textcontainer,.page13textcontainer,.page16textcontainer,.page17textcontainer,.page18textcontainer,.page19textcontainer,.page20textcontainer
+{
+	text-align:left;
+}
+
+.page6textcontainer .second
+{
+	text-align:right;
+}
+
+
+.whatmakesawesomerow .pic img
+{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.pageline {
+    height: 100% !important;
+    border: 1px solid #fff;
+    width: 0px !important;
+    position: relative;
+    left: 50%;
+}
+
+
+.pagetextcontainer
+{
+	line-height:116%
+}
+
+
+#glassesselector0 {
+    position: relative;
+    left: 36px;
+    top: 15px;
+}
+
+
+#eyeimg{bottom:-152px;margin-left:-108px;margin-top:-108px;position:relative;left:303px;z-index:19}
+#glassesimg{bottom:-118px;margin-left:-108px;margin-top:-72px;position:relative;right:-38px}
+#frecklesimg{bottom:-116px;margin-left:-103px;margin-top:-32px;position:relative;right:-39px}
+#hairimg{position:relative;z-index:20;display:block !important}
+#hairselect li,#hisabselect li,#eyesselect li,#bodyselect li,#glassesselect li,#frecklesselect li{text-align:center}
+
+
+#pageselectors img
+{
+	cursor:pointer;
+}
+#characterpagesarea
+{
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+#charactereditorarea
+{
+	width:100%;
+}
+#characterdisplay {
+    height: 418px;
+    padding-top: 40px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#bodyimg{left:332px;position:relative;top:388px}
+
+#hairselector,#hisabselect,#eyeselector,#extrasselector,#bodyselector,#frecklesselector{cursor:pointer;height:0px;width:0px;z-index:219}
+#haircolorselect li div,#bodycolorselect li div,#eyecolorselect li div{border-radius:50%;height:40px;margin-left:auto;margin-right:auto;width:40px}
+
+.sho div.cws_fa_wrapper.round
+{
+    margin-left: -127px;
+    margin-top: -66px;
+    position: relative;
+    left: 55px;
+    bottom: -13px;
+	height:49px;
+}
+
+
+.sho div.cws_fa_wrapper.hearcovring.round {
+    margin-left: -127px;
+    margin-top: -66px;
+    position: relative;
+    bottom: -13px;
+    height: 49px;
+    /* right: 52px; */
+    left: 575px;
+}
+
+#hisabselector .cws_fa_wrapper.round{
+	left: 550px;
+	top: -5px !important;
+
+}
+
+.opera-icon{
+	position: relative;
+    top: -3px;
+    left: -2px;
+}
+
+#charactereditorarea .hisabselect{
+	margin-bottom: 20px;
+}
+
+
+.sho span
+{
+	border-radius:24.5px !important;
+}
+
+.sho .text
+{
+	position:relative;
+	top:9px;
+	margin:0px 16px;
+}
+
+.hid .imgdiv
+{
+	background-color:#26b4d7;
+position: relative;
+z-index: 1;
+height: 40px;
+width: 40px;
+top: 0px;
+left: 0px;
+border-radius: 50%;
+margin: 4px;
+}
+.hid div
+{
+	margin-left:-81px;
+	margin-top:-76px;
+	top:20px;
+	left:20px;
+}
+
+.hid i:before,.hid img
+{
+	color:#000;
+}
+
+.hid img
+{
+	height:20px;
+	position:relative;
+	z-index:1;
+	padding:0px;
+}
+
+
+
+.hid span
+{
+	background-color:#fff;
+}
+
+#partselectors{height:0px;width:0px}
+
+#haircolorselector0{background-color:#3a3837}
+#haircolorselector1{background-color:#fbe08c}
+#haircolorselector2{background-color:#39231d}
+#haircolorselector3{background-color:#bf9257}
+#haircolorselector4{background-color:#703617}
+#haircolorselector5{background-color:#f15f6d}
+#haircolorselector6{background-color:#f7a020}
+
+#bodycolorselector0{background-color:#301f10}
+#bodycolorselector1{background-color:#613b1a}
+#bodycolorselector2{background-color:#ad8c63}
+#bodycolorselector3{background-color:#cf846b}
+#bodycolorselector4{background-color:#fab58c}
+#bodycolorselector5{background-color:#fdd8c0}
+
+#eyecolorselector0{background-color:#b8deef}
+#eyecolorselector1{background-color:#754f33}
+#eyecolorselector2{background-color:#2cb271}
+#eyecolorselector3{background-color:#6c6d70}
+#eyecolorselector4{background-image: radial-gradient(#8b5e3c,#00a651);}
+
+
+#frecklesselector0
+{
+position: fixed;
+    clip: rect(0px,75px,38px,0px);
+    background-color: rgba(179, 179, 179, 0.26);
+	padding-left:13px;
+}
+
+
+#hairselector{position:relative;top:41px;left:107px}
+#eyeselector{    position: relative;
+    top:120px;
+    left:107px;}
+#extrasselector{position:relative;
+    top:112px;
+    left:447px;}
+#bodyselector{position:relative;
+    top:208px;
+    left:107px;}
+
+#frecklesselector{    position: relative;
+    top: 48px;
+    left: 327px;}
+
+.xselector{height: 40px;
+    width: 100%;
+    text-align: center;
+    color: #ff0000;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+position: relative;
+    top: 7px;
+}
+
+
+
+@keyframes pulse
+{
+	0%
+	{
+		transform:scale(1,1);
+	}
+
+	50%
+	{
+		transform:scale(1.1,1.1);
+	}
+
+	100%
+	{
+		transform:scale(1,1);
+	}
+}
+
+
+#hairselector .hid
+{
+	animation: pulse 4s linear infinite;
+}
+
+#hisabselect .hid
+{
+	animation: pulse 4s linear infinite;
+}
+
+
+#eyeselector .hid
+{
+	animation: pulse 3.5s linear infinite;
+}
+
+#bodyselector .hid
+{
+	animation: pulse 3.2s linear infinite;
+}
+
+#extrasselector .hid
+{
+	animation: pulse 3.3s linear infinite;
+}
+
+/*other*/
+
+.sho .imgdiv
+{
+	background-color:#26b4d7;
+position: relative;
+z-index: 1;
+height: 40px;
+width: 40px;
+top: 0px;
+left: 0px;
+border-radius: 50%;
+margin: 4px;
+}
+.sho div
+{
+	margin-left:-81px;
+	margin-top:-76px;
+	top:20px;
+	left:20px;
+}
+
+.shosho i:before,.shosho img
+{
+	color:#000;
+}
+
+.shosho img
+{
+	height:20px;
+	position:relative;
+	z-index:1;
+	padding:0px;
+}
+
+
+
