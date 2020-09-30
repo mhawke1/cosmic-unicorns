@@ -1215,7 +1215,20 @@ function updatePage8()
 	$jq('.page'+pageNum+'textcontainer div').css('width',largestBackground.width()*0.3);
 	$jq('.page'+pageNum+'textcontainer .first').css('bottom',largestBackground.height()*0.86464088397);
 	$jq('.page'+pageNum+'textcontainer .first').css('left',largestBackground.width()*0.302);
-	$jq('.page'+pageNum+'textcontainer .second').css('bottom',largestBackground.height()*0.895027624);
+
+
+	if(parseInt($jq('#pdf_id').val())==1)
+	{
+			$jq('.page'+pageNum+'textcontainer .second').css('bottom',largestBackground.height()*0.84);
+
+		
+	}
+	else
+	{
+		$jq('.page'+pageNum+'textcontainer .second').css('bottom',largestBackground.height()*0.895027624);
+
+	}
+
 	$jq('.page'+pageNum+'textcontainer .second').css('left',largestBackground.width()*0.73);
 	$jq('.page'+pageNum+'textcontainer').css('margin-right',-largestBackground.width()*0.2);
 	$jq('.page'+pageNum+'textcontainer').css('font-size',largestBackground.width()*0.014);//0.012

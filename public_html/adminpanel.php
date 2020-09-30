@@ -328,7 +328,11 @@ foreach($pagesTmp AS $k=>$v)$pages.='&pages%5B%5D='.urlencode($v);
 
 																echo '<td>';
 																if($payment['type_id']==1)
-echo '<div><a href="pdfdownload.php?id='.htmlentities($payment['id']).'" target="_blank" title="Download Book\'s PDF">Download PDF</a></div>';
+echo '<div><a href="mpdf.php?id='.htmlentities($payment['id']).'" target="_blank" title="Download Book\'s PDF">Download PDF</a></div>';
+
+if($payment['type_id']==1)
+echo '<div><a href="mpdf-cover.php?id='.htmlentities($payment['id']).'" target="_blank" title="Download Cover\'s PDF">Download Cover PDF</a></div>';
+
 
 if($payment['order_id']==0)
 
