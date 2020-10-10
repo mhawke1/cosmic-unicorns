@@ -1,5 +1,13 @@
 $jq=jQuery.noConflict();
 
+
+ var glassPart=[];
+    glassPart[1]='i/character/Glasses/Glasses1.png';
+    glassPart[2]='i/character/Glasses/Glasses2.png';
+    glassPart[3]='i/character/Glasses/Glasses3.png';
+    glassPart[4]='i/character/Glasses/Glasses4.png';
+ 
+
 function generateCharacterInEditor()
 {
 	eyeImg=document.getElementById('eyeimg');
@@ -37,10 +45,16 @@ function generateCharacterInEditor()
 	{
 		document.getElementById('frecklesimg').style.visibility='hidden';
 	}
+        
 
+    
 	if(isInt(character['glasses']))
-	{
-		document.getElementById('glassesimg').style.visibility='visible';
+	{    
+
+		var glassId = document.getElementById('selectedglasses').value;
+     
+         document.getElementById("glassesimg").src=glassPart[glassId];
+		 document.getElementById('glassesimg').style.visibility='visible';
 	}
 	else
 	{
@@ -146,7 +160,7 @@ var frontbackcover=$jq('<div><div id="page0area" class="pagearea page0area" styl
 	+'</div></div>');
 
 function refreshBook(defaultPage)
-{
+{   
 	if(typeof pdfPrint==='undefined')
 	{
 		var numberOfPages=$jq("#characterpagesarea").turn("pages");
@@ -704,8 +718,8 @@ ready(function()
 				glassesVal=null;
 			}
 			else
-			{   localStorage.setItem("glasses",1);
-				$jq('#selectedglasses').val(1);
+			{   localStorage.setItem("glasses",glassesVal);
+				$jq('#selectedglasses').val(glassesVal);
 				glassesVal=toInt10(glassesVal);
 			}
 

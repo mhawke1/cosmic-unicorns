@@ -358,9 +358,7 @@ var eyesHV=[[-528,606],[-486,596]];
 function updatePageMain(pageNum,newHeadScaleGroupWidth,bgImgDefWidth,bgImgDefHeight,characterDefWidth,characterDefHeight,characterDefHorizontal,characterDefVertical,headGroupHorizontal,headGroupVertical,bodyImages,extraHeadArea,extras,bodyPosition,micro=null)
 {
 	var selectedBody=parseInt($jq('#selectedbodytype').val())
-    
-
-    console.log(character);
+   
 	eyesScaleGroup.setDefWH(eyesWH[character['eyes']][0],eyesWH[character['eyes']][1]);
 	eyesScaleGroup.setDefHV(eyesHV[character['eyes']][0],eyesHV[character['eyes']][1]);
 
@@ -1109,19 +1107,7 @@ function updatePage8()
 	$jq('.page'+pageNum+'textcontainer div').css('width',largestBackground.width()*0.3);
 	$jq('.page'+pageNum+'textcontainer .first').css('bottom',largestBackground.height()*0.95);
 	$jq('.page'+pageNum+'textcontainer .first').css('left',largestBackground.width()*0.302);
-
-	if(parseInt($jq('#pdf_id').val())==1)
-	{
-			$jq('.page'+pageNum+'textcontainer .second').css('bottom',largestBackground.height()*0.84);
-
-		
-	}
-	else
-	{
-		$jq('.page'+pageNum+'textcontainer .second').css('bottom',largestBackground.height()*0.895027624);
-
-	}
-	
+	$jq('.page'+pageNum+'textcontainer .second').css('bottom',largestBackground.height()*0.87);
 	$jq('.page'+pageNum+'textcontainer .second').css('left',largestBackground.width()*0.73);
 	$jq('.page'+pageNum+'textcontainer').css('margin-right',-largestBackground.width()*0.2);
 	$jq('.page'+pageNum+'textcontainer').css('font-size',largestBackground.width()*0.014);//0.012

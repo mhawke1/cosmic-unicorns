@@ -40,7 +40,7 @@ $characterParts['body'][1]['skin'][5]='i/pages/Bedtime-SpreadPACKAGE/BedtimeBedB
 $characterParts['hair'][0][0][3]['size']=[];
 $characterParts['hair'][0][0][3]['width']=112;
 $characterParts['hair'][0][0][3]['padding-top']=0;
-$characterParts['hair'][0][0][3]['padding-bottom']=533;
+$characterParts['hair'][0][0][3]['padding-bottom']=534;
 $characterParts['hair'][0][0][3]['padding-left']=-439;
 $characterParts['hair'][0][0][3]['padding-right']=0;
 
@@ -48,7 +48,7 @@ $characterParts['hair'][0][0][3]['padding-right']=0;
 $characterParts['hair'][0][1][3]['size']=[];
 $characterParts['hair'][0][1][3]['width']=112;
 $characterParts['hair'][0][1][3]['padding-top']=0;
-$characterParts['hair'][0][1][3]['padding-bottom']=533;
+$characterParts['hair'][0][1][3]['padding-bottom']=534;
 $characterParts['hair'][0][1][3]['padding-left']=-439;
 $characterParts['hair'][0][1][3]['padding-right']=0;
 
@@ -69,18 +69,18 @@ $characterParts['hair'][0]['color'][6]='i/character/Hair/Cornrow/CornrowRed.png'
 
 
 $characterParts['hair'][1][0][3]['size']=[];
-$characterParts['hair'][1][0][3]['width']=146;
+$characterParts['hair'][1][0][3]['width']=147;
 $characterParts['hair'][1][0][3]['padding-top']=0;
-$characterParts['hair'][1][0][3]['padding-bottom']=462;
-$characterParts['hair'][1][0][3]['padding-left']=-457;
+$characterParts['hair'][1][0][3]['padding-bottom']=461;
+$characterParts['hair'][1][0][3]['padding-left']=-455;
 $characterParts['hair'][1][0][3]['padding-right']=0;
 
 
 $characterParts['hair'][1][1][3]['size']=[];
-$characterParts['hair'][1][1][3]['width']=146;
+$characterParts['hair'][1][1][3]['width']=147;
 $characterParts['hair'][1][1][3]['padding-top']=0;
-$characterParts['hair'][1][1][3]['padding-bottom']=462;
-$characterParts['hair'][1][1][3]['padding-left']=-457;
+$characterParts['hair'][1][1][3]['padding-bottom']=461;
+$characterParts['hair'][1][1][3]['padding-left']=-455;
 $characterParts['hair'][1][1][3]['padding-right']=0;
 
 
@@ -104,14 +104,14 @@ $characterParts['hair'][1]['color'][6]='i/character/Hair/Hijab/HijabRed.png';
 $characterParts['hair'][2][0][3]['size']=[];
 $characterParts['hair'][2][0][3]['width']=150;
 $characterParts['hair'][2][0][3]['padding-top']=0;
-$characterParts['hair'][2][0][3]['padding-bottom']=353;
+$characterParts['hair'][2][0][3]['padding-bottom']=352;
 $characterParts['hair'][2][0][3]['padding-left']=-460.5;
 $characterParts['hair'][2][0][3]['padding-right']=0;
 
 $characterParts['hair'][2][1][3]['size']=[];
 $characterParts['hair'][2][1][3]['width']=150;
 $characterParts['hair'][2][1][3]['padding-top']=0;
-$characterParts['hair'][2][1][3]['padding-bottom']=353;
+$characterParts['hair'][2][1][3]['padding-bottom']=352;
 $characterParts['hair'][2][1][3]['padding-left']=-460.5;
 $characterParts['hair'][2][1][3]['padding-right']=0;
 
@@ -130,14 +130,14 @@ $characterParts['hair'][2]['color'][6]='i/character/Hair/LongBraidsDown/LongBrai
 
 
 $characterParts['hair'][3][0][3]['size']=[];
-$characterParts['hair'][3][0][3]['width']=150;
+$characterParts['hair'][3][0][3]['width']=152;
 $characterParts['hair'][3][0][3]['padding-top']=0;
 $characterParts['hair'][3][0][3]['padding-bottom']=531;
 $characterParts['hair'][3][0][3]['padding-left']=-457;
 $characterParts['hair'][3][0][3]['padding-right']=0;
 
 $characterParts['hair'][3][1][3]['size']=[];
-$characterParts['hair'][3][1][3]['width']=150;
+$characterParts['hair'][3][1][3]['width']=152;
 $characterParts['hair'][3][1][3]['padding-top']=0;
 $characterParts['hair'][3][1][3]['padding-bottom']=531;
 $characterParts['hair'][3][1][3]['padding-left']=-457;
@@ -158,18 +158,18 @@ $characterParts['hair'][3]['color'][6]='i/character/Hair/LongPonytail/LongPonyta
 
 
 $characterParts['hair'][4][0][3]['size']=[];
-$characterParts['hair'][4][0][3]['width']=150;
+$characterParts['hair'][4][0][3]['width']=160;
 $characterParts['hair'][4][0][3]['padding-top']=0;
-$characterParts['hair'][4][0][3]['padding-bottom']=531;
-$characterParts['hair'][4][0][3]['padding-left']=-457;
+$characterParts['hair'][4][0][3]['padding-bottom']=534;
+$characterParts['hair'][4][0][3]['padding-left']=-462.4;
 $characterParts['hair'][4][0][3]['padding-right']=0;
 
 
 $characterParts['hair'][4][1][3]['size']=[];
-$characterParts['hair'][4][1][3]['width']=150;
+$characterParts['hair'][4][1][3]['width']=160;
 $characterParts['hair'][4][1][3]['padding-top']=0;
-$characterParts['hair'][4][1][3]['padding-bottom']=531;
-$characterParts['hair'][4][1][3]['padding-left']=-457;
+$characterParts['hair'][4][1][3]['padding-bottom']=534;
+$characterParts['hair'][4][1][3]['padding-left']=-462.4;
 $characterParts['hair'][4][1][3]['padding-right']=0;
 
 
@@ -188,18 +188,18 @@ $characterParts['hair'][4]['color'][6]='i/character/Hair/MedAfro/MedAfroRed.png'
 
 
 $characterParts['hair'][5][0][3]['size']=[];
-$characterParts['hair'][5][0][3]['width']=172;
+$characterParts['hair'][5][0][3]['width']=175;
 $characterParts['hair'][5][0][3]['padding-top']=0;
-$characterParts['hair'][5][0][3]['padding-bottom']=462.0;
-$characterParts['hair'][5][0][3]['padding-left']=-466;
+$characterParts['hair'][5][0][3]['padding-bottom']=460.7;
+$characterParts['hair'][5][0][3]['padding-left']=-467;
 $characterParts['hair'][5][0][3]['padding-right']=0;
 
 
 $characterParts['hair'][5][1][3]['size']=[];
-$characterParts['hair'][5][1][3]['width']=172;
+$characterParts['hair'][5][1][3]['width']=175;
 $characterParts['hair'][5][1][3]['padding-top']=0;
-$characterParts['hair'][5][1][3]['padding-bottom']=462.0;
-$characterParts['hair'][5][1][3]['padding-left']=-466;
+$characterParts['hair'][5][1][3]['padding-bottom']=460.7;
+$characterParts['hair'][5][1][3]['padding-left']=-467;
 $characterParts['hair'][5][1][3]['padding-right']=0;
 
 
@@ -218,17 +218,17 @@ $characterParts['hair'][5]['color'][6]='i/character/Hair/MedCurlyPomsDown/MedCur
 
 
 $characterParts['hair'][6][0][3]['size']=[];
-$characterParts['hair'][6][0][3]['width']=210;
+$characterParts['hair'][6][0][3]['width']=208;
 $characterParts['hair'][6][0][3]['padding-top']=0;
-$characterParts['hair'][6][0][3]['padding-bottom']=468.0;
-$characterParts['hair'][6][0][3]['padding-left']=-491.7;
+$characterParts['hair'][6][0][3]['padding-bottom']=468.3;
+$characterParts['hair'][6][0][3]['padding-left']=-490;
 $characterParts['hair'][6][0][3]['padding-right']=0;
 
 $characterParts['hair'][6][1][3]['size']=[];
-$characterParts['hair'][6][1][3]['width']=210;
+$characterParts['hair'][6][1][3]['width']=208;
 $characterParts['hair'][6][1][3]['padding-top']=0;
-$characterParts['hair'][6][1][3]['padding-bottom']=468.0;
-$characterParts['hair'][6][1][3]['padding-left']=-491.7;
+$characterParts['hair'][6][1][3]['padding-bottom']=468.3;
+$characterParts['hair'][6][1][3]['padding-left']=-490;
 $characterParts['hair'][6][1][3]['padding-right']=0;
 
 
@@ -276,14 +276,14 @@ $characterParts['hair'][7]['color'][6]='i/character/Hair/MedPuffsUp/MedPuffsUpRe
 
 
 $characterParts['hair'][8][0][3]['size']=[];
-$characterParts['hair'][8][0][3]['width']=145;
+$characterParts['hair'][8][0][3]['width']=147;
 $characterParts['hair'][8][0][3]['padding-top']=0;
 $characterParts['hair'][8][0][3]['padding-bottom']=529;
 $characterParts['hair'][8][0][3]['padding-left']=-462.8;
 $characterParts['hair'][8][0][3]['padding-right']=0;
 
 $characterParts['hair'][8][1][3]['size']=[];
-$characterParts['hair'][8][1][3]['width']=145;
+$characterParts['hair'][8][1][3]['width']=147;
 $characterParts['hair'][8][1][3]['padding-top']=0;
 $characterParts['hair'][8][1][3]['padding-bottom']=529;
 $characterParts['hair'][8][1][3]['padding-left']=-462.8;
@@ -304,17 +304,17 @@ $characterParts['hair'][8]['color'][6]='i/character/Hair/MedSpikey/MedSpikeyHair
 
 
 $characterParts['hair'][9][0][3]['size']=[];
-$characterParts['hair'][9][0][3]['width']=135;
+$characterParts['hair'][9][0][3]['width']=132;
 $characterParts['hair'][9][0][3]['padding-top']=0;
 $characterParts['hair'][9][0][3]['padding-bottom']=528;
-$characterParts['hair'][9][0][3]['padding-left']=-456;
+$characterParts['hair'][9][0][3]['padding-left']=-453;
 $characterParts['hair'][9][0][3]['padding-right']=0;
 
 $characterParts['hair'][9][1][3]['size']=[];
-$characterParts['hair'][9][1][3]['width']=135;
+$characterParts['hair'][9][1][3]['width']=132;
 $characterParts['hair'][9][1][3]['padding-top']=0;
 $characterParts['hair'][9][1][3]['padding-bottom']=528;
-$characterParts['hair'][9][1][3]['padding-left']=-456;
+$characterParts['hair'][9][1][3]['padding-left']=-453;
 $characterParts['hair'][9][1][3]['padding-right']=0;
 
 
@@ -332,17 +332,17 @@ $characterParts['hair'][9]['color'][6]='i/character/Hair/ShortCurlyHair/ShortCur
 
 
 $characterParts['hair'][10][0][3]['size']=[];
-$characterParts['hair'][10][0][3]['width']=118;
+$characterParts['hair'][10][0][3]['width']=117.5;
 $characterParts['hair'][10][0][3]['padding-top']=0;
 $characterParts['hair'][10][0][3]['padding-bottom']=534.5;
-$characterParts['hair'][10][0][3]['padding-left']=-441.8;
+$characterParts['hair'][10][0][3]['padding-left']=-441;
 $characterParts['hair'][10][0][3]['padding-right']=0;
 
 $characterParts['hair'][10][1][3]['size']=[];
-$characterParts['hair'][10][1][3]['width']=118;
+$characterParts['hair'][10][1][3]['width']=117.5;
 $characterParts['hair'][10][1][3]['padding-top']=0;
 $characterParts['hair'][10][1][3]['padding-bottom']=534.5;
-$characterParts['hair'][10][1][3]['padding-left']=-441.8;
+$characterParts['hair'][10][1][3]['padding-left']=-441;
 $characterParts['hair'][10][1][3]['padding-right']=0;
 
 
@@ -361,17 +361,17 @@ $characterParts['hair'][10]['color'][6]='i/character/Hair/ShortHair/ShorthairRed
 
 
 $characterParts['hair'][11][0][3]['size']=[];
-$characterParts['hair'][11][0][3]['width']=136;
+$characterParts['hair'][11][0][3]['width']=133.5;
 $characterParts['hair'][11][0][3]['padding-top']=0;
-$characterParts['hair'][11][0][3]['padding-bottom']=523.2;
-$characterParts['hair'][11][0][3]['padding-left']=-452.5;
+$characterParts['hair'][11][0][3]['padding-bottom']=523;
+$characterParts['hair'][11][0][3]['padding-left']=-450;
 $characterParts['hair'][11][0][3]['padding-right']=0;
 
 $characterParts['hair'][11][1][3]['size']=[];
-$characterParts['hair'][11][1][3]['width']=136;
+$characterParts['hair'][11][1][3]['width']=133.5;
 $characterParts['hair'][11][1][3]['padding-top']=0;
-$characterParts['hair'][11][1][3]['padding-bottom']=523.2;
-$characterParts['hair'][11][1][3]['padding-left']=-452.5;
+$characterParts['hair'][11][1][3]['padding-bottom']=523;
+$characterParts['hair'][11][1][3]['padding-left']=-450;
 $characterParts['hair'][11][1][3]['padding-right']=0;
 
 
@@ -389,18 +389,18 @@ $characterParts['hair'][11]['color'][6]='i/character/Hair/ShortHairWavy/Shorthai
 
 
 $characterParts['hair'][12][0][3]['size']=[];
-$characterParts['hair'][12][0][3]['width']=155;
+$characterParts['hair'][12][0][3]['width']=151;
 $characterParts['hair'][12][0][3]['padding-top']=0;
-$characterParts['hair'][12][0][3]['padding-bottom']=531.5;
-$characterParts['hair'][12][0][3]['padding-left']=-463.4;
+$characterParts['hair'][12][0][3]['padding-bottom']=533.3;
+$characterParts['hair'][12][0][3]['padding-left']=-459.6;
 $characterParts['hair'][12][0][3]['padding-right']=0;
 
 
 $characterParts['hair'][12][1][3]['size']=[];
-$characterParts['hair'][12][1][3]['width']=155;
+$characterParts['hair'][12][1][3]['width']=151;
 $characterParts['hair'][12][1][3]['padding-top']=0;
-$characterParts['hair'][12][1][3]['padding-bottom']=531.5;
-$characterParts['hair'][12][1][3]['padding-left']=-463.4;
+$characterParts['hair'][12][1][3]['padding-bottom']=533.3;
+$characterParts['hair'][12][1][3]['padding-left']=-459.6;
 $characterParts['hair'][12][1][3]['padding-right']=0;
 
 
@@ -422,10 +422,10 @@ $characterParts['hair'][12]['color'][6]='i/character/Hair/ShortSpikeyHair/ShortS
 $characterParts['eyes'][0][0][0][3]['width']=80;
 $characterParts['eyes'][0][0][0][3]['padding-top']=0;
 $characterParts['eyes'][0][0][0][3]['padding-bottom']=500;
-$characterParts['eyes'][0][0][0][3]['padding-left']=-100.5;
+$characterParts['eyes'][0][0][0][3]['padding-left']=-98.5;
 $characterParts['eyes'][0][0][0][3]['padding-right']=0;
 
-$characterParts['eyes'][1][0][0][3]['width']=80;
+$characterParts['eyes'][1][0][0][3]['width']=85;
 $characterParts['eyes'][1][0][0][3]['padding-top']=0;
 $characterParts['eyes'][1][0][0][3]['padding-bottom']=502;
 $characterParts['eyes'][1][0][0][3]['padding-left']=-100.5;
@@ -435,10 +435,10 @@ $characterParts['eyes'][1][0][0][3]['padding-right']=0;
 $characterParts['eyes'][0][0][1][3]['width']=80;
 $characterParts['eyes'][0][0][1][3]['padding-top']=0;
 $characterParts['eyes'][0][0][1][3]['padding-bottom']=500;
-$characterParts['eyes'][0][0][1][3]['padding-left']=-100.5;
+$characterParts['eyes'][0][0][1][3]['padding-left']=-98.5;
 $characterParts['eyes'][0][0][1][3]['padding-right']=0;
 
-$characterParts['eyes'][1][0][1][3]['width']=80;
+$characterParts['eyes'][1][0][1][3]['width']=85;
 $characterParts['eyes'][1][0][1][3]['padding-top']=0;
 $characterParts['eyes'][1][0][1][3]['padding-bottom']=502;
 $characterParts['eyes'][1][0][1][3]['padding-left']=-100.5;
@@ -531,54 +531,54 @@ $characterParts['eyes'][1][3][1][3]['padding-right']=0;
 /*hair 4*/
 $characterParts['eyes'][0][4][0][3]['width']=78;
 $characterParts['eyes'][0][4][0][3]['padding-top']=0;
-$characterParts['eyes'][0][4][0][3]['padding-bottom']=500;
-$characterParts['eyes'][0][4][0][3]['padding-left']=-119.5;
+$characterParts['eyes'][0][4][0][3]['padding-bottom']=503;
+$characterParts['eyes'][0][4][0][3]['padding-left']=-120.5;
 $characterParts['eyes'][0][4][0][3]['padding-right']=0;
 
-$characterParts['eyes'][1][4][0][3]['width']=78;
+$characterParts['eyes'][1][4][0][3]['width']=85;
 $characterParts['eyes'][1][4][0][3]['padding-top']=0;
 $characterParts['eyes'][1][4][0][3]['padding-bottom']=502;
-$characterParts['eyes'][1][4][0][3]['padding-left']=-119.5;
+$characterParts['eyes'][1][4][0][3]['padding-left']=-126.5;
 $characterParts['eyes'][1][4][0][3]['padding-right']=0;
 
 
 
 $characterParts['eyes'][0][4][1][3]['width']=78;
 $characterParts['eyes'][0][4][1][3]['padding-top']=0;
-$characterParts['eyes'][0][4][1][3]['padding-bottom']=500;
-$characterParts['eyes'][0][4][1][3]['padding-left']=-119.5;
+$characterParts['eyes'][0][4][1][3]['padding-bottom']=503;
+$characterParts['eyes'][0][4][1][3]['padding-left']=-120.5;
 $characterParts['eyes'][0][4][1][3]['padding-right']=0;
 
-$characterParts['eyes'][1][4][1][3]['width']=78;
+$characterParts['eyes'][1][4][1][3]['width']=85;
 $characterParts['eyes'][1][4][1][3]['padding-top']=0;
 $characterParts['eyes'][1][4][1][3]['padding-bottom']=502;
-$characterParts['eyes'][1][4][1][3]['padding-left']=-119.5;
+$characterParts['eyes'][1][4][1][3]['padding-left']=-126.5;
 $characterParts['eyes'][1][4][1][3]['padding-right']=0;
 
 /*hair 5*/
-$characterParts['eyes'][0][5][0][3]['width']=75;
+$characterParts['eyes'][0][5][0][3]['width']=77;
 $characterParts['eyes'][0][5][0][3]['padding-top']=0;
 $characterParts['eyes'][0][5][0][3]['padding-bottom']=505;
 $characterParts['eyes'][0][5][0][3]['padding-left']=-132.5;
 $characterParts['eyes'][0][5][0][3]['padding-right']=0;
 
-$characterParts['eyes'][1][5][0][3]['width']=75;
+$characterParts['eyes'][1][5][0][3]['width']=80;
 $characterParts['eyes'][1][5][0][3]['padding-top']=0;
-$characterParts['eyes'][1][5][0][3]['padding-bottom']=507;
-$characterParts['eyes'][1][5][0][3]['padding-left']=-132.5;
+$characterParts['eyes'][1][5][0][3]['padding-bottom']=505;
+$characterParts['eyes'][1][5][0][3]['padding-left']=-134.5;
 $characterParts['eyes'][1][5][0][3]['padding-right']=0;
 
 
-$characterParts['eyes'][0][5][1][3]['width']=75;
+$characterParts['eyes'][0][5][1][3]['width']=77;
 $characterParts['eyes'][0][5][1][3]['padding-top']=0;
 $characterParts['eyes'][0][5][1][3]['padding-bottom']=505;
 $characterParts['eyes'][0][5][1][3]['padding-left']=-132.5;
 $characterParts['eyes'][0][5][1][3]['padding-right']=0;
 
-$characterParts['eyes'][1][5][1][3]['width']=75;
+$characterParts['eyes'][1][5][1][3]['width']=80;
 $characterParts['eyes'][1][5][1][3]['padding-top']=0;
-$characterParts['eyes'][1][5][1][3]['padding-bottom']=507;
-$characterParts['eyes'][1][5][1][3]['padding-left']=-132.5;
+$characterParts['eyes'][1][5][1][3]['padding-bottom']=505;
+$characterParts['eyes'][1][5][1][3]['padding-left']=-134.5;
 $characterParts['eyes'][1][5][1][3]['padding-right']=0;
 
 
@@ -590,10 +590,10 @@ $characterParts['eyes'][0][6][0][3]['padding-bottom']=501;
 $characterParts['eyes'][0][6][0][3]['padding-left']=-145.5;
 $characterParts['eyes'][0][6][0][3]['padding-right']=0;
 
-$characterParts['eyes'][1][6][0][3]['width']=80;
+$characterParts['eyes'][1][6][0][3]['width']=85;
 $characterParts['eyes'][1][6][0][3]['padding-top']=0;
 $characterParts['eyes'][1][6][0][3]['padding-bottom']=503;
-$characterParts['eyes'][1][6][0][3]['padding-left']=-145.5;
+$characterParts['eyes'][1][6][0][3]['padding-left']=-147.5;
 $characterParts['eyes'][1][6][0][3]['padding-right']=0;
 
 
@@ -603,10 +603,10 @@ $characterParts['eyes'][0][6][1][3]['padding-bottom']=501;
 $characterParts['eyes'][0][6][1][3]['padding-left']=-145.5;
 $characterParts['eyes'][0][6][1][3]['padding-right']=0;
 
-$characterParts['eyes'][1][6][1][3]['width']=80;
+$characterParts['eyes'][1][6][1][3]['width']=85;
 $characterParts['eyes'][1][6][1][3]['padding-top']=0;
 $characterParts['eyes'][1][6][1][3]['padding-bottom']=503;
-$characterParts['eyes'][1][6][1][3]['padding-left']=-145.5;
+$characterParts['eyes'][1][6][1][3]['padding-left']=-147.5;
 $characterParts['eyes'][1][6][1][3]['padding-right']=0;
 
 
@@ -754,26 +754,26 @@ $characterParts['eyes'][1][11][1][3]['padding-right']=0;
 $characterParts['eyes'][0][12][0][3]['width']=85;
 $characterParts['eyes'][0][12][0][3]['padding-top']=0;
 $characterParts['eyes'][0][12][0][3]['padding-bottom']=499;
-$characterParts['eyes'][0][12][0][3]['padding-left']=-122.5;
+$characterParts['eyes'][0][12][0][3]['padding-left']=-120;
 $characterParts['eyes'][0][12][0][3]['padding-right']=0;
 
 $characterParts['eyes'][1][12][0][3]['width']=85;
 $characterParts['eyes'][1][12][0][3]['padding-top']=0;
 $characterParts['eyes'][1][12][0][3]['padding-bottom']=501;
-$characterParts['eyes'][1][12][0][3]['padding-left']=-123.5;
+$characterParts['eyes'][1][12][0][3]['padding-left']=-120;
 $characterParts['eyes'][1][12][0][3]['padding-right']=0;
 
 
 $characterParts['eyes'][0][12][1][3]['width']=85;
 $characterParts['eyes'][0][12][1][3]['padding-top']=0;
 $characterParts['eyes'][0][12][1][3]['padding-bottom']=499;
-$characterParts['eyes'][0][12][1][3]['padding-left']=-122.5;
+$characterParts['eyes'][0][12][1][3]['padding-left']=-120;
 $characterParts['eyes'][0][12][1][3]['padding-right']=0;
 
 $characterParts['eyes'][1][12][1][3]['width']=85;
 $characterParts['eyes'][1][12][1][3]['padding-top']=0;
 $characterParts['eyes'][1][12][1][3]['padding-bottom']=501;
-$characterParts['eyes'][1][12][1][3]['padding-left']=-123.5;
+$characterParts['eyes'][1][12][1][3]['padding-left']=-120;
 $characterParts['eyes'][1][12][1][3]['padding-right']=0;
 
 
@@ -815,132 +815,208 @@ $characterParts['eyes'][1]['color'][4]='i/character/Eyes/EyesEyelashes/2EyesHaze
 
 
 
-// glasses[body][hair][page] 
+// glasses[body][hair][eyes][page] 
 
 
 
-$characterParts['glasses'][0][3]['width']=114;
-$characterParts['glasses'][0][3]['height']=0;
-$characterParts['glasses'][0][3]['padding-top']=0;
-$characterParts['glasses'][0][3]['padding-bottom']=517.5;
-$characterParts['glasses'][0][3]['padding-left']=-100.5;
-$characterParts['glasses'][0][3]['padding-right']=0;
+$characterParts['glasses'][0][0][3]['width']=114;
+$characterParts['glasses'][0][0][3]['height']=0;
+$characterParts['glasses'][0][0][3]['padding-top']=0;
+$characterParts['glasses'][0][0][3]['padding-bottom']=517.5;
+$characterParts['glasses'][0][0][3]['padding-left']=-100.5;
+$characterParts['glasses'][0][0][3]['padding-right']=0;
+
+$characterParts['glasses'][0][1][3]['width']=114;
+$characterParts['glasses'][0][1][3]['height']=0;
+$characterParts['glasses'][0][1][3]['padding-top']=0;
+$characterParts['glasses'][0][1][3]['padding-bottom']=517.5;
+$characterParts['glasses'][0][1][3]['padding-left']=-104.5;
+$characterParts['glasses'][0][1][3]['padding-right']=0;
+
+// glasses[body][hair][eyes][page] 
+$characterParts['glasses'][1][0][3]['width']=114;
+$characterParts['glasses'][1][0][3]['height']=0;
+$characterParts['glasses'][1][0][3]['padding-top']=0;
+$characterParts['glasses'][1][0][3]['padding-bottom']=525.5;
+$characterParts['glasses'][1][0][3]['padding-left']=-105.5;
+$characterParts['glasses'][1][0][3]['padding-right']=0;
 
 
+$characterParts['glasses'][1][1][3]['width']=114;
+$characterParts['glasses'][1][1][3]['height']=0;
+$characterParts['glasses'][1][1][3]['padding-top']=0;
+$characterParts['glasses'][1][1][3]['padding-bottom']=525.5;
+$characterParts['glasses'][1][1][3]['padding-left']=-105.5;
+$characterParts['glasses'][1][1][3]['padding-right']=0;
+
+// glasses[body][hair][eyes][page] 
+$characterParts['glasses'][2][0][3]['width']=116;
+$characterParts['glasses'][2][0][3]['height']=0;
+$characterParts['glasses'][2][0][3]['padding-top']=0;
+$characterParts['glasses'][2][0][3]['padding-bottom']=517.5;
+$characterParts['glasses'][2][0][3]['padding-left']=-104;
+$characterParts['glasses'][2][0][3]['padding-right']=0;
+
+$characterParts['glasses'][2][1][3]['width']=116;
+$characterParts['glasses'][2][1][3]['height']=0;
+$characterParts['glasses'][2][1][3]['padding-top']=0;
+$characterParts['glasses'][2][1][3]['padding-bottom']=517.5;
+$characterParts['glasses'][2][1][3]['padding-left']=-104;
+$characterParts['glasses'][2][1][3]['padding-right']=0;
+
+// glasses[body][hair][eyes][page] 
+$characterParts['glasses'][3][0][3]['width']=114;
+$characterParts['glasses'][3][0][3]['height']=0;
+$characterParts['glasses'][3][0][3]['padding-top']=0;
+$characterParts['glasses'][3][0][3]['padding-bottom']=515.5;
+$characterParts['glasses'][3][0][3]['padding-left']=-100.5;
+$characterParts['glasses'][3][0][3]['padding-right']=0;
+
+$characterParts['glasses'][3][1][3]['width']=114;
+$characterParts['glasses'][3][1][3]['height']=0;
+$characterParts['glasses'][3][1][3]['padding-top']=0;
+$characterParts['glasses'][3][1][3]['padding-bottom']=515.5;
+$characterParts['glasses'][3][1][3]['padding-left']=-100.5;
+$characterParts['glasses'][3][1][3]['padding-right']=0;
+
+// glasses[body][hair][eyes][page] 
+$characterParts['glasses'][4][0][3]['width']=114;
+$characterParts['glasses'][4][0][3]['height']=0;
+$characterParts['glasses'][4][0][3]['padding-top']=0;
+$characterParts['glasses'][4][0][3]['padding-bottom']=517.5;
+$characterParts['glasses'][4][0][3]['padding-left']=-100.5;
+$characterParts['glasses'][4][0][3]['padding-right']=0;
+
+$characterParts['glasses'][4][1][3]['width']=114;
+$characterParts['glasses'][4][1][3]['height']=0;
+$characterParts['glasses'][4][1][3]['padding-top']=0;
+$characterParts['glasses'][4][1][3]['padding-bottom']=517.5;
+$characterParts['glasses'][4][1][3]['padding-left']=-102.5;
+$characterParts['glasses'][4][1][3]['padding-right']=0;
+
+// glasses[body][hair][eyes][page] 
+$characterParts['glasses'][5][0][3]['width']=114;
+$characterParts['glasses'][5][0][3]['height']=0;
+$characterParts['glasses'][5][0][3]['padding-top']=0;
+$characterParts['glasses'][5][0][3]['padding-bottom']=517.5;
+$characterParts['glasses'][5][0][3]['padding-left']=-98.5;
+$characterParts['glasses'][5][0][3]['padding-right']=0;
+
+$characterParts['glasses'][5][1][3]['width']=114;
+$characterParts['glasses'][5][1][3]['height']=0;
+$characterParts['glasses'][5][1][3]['padding-top']=0;
+$characterParts['glasses'][5][1][3]['padding-bottom']=517.5;
+$characterParts['glasses'][5][1][3]['padding-left']=-100;
+$characterParts['glasses'][5][1][3]['padding-right']=0;
+
+// glasses[body][hair][eyes][page] 
+$characterParts['glasses'][6][0][3]['width']=114;
+$characterParts['glasses'][6][0][3]['height']=0;
+$characterParts['glasses'][6][0][3]['padding-top']=0;
+$characterParts['glasses'][6][0][3]['padding-bottom']=517.5;
+$characterParts['glasses'][6][0][3]['padding-left']=-100.5;
+$characterParts['glasses'][6][0][3]['padding-right']=0;
+
+$characterParts['glasses'][6][1][3]['width']=114;
+$characterParts['glasses'][6][1][3]['height']=0;
+$characterParts['glasses'][6][1][3]['padding-top']=0;
+$characterParts['glasses'][6][1][3]['padding-bottom']=517.5;
+$characterParts['glasses'][6][1][3]['padding-left']=-102.5;
+$characterParts['glasses'][6][1][3]['padding-right']=0;
 
 
-$characterParts['glasses'][1][3]['width']=114;
-$characterParts['glasses'][1][3]['height']=0;
-$characterParts['glasses'][1][3]['padding-top']=0;
-$characterParts['glasses'][1][3]['padding-bottom']=525.5;
-$characterParts['glasses'][1][3]['padding-left']=-105.5;
-$characterParts['glasses'][1][3]['padding-right']=0;
+// glasses[body][hair][eyes][page] 
+$characterParts['glasses'][7][0][3]['width']=116;
+$characterParts['glasses'][7][0][3]['height']=0;
+$characterParts['glasses'][7][0][3]['padding-top']=0;
+$characterParts['glasses'][7][0][3]['padding-bottom']=516.5;
+$characterParts['glasses'][7][0][3]['padding-left']=-103;
+$characterParts['glasses'][7][0][3]['padding-right']=0;
+
+$characterParts['glasses'][7][1][3]['width']=116;
+$characterParts['glasses'][7][1][3]['height']=0;
+$characterParts['glasses'][7][1][3]['padding-top']=0;
+$characterParts['glasses'][7][1][3]['padding-bottom']=516;
+$characterParts['glasses'][7][1][3]['padding-left']=-103;
+$characterParts['glasses'][7][1][3]['padding-right']=0;
+
+// glasses[body][hair][eyes][page] 
+$characterParts['glasses'][8][0][3]['width']=117;
+$characterParts['glasses'][8][0][3]['height']=0;
+$characterParts['glasses'][8][0][3]['padding-top']=0;
+$characterParts['glasses'][8][0][3]['padding-bottom']=517.5;
+$characterParts['glasses'][8][0][3]['padding-left']=-105;
+$characterParts['glasses'][8][0][3]['padding-right']=0;
+
+$characterParts['glasses'][8][1][3]['width']=116;
+$characterParts['glasses'][8][1][3]['height']=0;
+$characterParts['glasses'][8][1][3]['padding-top']=0;
+$characterParts['glasses'][8][1][3]['padding-bottom']=517.5;
+$characterParts['glasses'][8][1][3]['padding-left']=-110;
+$characterParts['glasses'][8][1][3]['padding-right']=0;
+
+// glasses[body][hair][eyes][page] 
+$characterParts['glasses'][9][0][3]['width']=116;
+$characterParts['glasses'][9][0][3]['height']=0;
+$characterParts['glasses'][9][0][3]['padding-top']=0;
+$characterParts['glasses'][9][0][3]['padding-bottom']=517.5;
+$characterParts['glasses'][9][0][3]['padding-left']=-105.5;
+$characterParts['glasses'][9][0][3]['padding-right']=0;
+
+$characterParts['glasses'][9][1][3]['width']=116;
+$characterParts['glasses'][9][1][3]['height']=0;
+$characterParts['glasses'][9][1][3]['padding-top']=0;
+$characterParts['glasses'][9][1][3]['padding-bottom']=517.5;
+$characterParts['glasses'][9][1][3]['padding-left']=-105.5;
+$characterParts['glasses'][9][1][3]['padding-right']=0;
+
+// glasses[body][hair][eyes][page] 
+$characterParts['glasses'][10][0][3]['width']=116;
+$characterParts['glasses'][10][0][3]['height']=0;
+$characterParts['glasses'][10][0][3]['padding-top']=0;
+$characterParts['glasses'][10][0][3]['padding-bottom']=517.5;
+$characterParts['glasses'][10][0][3]['padding-left']=-105.5;
+$characterParts['glasses'][10][0][3]['padding-right']=0;
 
 
+$characterParts['glasses'][10][1][3]['width']=116;
+$characterParts['glasses'][10][1][3]['height']=0;
+$characterParts['glasses'][10][1][3]['padding-top']=0;
+$characterParts['glasses'][10][1][3]['padding-bottom']=517.5;
+$characterParts['glasses'][10][1][3]['padding-left']=-105.5;
+$characterParts['glasses'][10][1][3]['padding-right']=0;
 
-$characterParts['glasses'][2][3]['width']=114;
-$characterParts['glasses'][2][3]['height']=0;
-$characterParts['glasses'][2][3]['padding-top']=0;
-$characterParts['glasses'][2][3]['padding-bottom']=517.5;
-$characterParts['glasses'][2][3]['padding-left']=-105.5;
-$characterParts['glasses'][2][3]['padding-right']=0;
+// glasses[body][hair][eyes][page] 
 
+$characterParts['glasses'][11][0][3]['width']=116;
+$characterParts['glasses'][11][0][3]['height']=0;
+$characterParts['glasses'][11][0][3]['padding-top']=0;
+$characterParts['glasses'][11][0][3]['padding-bottom']=517.5;
+$characterParts['glasses'][11][0][3]['padding-left']=-105.5;
+$characterParts['glasses'][11][0][3]['padding-right']=0;
 
+$characterParts['glasses'][11][1][3]['width']=114;
+$characterParts['glasses'][11][1][3]['height']=0;
+$characterParts['glasses'][11][1][3]['padding-top']=0;
+$characterParts['glasses'][11][1][3]['padding-bottom']=517.5;
+$characterParts['glasses'][11][1][3]['padding-left']=-103;
+$characterParts['glasses'][11][1][3]['padding-right']=0;
 
+// glasses[body][hair][eyes][page] 
 
-$characterParts['glasses'][3][3]['width']=114;
-$characterParts['glasses'][3][3]['height']=0;
-$characterParts['glasses'][3][3]['padding-top']=0;
-$characterParts['glasses'][3][3]['padding-bottom']=515.5;
-$characterParts['glasses'][3][3]['padding-left']=-100.5;
-$characterParts['glasses'][3][3]['padding-right']=0;
+$characterParts['glasses'][12][0][3]['width']=114;
+$characterParts['glasses'][12][0][3]['height']=0;
+$characterParts['glasses'][12][0][3]['padding-top']=0;
+$characterParts['glasses'][12][0][3]['padding-bottom']=517.5;
+$characterParts['glasses'][12][0][3]['padding-left']=-103.5;
+$characterParts['glasses'][12][0][3]['padding-right']=0;
 
-
-
-$characterParts['glasses'][4][3]['width']=114;
-$characterParts['glasses'][4][3]['height']=0;
-$characterParts['glasses'][4][3]['padding-top']=0;
-$characterParts['glasses'][4][3]['padding-bottom']=517.5;
-$characterParts['glasses'][4][3]['padding-left']=-100.5;
-$characterParts['glasses'][4][3]['padding-right']=0;
-
-
-
-
-$characterParts['glasses'][5][3]['width']=114;
-$characterParts['glasses'][5][3]['height']=0;
-$characterParts['glasses'][5][3]['padding-top']=0;
-$characterParts['glasses'][5][3]['padding-bottom']=517.5;
-$characterParts['glasses'][5][3]['padding-left']=-95.5;
-$characterParts['glasses'][5][3]['padding-right']=0;
-
-
-
-
-$characterParts['glasses'][6][3]['width']=114;
-$characterParts['glasses'][6][3]['height']=0;
-$characterParts['glasses'][6][3]['padding-top']=0;
-$characterParts['glasses'][6][3]['padding-bottom']=517.5;
-$characterParts['glasses'][6][3]['padding-left']=-100.5;
-$characterParts['glasses'][6][3]['padding-right']=0;
-
-
-
-
-$characterParts['glasses'][7][3]['width']=114;
-$characterParts['glasses'][7][3]['height']=0;
-$characterParts['glasses'][7][3]['padding-top']=0;
-$characterParts['glasses'][7][3]['padding-bottom']=517.5;
-$characterParts['glasses'][7][3]['padding-left']=-105.5;
-$characterParts['glasses'][7][3]['padding-right']=0;
-
-
-
-
-$characterParts['glasses'][8][3]['width']=114;
-$characterParts['glasses'][8][3]['height']=0;
-$characterParts['glasses'][8][3]['padding-top']=0;
-$characterParts['glasses'][8][3]['padding-bottom']=517.5;
-$characterParts['glasses'][8][3]['padding-left']=-105.5;
-$characterParts['glasses'][8][3]['padding-right']=0;
-
-
-
-
-$characterParts['glasses'][9][3]['width']=114;
-$characterParts['glasses'][9][3]['height']=0;
-$characterParts['glasses'][9][3]['padding-top']=0;
-$characterParts['glasses'][9][3]['padding-bottom']=517.5;
-$characterParts['glasses'][9][3]['padding-left']=-105.5;
-$characterParts['glasses'][9][3]['padding-right']=0;
-
-
-
-$characterParts['glasses'][10][3]['width']=114;
-$characterParts['glasses'][10][3]['height']=0;
-$characterParts['glasses'][10][3]['padding-top']=0;
-$characterParts['glasses'][10][3]['padding-bottom']=517.5;
-$characterParts['glasses'][10][3]['padding-left']=-105.5;
-$characterParts['glasses'][10][3]['padding-right']=0;
-
-
-
-$characterParts['glasses'][11][3]['width']=114;
-$characterParts['glasses'][11][3]['height']=0;
-$characterParts['glasses'][11][3]['padding-top']=0;
-$characterParts['glasses'][11][3]['padding-bottom']=517.5;
-$characterParts['glasses'][11][3]['padding-left']=-105.5;
-$characterParts['glasses'][11][3]['padding-right']=0;
-
-
-$characterParts['glasses'][12][3]['width']=114;
-$characterParts['glasses'][12][3]['height']=0;
-$characterParts['glasses'][12][3]['padding-top']=0;
-$characterParts['glasses'][12][3]['padding-bottom']=517.5;
-$characterParts['glasses'][12][3]['padding-left']=-103.5;
-$characterParts['glasses'][12][3]['padding-right']=0;
-
-
+$characterParts['glasses'][12][1][3]['width']=114;
+$characterParts['glasses'][12][1][3]['height']=0;
+$characterParts['glasses'][12][1][3]['padding-top']=0;
+$characterParts['glasses'][12][1][3]['padding-bottom']=517.5;
+$characterParts['glasses'][12][1][3]['padding-left']=-103.5;
+$characterParts['glasses'][12][1][3]['padding-right']=0;
 
 
 
@@ -971,95 +1047,95 @@ $characterParts['glasses'][12][3]['padding-right']=0;
 
 /*no glasses with body 0*/
 
-$characterParts['freckles'][0][0][3]['width']=113;
+$characterParts['freckles'][0][0][3]['width']=120;
 $characterParts['freckles'][0][0][3]['height']=0;
 $characterParts['freckles'][0][0][3]['padding-top']=0;
 $characterParts['freckles'][0][0][3]['padding-bottom']=490;
-$characterParts['freckles'][0][0][3]['padding-left']=-100;
+$characterParts['freckles'][0][0][3]['padding-left']=-104;
 $characterParts['freckles'][0][0][3]['padding-right']=0;
 
-$characterParts['freckles'][1][0][3]['width']=113;
+$characterParts['freckles'][1][0][3]['width']=120;
 $characterParts['freckles'][1][0][3]['height']=0;
 $characterParts['freckles'][1][0][3]['padding-top']=0;
-$characterParts['freckles'][1][0][3]['padding-bottom']=490;
-$characterParts['freckles'][1][0][3]['padding-left']=-100;
+$characterParts['freckles'][1][0][3]['padding-bottom']=496;
+$characterParts['freckles'][1][0][3]['padding-left']=-106;
 $characterParts['freckles'][1][0][3]['padding-right']=0;
 
-$characterParts['freckles'][2][0][3]['width']=113;
+$characterParts['freckles'][2][0][3]['width']=120;
 $characterParts['freckles'][2][0][3]['height']=0;
 $characterParts['freckles'][2][0][3]['padding-top']=0;
 $characterParts['freckles'][2][0][3]['padding-bottom']=490;
-$characterParts['freckles'][2][0][3]['padding-left']=-100;
+$characterParts['freckles'][2][0][3]['padding-left']=-104;
 $characterParts['freckles'][2][0][3]['padding-right']=0;
 
-$characterParts['freckles'][3][0][3]['width']=113;
+$characterParts['freckles'][3][0][3]['width']=120;
 $characterParts['freckles'][3][0][3]['height']=0;
 $characterParts['freckles'][3][0][3]['padding-top']=0;
 $characterParts['freckles'][3][0][3]['padding-bottom']=490;
-$characterParts['freckles'][3][0][3]['padding-left']=-100;
+$characterParts['freckles'][3][0][3]['padding-left']=-104;
 $characterParts['freckles'][3][0][3]['padding-right']=0;
 
-$characterParts['freckles'][4][0][3]['width']=113;
+$characterParts['freckles'][4][0][3]['width']=120;
 $characterParts['freckles'][4][0][3]['height']=0;
 $characterParts['freckles'][4][0][3]['padding-top']=0;
 $characterParts['freckles'][4][0][3]['padding-bottom']=490;
-$characterParts['freckles'][4][0][3]['padding-left']=-100;
+$characterParts['freckles'][4][0][3]['padding-left']=-104;
 $characterParts['freckles'][4][0][3]['padding-right']=0;
 
-$characterParts['freckles'][5][0][3]['width']=113;
+$characterParts['freckles'][5][0][3]['width']=120;
 $characterParts['freckles'][5][0][3]['height']=0;
 $characterParts['freckles'][5][0][3]['padding-top']=0;
 $characterParts['freckles'][5][0][3]['padding-bottom']=490;
-$characterParts['freckles'][5][0][3]['padding-left']=-100;
+$characterParts['freckles'][5][0][3]['padding-left']=-104;
 $characterParts['freckles'][5][0][3]['padding-right']=0;
 
-$characterParts['freckles'][6][0][3]['width']=113;
+$characterParts['freckles'][6][0][3]['width']=120;
 $characterParts['freckles'][6][0][3]['height']=0;
 $characterParts['freckles'][6][0][3]['padding-top']=0;
 $characterParts['freckles'][6][0][3]['padding-bottom']=490;
-$characterParts['freckles'][6][0][3]['padding-left']=-100;
+$characterParts['freckles'][6][0][3]['padding-left']=-104;
 $characterParts['freckles'][6][0][3]['padding-right']=0;
 
-$characterParts['freckles'][7][0][3]['width']=113;
+$characterParts['freckles'][7][0][3]['width']=120;
 $characterParts['freckles'][7][0][3]['height']=0;
 $characterParts['freckles'][7][0][3]['padding-top']=0;
 $characterParts['freckles'][7][0][3]['padding-bottom']=490;
-$characterParts['freckles'][7][0][3]['padding-left']=-100;
+$characterParts['freckles'][7][0][3]['padding-left']=-104;
 $characterParts['freckles'][7][0][3]['padding-right']=0;
 
-$characterParts['freckles'][8][0][3]['width']=113;
+$characterParts['freckles'][8][0][3]['width']=120;
 $characterParts['freckles'][8][0][3]['height']=0;
 $characterParts['freckles'][8][0][3]['padding-top']=0;
 $characterParts['freckles'][8][0][3]['padding-bottom']=490;
-$characterParts['freckles'][8][0][3]['padding-left']=-100;
+$characterParts['freckles'][8][0][3]['padding-left']=-104;
 $characterParts['freckles'][8][0][3]['padding-right']=0;
 
-$characterParts['freckles'][9][0][3]['width']=113;
+$characterParts['freckles'][9][0][3]['width']=120;
 $characterParts['freckles'][9][0][3]['height']=0;
 $characterParts['freckles'][9][0][3]['padding-top']=0;
 $characterParts['freckles'][9][0][3]['padding-bottom']=490;
-$characterParts['freckles'][9][0][3]['padding-left']=-100;
+$characterParts['freckles'][9][0][3]['padding-left']=-104;
 $characterParts['freckles'][9][0][3]['padding-right']=0;
 
-$characterParts['freckles'][10][0][3]['width']=113;
+$characterParts['freckles'][10][0][3]['width']=120;
 $characterParts['freckles'][10][0][3]['height']=0;
 $characterParts['freckles'][10][0][3]['padding-top']=0;
 $characterParts['freckles'][10][0][3]['padding-bottom']=490;
-$characterParts['freckles'][10][0][3]['padding-left']=-100;
+$characterParts['freckles'][10][0][3]['padding-left']=-104;
 $characterParts['freckles'][10][0][3]['padding-right']=0;
 
-$characterParts['freckles'][11][0][3]['width']=113;
+$characterParts['freckles'][11][0][3]['width']=120;
 $characterParts['freckles'][11][0][3]['height']=0;
 $characterParts['freckles'][11][0][3]['padding-top']=0;
 $characterParts['freckles'][11][0][3]['padding-bottom']=490;
-$characterParts['freckles'][11][0][3]['padding-left']=-100;
+$characterParts['freckles'][11][0][3]['padding-left']=-104;
 $characterParts['freckles'][11][0][3]['padding-right']=0;
 
-$characterParts['freckles'][12][0][3]['width']=113;
+$characterParts['freckles'][12][0][3]['width']=120;
 $characterParts['freckles'][12][0][3]['height']=0;
 $characterParts['freckles'][12][0][3]['padding-top']=0;
 $characterParts['freckles'][12][0][3]['padding-bottom']=490;
-$characterParts['freckles'][12][0][3]['padding-left']=-100;
+$characterParts['freckles'][12][0][3]['padding-left']=-104;
 $characterParts['freckles'][12][0][3]['padding-right']=0;
 
 
@@ -1070,6 +1146,8 @@ $characterParts['freckles'][12][0][3]['padding-right']=0;
 
 // glasses[body][hair] [glasses][page] 
 /*yes glasses */
+
+/*glasses ==1*/
 
 $characterParts['freckles'][0][1][3]['width']=115;
 $characterParts['freckles'][0][1][3]['height']=0;
@@ -1165,8 +1243,293 @@ $characterParts['freckles'][12][1][3]['padding-right']=0;
 
 
 
+/*glasses ==2*/
+
+$characterParts['freckles'][0][2][3]['width']=115;
+$characterParts['freckles'][0][2][3]['height']=0;
+$characterParts['freckles'][0][2][3]['padding-top']=0;
+$characterParts['freckles'][0][2][3]['padding-bottom']=490;
+$characterParts['freckles'][0][2][3]['padding-left']=-117;
+$characterParts['freckles'][0][2][3]['padding-right']=0;
+
+$characterParts['freckles'][1][2][3]['width']=115;
+$characterParts['freckles'][1][2][3]['height']=0;
+$characterParts['freckles'][1][2][3]['padding-top']=0;
+$characterParts['freckles'][1][2][3]['padding-bottom']=490;
+$characterParts['freckles'][1][2][3]['padding-left']=-117;
+$characterParts['freckles'][1][2][3]['padding-right']=0;
+
+$characterParts['freckles'][2][2][3]['width']=115;
+$characterParts['freckles'][2][2][3]['height']=0;
+$characterParts['freckles'][2][2][3]['padding-top']=0;
+$characterParts['freckles'][2][2][3]['padding-bottom']=490;
+$characterParts['freckles'][2][2][3]['padding-left']=-117;
+$characterParts['freckles'][2][2][3]['padding-right']=0;
+
+$characterParts['freckles'][3][2][3]['width']=115;
+$characterParts['freckles'][3][2][3]['height']=0;
+$characterParts['freckles'][3][2][3]['padding-top']=0;
+$characterParts['freckles'][3][2][3]['padding-bottom']=490;
+$characterParts['freckles'][3][2][3]['padding-left']=-117;
+$characterParts['freckles'][3][2][3]['padding-right']=0;
+
+$characterParts['freckles'][4][2][3]['width']=115;
+$characterParts['freckles'][4][2][3]['height']=0;
+$characterParts['freckles'][4][2][3]['padding-top']=0;
+$characterParts['freckles'][4][2][3]['padding-bottom']=490;
+$characterParts['freckles'][4][2][3]['padding-left']=-117;
+$characterParts['freckles'][4][2][3]['padding-right']=0;
+
+$characterParts['freckles'][5][2][3]['width']=115;
+$characterParts['freckles'][5][2][3]['height']=0;
+$characterParts['freckles'][5][2][3]['padding-top']=0;
+$characterParts['freckles'][5][2][3]['padding-bottom']=490;
+$characterParts['freckles'][5][2][3]['padding-left']=-117;
+$characterParts['freckles'][5][2][3]['padding-right']=0;
+
+$characterParts['freckles'][6][2][3]['width']=115;
+$characterParts['freckles'][6][2][3]['height']=0;
+$characterParts['freckles'][6][2][3]['padding-top']=0;
+$characterParts['freckles'][6][2][3]['padding-bottom']=490;
+$characterParts['freckles'][6][2][3]['padding-left']=-117;
+$characterParts['freckles'][6][2][3]['padding-right']=0;
+
+$characterParts['freckles'][7][2][3]['width']=115;
+$characterParts['freckles'][7][2][3]['height']=0;
+$characterParts['freckles'][7][2][3]['padding-top']=0;
+$characterParts['freckles'][7][2][3]['padding-bottom']=490;
+$characterParts['freckles'][7][2][3]['padding-left']=-117;
+$characterParts['freckles'][7][2][3]['padding-right']=0;
+
+$characterParts['freckles'][8][2][3]['width']=115;
+$characterParts['freckles'][8][2][3]['height']=0;
+$characterParts['freckles'][8][2][3]['padding-top']=0;
+$characterParts['freckles'][8][2][3]['padding-bottom']=490;
+$characterParts['freckles'][8][2][3]['padding-left']=-117;
+$characterParts['freckles'][8][2][3]['padding-right']=0;
+
+$characterParts['freckles'][9][2][3]['width']=115;
+$characterParts['freckles'][9][2][3]['height']=0;
+$characterParts['freckles'][9][2][3]['padding-top']=0;
+$characterParts['freckles'][9][2][3]['padding-bottom']=490;
+$characterParts['freckles'][9][2][3]['padding-left']=-117;
+$characterParts['freckles'][9][2][3]['padding-right']=0;
+
+$characterParts['freckles'][10][2][3]['width']=115;
+$characterParts['freckles'][10][2][3]['height']=0;
+$characterParts['freckles'][10][2][3]['padding-top']=0;
+$characterParts['freckles'][10][2][3]['padding-bottom']=490;
+$characterParts['freckles'][10][2][3]['padding-left']=-117;
+$characterParts['freckles'][10][2][3]['padding-right']=0;
+
+$characterParts['freckles'][11][2][3]['width']=115;
+$characterParts['freckles'][11][2][3]['height']=0;
+$characterParts['freckles'][11][2][3]['padding-top']=0;
+$characterParts['freckles'][11][2][3]['padding-bottom']=490;
+$characterParts['freckles'][11][2][3]['padding-left']=-117;
+$characterParts['freckles'][11][2][3]['padding-right']=0;
+
+$characterParts['freckles'][12][2][3]['width']=115;
+$characterParts['freckles'][12][2][3]['height']=0;
+$characterParts['freckles'][12][2][3]['padding-top']=0;
+$characterParts['freckles'][12][2][3]['padding-bottom']=490;
+$characterParts['freckles'][12][2][3]['padding-left']=-117;
+$characterParts['freckles'][12][2][3]['padding-right']=0;
 
 
 
 
+
+
+
+/*glasses ==3*/
+
+$characterParts['freckles'][0][3][3]['width']=115;
+$characterParts['freckles'][0][3][3]['height']=0;
+$characterParts['freckles'][0][3][3]['padding-top']=0;
+$characterParts['freckles'][0][3][3]['padding-bottom']=490;
+$characterParts['freckles'][0][3][3]['padding-left']=-117;
+$characterParts['freckles'][0][3][3]['padding-right']=0;
+
+$characterParts['freckles'][1][3][3]['width']=115;
+$characterParts['freckles'][1][3][3]['height']=0;
+$characterParts['freckles'][1][3][3]['padding-top']=0;
+$characterParts['freckles'][1][3][3]['padding-bottom']=490;
+$characterParts['freckles'][1][3][3]['padding-left']=-117;
+$characterParts['freckles'][1][3][3]['padding-right']=0;
+
+$characterParts['freckles'][2][3][3]['width']=115;
+$characterParts['freckles'][2][3][3]['height']=0;
+$characterParts['freckles'][2][3][3]['padding-top']=0;
+$characterParts['freckles'][2][3][3]['padding-bottom']=490;
+$characterParts['freckles'][2][3][3]['padding-left']=-117;
+$characterParts['freckles'][2][3][3]['padding-right']=0;
+
+$characterParts['freckles'][3][3][3]['width']=115;
+$characterParts['freckles'][3][3][3]['height']=0;
+$characterParts['freckles'][3][3][3]['padding-top']=0;
+$characterParts['freckles'][3][3][3]['padding-bottom']=490;
+$characterParts['freckles'][3][3][3]['padding-left']=-117;
+$characterParts['freckles'][3][3][3]['padding-right']=0;
+
+$characterParts['freckles'][4][3][3]['width']=115;
+$characterParts['freckles'][4][3][3]['height']=0;
+$characterParts['freckles'][4][3][3]['padding-top']=0;
+$characterParts['freckles'][4][3][3]['padding-bottom']=490;
+$characterParts['freckles'][4][3][3]['padding-left']=-117;
+$characterParts['freckles'][4][3][3]['padding-right']=0;
+
+$characterParts['freckles'][5][3][3]['width']=115;
+$characterParts['freckles'][5][3][3]['height']=0;
+$characterParts['freckles'][5][3][3]['padding-top']=0;
+$characterParts['freckles'][5][3][3]['padding-bottom']=490;
+$characterParts['freckles'][5][3][3]['padding-left']=-117;
+$characterParts['freckles'][5][3][3]['padding-right']=0;
+
+$characterParts['freckles'][6][3][3]['width']=115;
+$characterParts['freckles'][6][3][3]['height']=0;
+$characterParts['freckles'][6][3][3]['padding-top']=0;
+$characterParts['freckles'][6][3][3]['padding-bottom']=490;
+$characterParts['freckles'][6][3][3]['padding-left']=-117;
+$characterParts['freckles'][6][3][3]['padding-right']=0;
+
+$characterParts['freckles'][7][3][3]['width']=115;
+$characterParts['freckles'][7][3][3]['height']=0;
+$characterParts['freckles'][7][3][3]['padding-top']=0;
+$characterParts['freckles'][7][3][3]['padding-bottom']=490;
+$characterParts['freckles'][7][3][3]['padding-left']=-117;
+$characterParts['freckles'][7][3][3]['padding-right']=0;
+
+$characterParts['freckles'][8][3][3]['width']=115;
+$characterParts['freckles'][8][3][3]['height']=0;
+$characterParts['freckles'][8][3][3]['padding-top']=0;
+$characterParts['freckles'][8][3][3]['padding-bottom']=490;
+$characterParts['freckles'][8][3][3]['padding-left']=-117;
+$characterParts['freckles'][8][3][3]['padding-right']=0;
+
+$characterParts['freckles'][9][3][3]['width']=115;
+$characterParts['freckles'][9][3][3]['height']=0;
+$characterParts['freckles'][9][3][3]['padding-top']=0;
+$characterParts['freckles'][9][3][3]['padding-bottom']=490;
+$characterParts['freckles'][9][3][3]['padding-left']=-117;
+$characterParts['freckles'][9][3][3]['padding-right']=0;
+
+$characterParts['freckles'][10][3][3]['width']=115;
+$characterParts['freckles'][10][3][3]['height']=0;
+$characterParts['freckles'][10][3][3]['padding-top']=0;
+$characterParts['freckles'][10][3][3]['padding-bottom']=490;
+$characterParts['freckles'][10][3][3]['padding-left']=-117;
+$characterParts['freckles'][10][3][3]['padding-right']=0;
+
+$characterParts['freckles'][11][3][3]['width']=115;
+$characterParts['freckles'][11][3][3]['height']=0;
+$characterParts['freckles'][11][3][3]['padding-top']=0;
+$characterParts['freckles'][11][3][3]['padding-bottom']=490;
+$characterParts['freckles'][11][3][3]['padding-left']=-117;
+$characterParts['freckles'][11][3][3]['padding-right']=0;
+
+$characterParts['freckles'][12][3][3]['width']=115;
+$characterParts['freckles'][12][3][3]['height']=0;
+$characterParts['freckles'][12][3][3]['padding-top']=0;
+$characterParts['freckles'][12][3][3]['padding-bottom']=490;
+$characterParts['freckles'][12][3][3]['padding-left']=-117;
+$characterParts['freckles'][12][3][3]['padding-right']=0;
+
+
+
+
+
+
+/*glasses ==4*/
+
+$characterParts['freckles'][0][4][3]['width']=115;
+$characterParts['freckles'][0][4][3]['height']=0;
+$characterParts['freckles'][0][4][3]['padding-top']=0;
+$characterParts['freckles'][0][4][3]['padding-bottom']=490;
+$characterParts['freckles'][0][4][3]['padding-left']=-117;
+$characterParts['freckles'][0][4][3]['padding-right']=0;
+
+$characterParts['freckles'][1][4][3]['width']=115;
+$characterParts['freckles'][1][4][3]['height']=0;
+$characterParts['freckles'][1][4][3]['padding-top']=0;
+$characterParts['freckles'][1][4][3]['padding-bottom']=490;
+$characterParts['freckles'][1][4][3]['padding-left']=-117;
+$characterParts['freckles'][1][4][3]['padding-right']=0;
+
+$characterParts['freckles'][2][4][3]['width']=115;
+$characterParts['freckles'][2][4][3]['height']=0;
+$characterParts['freckles'][2][4][3]['padding-top']=0;
+$characterParts['freckles'][2][4][3]['padding-bottom']=490;
+$characterParts['freckles'][2][4][3]['padding-left']=-117;
+$characterParts['freckles'][2][4][3]['padding-right']=0;
+
+$characterParts['freckles'][3][4][3]['width']=115;
+$characterParts['freckles'][3][4][3]['height']=0;
+$characterParts['freckles'][3][4][3]['padding-top']=0;
+$characterParts['freckles'][3][4][3]['padding-bottom']=490;
+$characterParts['freckles'][3][4][3]['padding-left']=-117;
+$characterParts['freckles'][3][4][3]['padding-right']=0;
+
+$characterParts['freckles'][4][4][3]['width']=115;
+$characterParts['freckles'][4][4][3]['height']=0;
+$characterParts['freckles'][4][4][3]['padding-top']=0;
+$characterParts['freckles'][4][4][3]['padding-bottom']=490;
+$characterParts['freckles'][4][4][3]['padding-left']=-117;
+$characterParts['freckles'][4][4][3]['padding-right']=0;
+
+$characterParts['freckles'][5][4][3]['width']=115;
+$characterParts['freckles'][5][4][3]['height']=0;
+$characterParts['freckles'][5][4][3]['padding-top']=0;
+$characterParts['freckles'][5][4][3]['padding-bottom']=490;
+$characterParts['freckles'][5][4][3]['padding-left']=-117;
+$characterParts['freckles'][5][4][3]['padding-right']=0;
+
+$characterParts['freckles'][6][4][3]['width']=115;
+$characterParts['freckles'][6][4][3]['height']=0;
+$characterParts['freckles'][6][4][3]['padding-top']=0;
+$characterParts['freckles'][6][4][3]['padding-bottom']=490;
+$characterParts['freckles'][6][4][3]['padding-left']=-117;
+$characterParts['freckles'][6][4][3]['padding-right']=0;
+
+$characterParts['freckles'][7][4][3]['width']=115;
+$characterParts['freckles'][7][4][3]['height']=0;
+$characterParts['freckles'][7][4][3]['padding-top']=0;
+$characterParts['freckles'][7][4][3]['padding-bottom']=490;
+$characterParts['freckles'][7][4][3]['padding-left']=-117;
+$characterParts['freckles'][7][4][3]['padding-right']=0;
+
+$characterParts['freckles'][8][4][3]['width']=115;
+$characterParts['freckles'][8][4][3]['height']=0;
+$characterParts['freckles'][8][4][3]['padding-top']=0;
+$characterParts['freckles'][8][4][3]['padding-bottom']=490;
+$characterParts['freckles'][8][4][3]['padding-left']=-117;
+$characterParts['freckles'][8][4][3]['padding-right']=0;
+
+$characterParts['freckles'][9][4][3]['width']=115;
+$characterParts['freckles'][9][4][3]['height']=0;
+$characterParts['freckles'][9][4][3]['padding-top']=0;
+$characterParts['freckles'][9][4][3]['padding-bottom']=490;
+$characterParts['freckles'][9][4][3]['padding-left']=-117;
+$characterParts['freckles'][9][4][3]['padding-right']=0;
+
+$characterParts['freckles'][10][4][3]['width']=115;
+$characterParts['freckles'][10][4][3]['height']=0;
+$characterParts['freckles'][10][4][3]['padding-top']=0;
+$characterParts['freckles'][10][4][3]['padding-bottom']=490;
+$characterParts['freckles'][10][4][3]['padding-left']=-117;
+$characterParts['freckles'][10][4][3]['padding-right']=0;
+
+$characterParts['freckles'][11][4][3]['width']=115;
+$characterParts['freckles'][11][4][3]['height']=0;
+$characterParts['freckles'][11][4][3]['padding-top']=0;
+$characterParts['freckles'][11][4][3]['padding-bottom']=490;
+$characterParts['freckles'][11][4][3]['padding-left']=-117;
+$characterParts['freckles'][11][4][3]['padding-right']=0;
+
+$characterParts['freckles'][12][4][3]['width']=115;
+$characterParts['freckles'][12][4][3]['height']=0;
+$characterParts['freckles'][12][4][3]['padding-top']=0;
+$characterParts['freckles'][12][4][3]['padding-bottom']=490;
+$characterParts['freckles'][12][4][3]['padding-left']=-117;
+$characterParts['freckles'][12][4][3]['padding-right']=0;
 

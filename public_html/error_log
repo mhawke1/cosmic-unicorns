@@ -1,0 +1,839 @@
+[04-Aug-2020 11:18:40 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cosmicu/test.cosmicunicorns.com/public_html/test.php:36) in /home/cosmicu/test.cosmicunicorns.com/public_html/test.php on line 15
+[04-Aug-2020 11:18:52 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, integer given in /home/cosmicu/test.cosmicunicorns.com/public_html/pdfdownload.php on line 33
+[04-Aug-2020 14:51:22 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/public_html/revers-cart.php on line 21
+[04-Aug-2020 14:51:22 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/public_html/revers-cart.php on line 24
+[04-Aug-2020 14:51:37 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/public_html/revers-cart.php on line 21
+[04-Aug-2020 14:51:37 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/public_html/revers-cart.php on line 24
+[04-Aug-2020 14:52:00 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/public_html/revers-cart.php on line 21
+[04-Aug-2020 14:52:00 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/public_html/revers-cart.php on line 24
+[04-Aug-2020 14:55:08 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/public_html/revers-cart.php on line 21
+[04-Aug-2020 14:55:08 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/public_html/revers-cart.php on line 24
+[04-Aug-2020 15:38:50 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/public_html/adminlogin.php on line 67
+[04-Aug-2020 15:39:21 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/swim/salowell-lib.php on line 2032
+[04-Aug-2020 15:48:50 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/public_html/cartSave.php on line 23
+[04-Aug-2020 15:49:35 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/public_html/cartSave.php on line 23
+[04-Aug-2020 15:51:33 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/swim/salowell-lib.php on line 2032
+[04-Aug-2020 15:51:51 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/swim/salowell-lib.php on line 2032
+[04-Aug-2020 15:51:57 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/swim/salowell-lib.php on line 2032
+[04-Aug-2020 15:52:05 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/swim/salowell-lib.php on line 2032
+[04-Aug-2020 15:53:09 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/swim/salowell-lib.php on line 2032
+[04-Aug-2020 16:06:17 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/swim/salowell-lib.php on line 2032
+[04-Aug-2020 16:09:58 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/swim/salowell-lib.php on line 2032
+[04-Aug-2020 16:10:11 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/swim/salowell-lib.php on line 2032
+[04-Aug-2020 16:39:51 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/public_html/revers-cart.php on line 21
+[04-Aug-2020 16:39:51 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/public_html/revers-cart.php on line 24
+[04-Aug-2020 16:42:27 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/public_html/revers-cart.php on line 26
+[04-Aug-2020 16:42:27 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cosmicu/test.cosmicunicorns.com/swim/0-bk.php:1) in /home/cosmicu/test.cosmicunicorns.com/public_html/revers-cart.php on line 29
+[10-Sep-2020 01:04:41 America/New_York] PHP Warning:  require_once(/home/cosmicu/test.cosmicunicorns.com/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2
+[10-Sep-2020 01:04:41 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/cosmicu/test.cosmicunicorns.com/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2
+[10-Sep-2020 01:04:47 America/New_York] PHP Warning:  require_once(/home/cosmicu/test.cosmicunicorns.com/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 2
+[10-Sep-2020 01:04:47 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/cosmicu/test.cosmicunicorns.com/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 2
+[10-Sep-2020 01:07:31 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 563
+[10-Sep-2020 01:07:33 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 70087500 bytes) in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 563
+[10-Sep-2020 01:08:18 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 563
+[10-Sep-2020 01:08:25 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1482
+[10-Sep-2020 01:08:26 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 70087500 bytes) in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 563
+[10-Sep-2020 01:11:09 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1485
+[10-Sep-2020 01:11:14 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php(281): Mpdf\Mpdf->Output('Hawke.Mandi.45....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 01:11:35 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3047): Mpdf\Mpdf->Output('Hawke.Mandi.45....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 01:14:51 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1485
+[10-Sep-2020 01:14:51 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2040
+[10-Sep-2020 01:14:51 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2801
+[10-Sep-2020 01:14:51 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2805
+[10-Sep-2020 01:15:00 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php(281): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 01:15:22 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3047): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 01:16:24 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1489
+[10-Sep-2020 01:16:24 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2044
+[10-Sep-2020 01:16:24 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2805
+[10-Sep-2020 01:16:24 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2809
+[10-Sep-2020 01:16:33 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php(283): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 01:16:54 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3051): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 01:19:16 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php(286): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 01:25:00 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php(286): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 01:36:55 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3052): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 01:42:45 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php(286): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 01:42:56 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php(286): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 197
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 198
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 199
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 200
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 201
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 203
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 209
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 210
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 211
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 212
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 213
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 214
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 219
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 220
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 221
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 222
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 223
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 224
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 232
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 233
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 234
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 235
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 236
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 237
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 249
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 250
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 251
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 252
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 253
+[10-Sep-2020 01:56:43 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 254
+[10-Sep-2020 01:56:48 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php(286): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 197
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 198
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 199
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 200
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 201
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 203
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 209
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 210
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 211
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 212
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 213
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 214
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 219
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 220
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 221
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 222
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 223
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 224
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 232
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 233
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 234
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 235
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 236
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 237
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 249
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 250
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 251
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 252
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 253
+[10-Sep-2020 01:58:59 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 254
+[10-Sep-2020 01:59:04 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php(286): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 197
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 198
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 199
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 200
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 201
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 203
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 209
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 210
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 211
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 212
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 213
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 214
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 219
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 220
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 221
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 222
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 223
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 224
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 232
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 233
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 234
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 235
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 236
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 237
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 249
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 250
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 251
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 252
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 253
+[10-Sep-2020 01:59:13 America/New_York] PHP Notice:  Undefined variable: characterParts in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 254
+[10-Sep-2020 01:59:18 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php(286): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 01:59:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'database' not found in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 11
+[10-Sep-2020 02:01:08 America/New_York] PHP Warning:  require_once(swimpdf.php): failed to open stream: No such file or directory in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 6
+[10-Sep-2020 02:01:08 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'swimpdf.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 6
+[10-Sep-2020 02:04:37 America/New_York] PHP Warning:  require_once(swim/swimpdf.php): failed to open stream: No such file or directory in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 6
+[10-Sep-2020 02:04:37 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'swim/swimpdf.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 6
+[10-Sep-2020 02:05:04 America/New_York] PHP Warning:  require_once(/home/cosmicu/test.cosmicunicorns.com/public_htmlswim/swimpdf.php): failed to open stream: No such file or directory in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 6
+[10-Sep-2020 02:05:04 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/cosmicu/test.cosmicunicorns.com/public_htmlswim/swimpdf.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 6
+[10-Sep-2020 02:05:33 America/New_York] PHP Warning:  require_once(/home/cosmicu/test.cosmicunicorns.com/public_html/swim/swimpdf.php): failed to open stream: No such file or directory in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 6
+[10-Sep-2020 02:05:33 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/cosmicu/test.cosmicunicorns.com/public_html/swim/swimpdf.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 6
+[10-Sep-2020 02:06:11 America/New_York] PHP Warning:  require_once(settings.php): failed to open stream: No such file or directory in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 7
+[10-Sep-2020 02:06:11 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'settings.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 7
+[10-Sep-2020 02:07:43 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php(286): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 02:09:20 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php(286): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 02:10:01 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php(286): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 02:19:23 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php(162): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 02:19:27 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php(162): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 02:19:30 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php(162): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 02:26:54 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php(287): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 02:28:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function AddPageByArray() on null in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 28
+[10-Sep-2020 02:29:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function writeHTML() on null in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php on line 39
+[10-Sep-2020 02:29:55 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php(42): Mpdf\Mpdf->Output('...cover.pdf', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 02:31:09 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf-cover.php(35): Mpdf\Mpdf->Output('...cover.pdf', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 02:34:10 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 91665000 bytes) in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 563
+[10-Sep-2020 02:39:44 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1496
+[10-Sep-2020 02:39:44 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2051
+[10-Sep-2020 02:39:44 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2812
+[10-Sep-2020 02:39:44 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2816
+[10-Sep-2020 02:40:09 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3058): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 02:40:59 America/New_York] PHP Notice:  Undefined variable: SWIM in /home/cosmicu/test.cosmicunicorns.com/swim/swimpdf.php on line 2
+[10-Sep-2020 02:40:59 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1497
+[10-Sep-2020 02:40:59 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2052
+[10-Sep-2020 02:40:59 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2813
+[10-Sep-2020 02:40:59 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2817
+[10-Sep-2020 02:41:23 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3059): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 02:44:18 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1496
+[10-Sep-2020 02:44:18 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2051
+[10-Sep-2020 02:44:18 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2812
+[10-Sep-2020 02:44:18 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2816
+[10-Sep-2020 02:44:38 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3058): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 02:48:18 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1496
+[10-Sep-2020 02:48:18 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2051
+[10-Sep-2020 02:48:18 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2812
+[10-Sep-2020 02:48:18 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2816
+[10-Sep-2020 02:48:39 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3058): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 02:50:27 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1495
+[10-Sep-2020 02:50:27 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2050
+[10-Sep-2020 02:50:27 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2811
+[10-Sep-2020 02:50:27 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2815
+[10-Sep-2020 02:50:48 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3057): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 02:52:20 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1495
+[10-Sep-2020 02:52:20 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2050
+[10-Sep-2020 02:52:20 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2811
+[10-Sep-2020 02:52:20 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2815
+[10-Sep-2020 02:52:40 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3057): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 02:53:07 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1496
+[10-Sep-2020 02:53:07 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2051
+[10-Sep-2020 02:53:07 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2812
+[10-Sep-2020 02:53:07 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2816
+[10-Sep-2020 02:53:37 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3058): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 04:56:53 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1496
+[10-Sep-2020 04:56:53 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2051
+[10-Sep-2020 04:56:53 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2812
+[10-Sep-2020 04:56:53 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2816
+[10-Sep-2020 04:57:22 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3058): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 05:00:15 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1496
+[10-Sep-2020 05:00:15 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2051
+[10-Sep-2020 05:00:15 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2812
+[10-Sep-2020 05:00:15 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2816
+[10-Sep-2020 05:00:44 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3058): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 05:03:06 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1496
+[10-Sep-2020 05:03:06 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2051
+[10-Sep-2020 05:03:06 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2812
+[10-Sep-2020 05:03:06 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2816
+[10-Sep-2020 05:03:35 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3058): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[10-Sep-2020 06:39:37 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 91665000 bytes) in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 563
+[18-Sep-2020 19:21:28 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2065
+[18-Sep-2020 19:21:51 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3073): Mpdf\Mpdf->Output('(Crossroads).Am...', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[18-Sep-2020 19:21:54 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2065
+[18-Sep-2020 19:22:20 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3073): Mpdf\Mpdf->Output('(Music).Amanda....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[21-Sep-2020 11:34:21 America/New_York] PHP Notice:  Undefined variable: pages in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 189
+[21-Sep-2020 11:34:21 America/New_York] PHP Warning:  array_map(): Argument #2 should be an array in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 189
+[21-Sep-2020 11:34:21 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 234
+[21-Sep-2020 11:34:21 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 306
+[21-Sep-2020 11:34:21 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 477
+[21-Sep-2020 11:34:21 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 613
+[21-Sep-2020 11:34:21 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 771
+[21-Sep-2020 11:34:21 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 904
+[21-Sep-2020 11:34:21 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1025
+[21-Sep-2020 11:34:21 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1163
+[21-Sep-2020 11:34:21 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1283
+[21-Sep-2020 11:34:21 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1445
+[21-Sep-2020 11:34:21 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1613
+[21-Sep-2020 11:34:21 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1807
+[21-Sep-2020 11:34:21 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1833
+[21-Sep-2020 11:34:21 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2002
+[21-Sep-2020 11:34:21 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2149
+[21-Sep-2020 11:34:21 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2286
+[21-Sep-2020 11:34:21 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2382
+[21-Sep-2020 11:34:21 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2529
+[21-Sep-2020 11:34:21 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2672
+[21-Sep-2020 11:34:21 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2813
+[21-Sep-2020 11:34:21 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2943
+[21-Sep-2020 11:34:21 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 3034
+[21-Sep-2020 11:34:21 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3069): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[21-Sep-2020 11:35:16 America/New_York] PHP Notice:  Undefined variable: pages in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 189
+[21-Sep-2020 11:35:16 America/New_York] PHP Warning:  array_map(): Argument #2 should be an array in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 189
+[21-Sep-2020 11:35:16 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 234
+[21-Sep-2020 11:35:16 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 306
+[21-Sep-2020 11:35:16 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 477
+[21-Sep-2020 11:35:16 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 613
+[21-Sep-2020 11:35:16 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 771
+[21-Sep-2020 11:35:16 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 904
+[21-Sep-2020 11:35:16 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1025
+[21-Sep-2020 11:35:16 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1163
+[21-Sep-2020 11:35:16 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1283
+[21-Sep-2020 11:35:16 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1445
+[21-Sep-2020 11:35:16 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1613
+[21-Sep-2020 11:35:16 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1807
+[21-Sep-2020 11:35:16 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1833
+[21-Sep-2020 11:35:16 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2002
+[21-Sep-2020 11:35:16 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2149
+[21-Sep-2020 11:35:16 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2286
+[21-Sep-2020 11:35:16 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2382
+[21-Sep-2020 11:35:16 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2529
+[21-Sep-2020 11:35:16 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2672
+[21-Sep-2020 11:35:16 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2813
+[21-Sep-2020 11:35:16 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2943
+[21-Sep-2020 11:35:16 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 3034
+[21-Sep-2020 11:35:16 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3069): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[21-Sep-2020 11:35:24 America/New_York] PHP Notice:  Undefined variable: pages in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 189
+[21-Sep-2020 11:35:24 America/New_York] PHP Warning:  array_map(): Argument #2 should be an array in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 189
+[21-Sep-2020 11:35:24 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 234
+[21-Sep-2020 11:35:24 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 306
+[21-Sep-2020 11:35:24 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 477
+[21-Sep-2020 11:35:24 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 613
+[21-Sep-2020 11:35:24 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 771
+[21-Sep-2020 11:35:24 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 904
+[21-Sep-2020 11:35:24 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1025
+[21-Sep-2020 11:35:24 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1163
+[21-Sep-2020 11:35:24 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1283
+[21-Sep-2020 11:35:24 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1445
+[21-Sep-2020 11:35:24 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1613
+[21-Sep-2020 11:35:24 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1807
+[21-Sep-2020 11:35:24 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1833
+[21-Sep-2020 11:35:24 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2002
+[21-Sep-2020 11:35:24 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2149
+[21-Sep-2020 11:35:24 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2286
+[21-Sep-2020 11:35:24 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2382
+[21-Sep-2020 11:35:24 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2529
+[21-Sep-2020 11:35:24 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2672
+[21-Sep-2020 11:35:24 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2813
+[21-Sep-2020 11:35:24 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2943
+[21-Sep-2020 11:35:24 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 3034
+[21-Sep-2020 11:35:24 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3069): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[21-Sep-2020 11:37:00 America/New_York] PHP Notice:  Undefined variable: pages in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 189
+[21-Sep-2020 11:37:00 America/New_York] PHP Warning:  array_map(): Argument #2 should be an array in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 189
+[21-Sep-2020 11:37:00 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 234
+[21-Sep-2020 11:37:00 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 306
+[21-Sep-2020 11:37:00 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 477
+[21-Sep-2020 11:37:00 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 613
+[21-Sep-2020 11:37:00 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 771
+[21-Sep-2020 11:37:00 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 904
+[21-Sep-2020 11:37:00 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1025
+[21-Sep-2020 11:37:00 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1163
+[21-Sep-2020 11:37:00 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1283
+[21-Sep-2020 11:37:00 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1445
+[21-Sep-2020 11:37:00 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1613
+[21-Sep-2020 11:37:00 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1807
+[21-Sep-2020 11:37:00 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1833
+[21-Sep-2020 11:37:00 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2002
+[21-Sep-2020 11:37:00 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2149
+[21-Sep-2020 11:37:00 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2286
+[21-Sep-2020 11:37:00 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2382
+[21-Sep-2020 11:37:00 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2529
+[21-Sep-2020 11:37:00 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2672
+[21-Sep-2020 11:37:00 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2813
+[21-Sep-2020 11:37:00 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2943
+[21-Sep-2020 11:37:00 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 3034
+[21-Sep-2020 11:37:00 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3069): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[21-Sep-2020 11:37:33 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, integer given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 95
+[25-Sep-2020 03:49:48 America/New_York] PHP Notice:  Undefined variable: pages in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 190
+[25-Sep-2020 03:49:48 America/New_York] PHP Warning:  array_map(): Argument #2 should be an array in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 190
+[25-Sep-2020 03:49:48 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 235
+[25-Sep-2020 03:49:48 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 308
+[25-Sep-2020 03:49:48 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 479
+[25-Sep-2020 03:49:48 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 614
+[25-Sep-2020 03:49:48 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 774
+[25-Sep-2020 03:49:48 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 911
+[25-Sep-2020 03:49:48 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1032
+[25-Sep-2020 03:49:48 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1170
+[25-Sep-2020 03:49:48 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1290
+[25-Sep-2020 03:49:48 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1452
+[25-Sep-2020 03:49:48 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1620
+[25-Sep-2020 03:49:48 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1815
+[25-Sep-2020 03:49:48 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1841
+[25-Sep-2020 03:49:48 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2010
+[25-Sep-2020 03:49:48 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2158
+[25-Sep-2020 03:49:48 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2295
+[25-Sep-2020 03:49:48 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2391
+[25-Sep-2020 03:49:48 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2538
+[25-Sep-2020 03:49:48 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2681
+[25-Sep-2020 03:49:48 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2822
+[25-Sep-2020 03:49:48 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2952
+[25-Sep-2020 03:49:48 America/New_York] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 3051
+[25-Sep-2020 03:49:48 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3086): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[25-Sep-2020 15:12:09 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2071
+[25-Sep-2020 15:12:35 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3080): Mpdf\Mpdf->Output('(Crossroads).Am...', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[29-Sep-2020 16:05:19 America/New_York] PHP Notice:  Undefined index: width in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1747
+[29-Sep-2020 16:05:19 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1748
+[29-Sep-2020 16:05:19 America/New_York] PHP Notice:  Undefined index: padding-left in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1749
+[29-Sep-2020 16:05:19 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1750
+[29-Sep-2020 16:05:19 America/New_York] PHP Notice:  Undefined index: padding-top in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1751
+[29-Sep-2020 16:05:19 America/New_York] PHP Notice:  Undefined index: padding-bottom in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1752
+[29-Sep-2020 16:05:19 America/New_York] PHP Notice:  Undefined index: width in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1963
+[29-Sep-2020 16:05:19 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1964
+[29-Sep-2020 16:05:19 America/New_York] PHP Notice:  Undefined index: padding-left in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1965
+[29-Sep-2020 16:05:19 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1966
+[29-Sep-2020 16:05:19 America/New_York] PHP Notice:  Undefined index: padding-top in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1967
+[29-Sep-2020 16:05:19 America/New_York] PHP Notice:  Undefined index: padding-bottom in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1968
+[29-Sep-2020 16:05:19 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2883
+[29-Sep-2020 16:05:19 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2884
+[29-Sep-2020 16:05:19 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2885
+[29-Sep-2020 16:05:19 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2886
+[29-Sep-2020 16:05:19 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2887
+[29-Sep-2020 16:05:19 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2888
+[29-Sep-2020 16:05:33 America/New_York] PHP Notice:  Undefined index: width in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1747
+[29-Sep-2020 16:05:33 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1748
+[29-Sep-2020 16:05:33 America/New_York] PHP Notice:  Undefined index: padding-left in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1749
+[29-Sep-2020 16:05:33 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1750
+[29-Sep-2020 16:05:33 America/New_York] PHP Notice:  Undefined index: padding-top in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1751
+[29-Sep-2020 16:05:33 America/New_York] PHP Notice:  Undefined index: padding-bottom in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1752
+[29-Sep-2020 16:05:33 America/New_York] PHP Notice:  Undefined index: width in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1963
+[29-Sep-2020 16:05:33 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1964
+[29-Sep-2020 16:05:33 America/New_York] PHP Notice:  Undefined index: padding-left in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1965
+[29-Sep-2020 16:05:33 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1966
+[29-Sep-2020 16:05:33 America/New_York] PHP Notice:  Undefined index: padding-top in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1967
+[29-Sep-2020 16:05:33 America/New_York] PHP Notice:  Undefined index: padding-bottom in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1968
+[29-Sep-2020 16:05:33 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2883
+[29-Sep-2020 16:05:33 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2884
+[29-Sep-2020 16:05:33 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2885
+[29-Sep-2020 16:05:33 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2886
+[29-Sep-2020 16:05:33 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2887
+[29-Sep-2020 16:05:33 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2888
+[29-Sep-2020 16:05:40 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3080): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[29-Sep-2020 16:05:44 America/New_York] PHP Notice:  Undefined index: width in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1747
+[29-Sep-2020 16:05:44 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1748
+[29-Sep-2020 16:05:44 America/New_York] PHP Notice:  Undefined index: padding-left in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1749
+[29-Sep-2020 16:05:44 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1750
+[29-Sep-2020 16:05:44 America/New_York] PHP Notice:  Undefined index: padding-top in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1751
+[29-Sep-2020 16:05:44 America/New_York] PHP Notice:  Undefined index: padding-bottom in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1752
+[29-Sep-2020 16:05:44 America/New_York] PHP Notice:  Undefined index: width in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1963
+[29-Sep-2020 16:05:44 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1964
+[29-Sep-2020 16:05:44 America/New_York] PHP Notice:  Undefined index: padding-left in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1965
+[29-Sep-2020 16:05:44 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1966
+[29-Sep-2020 16:05:44 America/New_York] PHP Notice:  Undefined index: padding-top in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1967
+[29-Sep-2020 16:05:44 America/New_York] PHP Notice:  Undefined index: padding-bottom in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1968
+[29-Sep-2020 16:05:44 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2883
+[29-Sep-2020 16:05:44 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2884
+[29-Sep-2020 16:05:44 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2885
+[29-Sep-2020 16:05:44 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2886
+[29-Sep-2020 16:05:44 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2887
+[29-Sep-2020 16:05:44 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2888
+[29-Sep-2020 16:13:37 America/New_York] PHP Notice:  Undefined index: width in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1963
+[29-Sep-2020 16:13:37 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1964
+[29-Sep-2020 16:13:37 America/New_York] PHP Notice:  Undefined index: padding-left in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1965
+[29-Sep-2020 16:13:37 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1966
+[29-Sep-2020 16:13:37 America/New_York] PHP Notice:  Undefined index: padding-top in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1967
+[29-Sep-2020 16:13:37 America/New_York] PHP Notice:  Undefined index: padding-bottom in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1968
+[29-Sep-2020 16:13:37 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2883
+[29-Sep-2020 16:13:37 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2884
+[29-Sep-2020 16:13:37 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2885
+[29-Sep-2020 16:13:37 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2886
+[29-Sep-2020 16:13:37 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2887
+[29-Sep-2020 16:13:37 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2888
+[29-Sep-2020 16:20:47 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2883
+[29-Sep-2020 16:20:47 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2884
+[29-Sep-2020 16:20:47 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2885
+[29-Sep-2020 16:20:47 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2886
+[29-Sep-2020 16:20:47 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2887
+[29-Sep-2020 16:20:47 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2888
+[29-Sep-2020 16:30:51 America/New_York] PHP Notice:  Undefined index: width in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1747
+[29-Sep-2020 16:30:51 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1748
+[29-Sep-2020 16:30:51 America/New_York] PHP Notice:  Undefined index: padding-left in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1749
+[29-Sep-2020 16:30:51 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1750
+[29-Sep-2020 16:30:51 America/New_York] PHP Notice:  Undefined index: padding-top in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1751
+[29-Sep-2020 16:30:51 America/New_York] PHP Notice:  Undefined index: padding-bottom in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1752
+[29-Sep-2020 16:31:09 America/New_York] PHP Notice:  Undefined index: width in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1747
+[29-Sep-2020 16:31:09 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1748
+[29-Sep-2020 16:31:09 America/New_York] PHP Notice:  Undefined index: padding-left in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1749
+[29-Sep-2020 16:31:09 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1750
+[29-Sep-2020 16:31:09 America/New_York] PHP Notice:  Undefined index: padding-top in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1751
+[29-Sep-2020 16:31:09 America/New_York] PHP Notice:  Undefined index: padding-bottom in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1752
+[29-Sep-2020 16:34:21 America/New_York] PHP Notice:  Undefined index: width in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1964
+[29-Sep-2020 16:34:21 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1965
+[29-Sep-2020 16:34:21 America/New_York] PHP Notice:  Undefined index: padding-left in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1966
+[29-Sep-2020 16:34:21 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1967
+[29-Sep-2020 16:34:21 America/New_York] PHP Notice:  Undefined index: padding-top in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1968
+[29-Sep-2020 16:34:21 America/New_York] PHP Notice:  Undefined index: padding-bottom in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1969
+[29-Sep-2020 16:34:21 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2884
+[29-Sep-2020 16:34:21 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2885
+[29-Sep-2020 16:34:21 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2886
+[29-Sep-2020 16:34:21 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2887
+[29-Sep-2020 16:34:21 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2888
+[29-Sep-2020 16:34:21 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2889
+[29-Sep-2020 16:35:03 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2890
+[29-Sep-2020 16:35:03 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2891
+[29-Sep-2020 16:35:03 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2892
+[29-Sep-2020 16:35:03 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2893
+[29-Sep-2020 16:35:03 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2894
+[29-Sep-2020 16:35:03 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2895
+[30-Sep-2020 17:44:44 America/New_York] PHP Notice:  Undefined offset: 17 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2611
+[30-Sep-2020 17:44:44 America/New_York] PHP Notice:  Undefined offset: 17 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2612
+[30-Sep-2020 17:44:44 America/New_York] PHP Notice:  Undefined offset: 17 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2613
+[30-Sep-2020 17:44:44 America/New_York] PHP Notice:  Undefined offset: 17 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2614
+[30-Sep-2020 17:44:44 America/New_York] PHP Notice:  Undefined offset: 17 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2615
+[30-Sep-2020 17:44:44 America/New_York] PHP Notice:  Undefined offset: 17 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2616
+[30-Sep-2020 17:44:44 America/New_York] PHP Notice:  Undefined offset: 17 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2627
+[30-Sep-2020 17:44:44 America/New_York] PHP Notice:  Undefined offset: 17 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2628
+[30-Sep-2020 17:44:44 America/New_York] PHP Notice:  Undefined offset: 17 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2629
+[30-Sep-2020 17:44:44 America/New_York] PHP Notice:  Undefined offset: 17 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2630
+[30-Sep-2020 17:44:44 America/New_York] PHP Notice:  Undefined offset: 17 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2631
+[30-Sep-2020 17:44:44 America/New_York] PHP Notice:  Undefined offset: 17 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2632
+[30-Sep-2020 17:45:06 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3114): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[30-Sep-2020 18:00:11 America/New_York] PHP Notice:  Undefined index: width in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1747
+[30-Sep-2020 18:00:11 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1748
+[30-Sep-2020 18:00:11 America/New_York] PHP Notice:  Undefined index: padding-left in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1749
+[30-Sep-2020 18:00:11 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1750
+[30-Sep-2020 18:00:11 America/New_York] PHP Notice:  Undefined index: padding-top in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1751
+[30-Sep-2020 18:00:11 America/New_York] PHP Notice:  Undefined index: padding-bottom in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1752
+[30-Sep-2020 18:00:11 America/New_York] PHP Notice:  Undefined index: width in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1963
+[30-Sep-2020 18:00:11 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1964
+[30-Sep-2020 18:00:11 America/New_York] PHP Notice:  Undefined index: padding-left in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1965
+[30-Sep-2020 18:00:11 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1966
+[30-Sep-2020 18:00:11 America/New_York] PHP Notice:  Undefined index: padding-top in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1967
+[30-Sep-2020 18:00:11 America/New_York] PHP Notice:  Undefined index: padding-bottom in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1968
+[30-Sep-2020 18:00:11 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2883
+[30-Sep-2020 18:00:11 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2884
+[30-Sep-2020 18:00:11 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2885
+[30-Sep-2020 18:00:11 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2886
+[30-Sep-2020 18:00:11 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2887
+[30-Sep-2020 18:00:11 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2888
+[30-Sep-2020 18:00:32 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3080): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[30-Sep-2020 18:01:54 America/New_York] PHP Notice:  Undefined index: width in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1774
+[30-Sep-2020 18:01:54 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1775
+[30-Sep-2020 18:01:54 America/New_York] PHP Notice:  Undefined index: padding-left in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1776
+[30-Sep-2020 18:01:54 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1777
+[30-Sep-2020 18:01:54 America/New_York] PHP Notice:  Undefined index: padding-top in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1778
+[30-Sep-2020 18:01:54 America/New_York] PHP Notice:  Undefined index: padding-bottom in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1779
+[30-Sep-2020 18:01:54 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2694
+[30-Sep-2020 18:01:54 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2695
+[30-Sep-2020 18:01:54 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2696
+[30-Sep-2020 18:01:54 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2697
+[30-Sep-2020 18:01:54 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2698
+[30-Sep-2020 18:01:54 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2699
+[30-Sep-2020 18:02:12 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(2891): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[30-Sep-2020 18:02:26 America/New_York] PHP Notice:  Undefined index: width in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1774
+[30-Sep-2020 18:02:26 America/New_York] PHP Notice:  Undefined index: height in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1775
+[30-Sep-2020 18:02:26 America/New_York] PHP Notice:  Undefined index: padding-left in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1776
+[30-Sep-2020 18:02:26 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1777
+[30-Sep-2020 18:02:26 America/New_York] PHP Notice:  Undefined index: padding-top in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1778
+[30-Sep-2020 18:02:26 America/New_York] PHP Notice:  Undefined index: padding-bottom in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1779
+[30-Sep-2020 18:02:26 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2568
+[30-Sep-2020 18:02:26 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2569
+[30-Sep-2020 18:02:26 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2570
+[30-Sep-2020 18:02:26 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2571
+[30-Sep-2020 18:02:26 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2572
+[30-Sep-2020 18:02:26 America/New_York] PHP Notice:  Undefined offset: 20 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2573
+[30-Sep-2020 18:02:41 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(2765): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[30-Sep-2020 18:03:17 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2648
+[30-Sep-2020 18:04:38 America/New_York] PHP Notice:  Undefined offset: 17 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2608
+[30-Sep-2020 18:04:38 America/New_York] PHP Notice:  Undefined offset: 17 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2609
+[30-Sep-2020 18:04:38 America/New_York] PHP Notice:  Undefined offset: 17 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2610
+[30-Sep-2020 18:04:38 America/New_York] PHP Notice:  Undefined offset: 17 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2611
+[30-Sep-2020 18:04:38 America/New_York] PHP Notice:  Undefined offset: 17 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2612
+[30-Sep-2020 18:04:38 America/New_York] PHP Notice:  Undefined offset: 17 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2613
+[30-Sep-2020 18:04:38 America/New_York] PHP Notice:  Undefined offset: 0 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2624
+[30-Sep-2020 18:04:38 America/New_York] PHP Notice:  Undefined offset: 0 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2625
+[30-Sep-2020 18:04:38 America/New_York] PHP Notice:  Undefined offset: 0 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2626
+[30-Sep-2020 18:04:38 America/New_York] PHP Notice:  Undefined offset: 0 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2627
+[30-Sep-2020 18:04:38 America/New_York] PHP Notice:  Undefined offset: 0 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2628
+[30-Sep-2020 18:04:38 America/New_York] PHP Notice:  Undefined offset: 0 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2629
+[03-Oct-2020 15:40:16 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2078
+[03-Oct-2020 15:40:37 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3116): Mpdf\Mpdf->Output('Playground.Rive...', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[04-Oct-2020 15:44:31 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2077
+[04-Oct-2020 15:44:51 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3115): Mpdf\Mpdf->Output('Playground.Rive...', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[04-Oct-2020 15:46:12 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2077
+[04-Oct-2020 15:46:32 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3115): Mpdf\Mpdf->Output('Playground.Rive...', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[04-Oct-2020 15:49:10 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2077
+[04-Oct-2020 15:49:30 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3115): Mpdf\Mpdf->Output('Playground.Rive...', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[04-Oct-2020 16:12:22 America/New_York] PHP Notice:  Undefined index: padding-bottom in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2571
+[04-Oct-2020 16:12:33 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3115): Mpdf\Mpdf->Output('Playground.Rive...', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[05-Oct-2020 17:07:35 America/New_York] PHP Notice:  Undefined index: img in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 990
+[05-Oct-2020 17:07:35 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3135): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[05-Oct-2020 17:09:36 America/New_York] PHP Notice:  Undefined index: img in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 990
+[05-Oct-2020 17:09:37 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3135): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[05-Oct-2020 17:09:45 America/New_York] PHP Notice:  Undefined index: img in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 990
+[05-Oct-2020 17:09:45 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3135): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[05-Oct-2020 17:10:50 America/New_York] PHP Notice:  Undefined index: img in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 990
+[05-Oct-2020 17:10:51 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3135): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[05-Oct-2020 17:10:55 America/New_York] PHP Notice:  Undefined index: img in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 990
+[05-Oct-2020 17:10:55 America/New_York] PHP Notice:  Undefined index: img in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 990
+[05-Oct-2020 17:10:55 America/New_York] PHP Notice:  Undefined index: img in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 990
+[05-Oct-2020 17:10:56 America/New_York] PHP Notice:  Undefined index: img in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 990
+[05-Oct-2020 17:10:56 America/New_York] PHP Notice:  Undefined index: img in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 990
+[05-Oct-2020 17:10:57 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3135): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[05-Oct-2020 17:11:26 America/New_York] PHP Notice:  Undefined index: img in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 990
+[05-Oct-2020 17:11:27 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3135): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[05-Oct-2020 17:13:54 America/New_York] PHP Notice:  Undefined index: img in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 990
+[05-Oct-2020 17:13:55 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3135): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[05-Oct-2020 17:14:24 America/New_York] PHP Notice:  Undefined index: img in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 979
+[05-Oct-2020 17:14:24 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3124): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[05-Oct-2020 17:15:01 America/New_York] PHP Notice:  Undefined index: img in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 990
+[05-Oct-2020 17:15:02 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3135): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[05-Oct-2020 17:16:43 America/New_York] PHP Notice:  Undefined index: img in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1140
+[05-Oct-2020 17:16:44 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3135): Mpdf\Mpdf->Output('Hawke.Mandi.44....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[05-Oct-2020 17:47:23 America/New_York] PHP Notice:  Undefined index: padding-right in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2101
+[05-Oct-2020 17:47:36 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3143): Mpdf\Mpdf->Output('Music.River.66....', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[05-Oct-2020 17:49:27 America/New_York] PHP Notice:  Undefined index: padding-bottom in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 2608
+[05-Oct-2020 17:49:40 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3143): Mpdf\Mpdf->Output('Playground.Rive...', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543
+[05-Oct-2020 17:58:23 America/New_York] PHP Notice:  Undefined offset: 12 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1993
+[05-Oct-2020 17:58:23 America/New_York] PHP Notice:  Undefined offset: 12 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1994
+[05-Oct-2020 17:58:23 America/New_York] PHP Notice:  Undefined offset: 12 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1995
+[05-Oct-2020 17:58:23 America/New_York] PHP Notice:  Undefined offset: 12 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1996
+[05-Oct-2020 17:58:23 America/New_York] PHP Notice:  Undefined offset: 12 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1997
+[05-Oct-2020 17:58:23 America/New_York] PHP Notice:  Undefined offset: 12 in /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php on line 1998
+[05-Oct-2020 17:58:43 America/New_York] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output, unable to output PDF file in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php:9543
+Stack trace:
+#0 /home/cosmicu/test.cosmicunicorns.com/public_html/mpdf.php(3143): Mpdf\Mpdf->Output('Playground.Rive...', 'D')
+#1 {main}
+  thrown in /home/cosmicu/test.cosmicunicorns.com/vendor/mpdf/mpdf/src/Mpdf.php on line 9543

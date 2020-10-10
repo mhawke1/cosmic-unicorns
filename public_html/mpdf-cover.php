@@ -1,11 +1,4 @@
 <?php
-
-     ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
-ini_set('memory_limit', '-1');
-ini_set('max_execution_time', '0');
-
    require_once __DIR__ . '/../vendor/autoload.php';
    
     
@@ -248,7 +241,7 @@ width:'.$characterParts['eyes'][$eyes][$hair][$body][0]['width'].'px;
 
 
 
-   '.($glasses==1 ? '
+     '.($glasses!=0 ? '
 
    <img class="pagglasses page1glasses" id="page1glasses" style="display:block; position:absolute;
    transform:rotate(0); 
@@ -259,7 +252,7 @@ padding-right:'.$characterParts['glasses'][$body][$hair][0]['padding-right'].'px
 padding-top:'.$characterParts['glasses'][$body][$hair][0]['padding-top'].'px;
 padding-bottom:'.$characterParts['glasses'][$body][$hair][0]['padding-bottom'].'px;
 "
-src="i/character/Glasses/Glasses1.png" /> 
+   src='.$characterParts['glasses'][$glasses]['img'].' /> 
 
   ' : '').'
 
@@ -311,4 +304,4 @@ padding-bottom:'.$characterParts['freckles'][$body][$glasses][0]['padding-bottom
    }}
     
     
-    ?>
+    ?>\

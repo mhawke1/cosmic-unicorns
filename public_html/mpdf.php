@@ -46,6 +46,14 @@ require_once __DIR__ . '/pdf-css/page0.php';
 
     
   
+$characterParts['glasses'][1]['img']='i/character/Glasses/Glasses1.png';
+$characterParts['glasses'][2]['img']='i/character/Glasses/Glasses2.png';
+$characterParts['glasses'][3]['img']='i/character/Glasses/Glasses3.png';
+$characterParts['glasses'][4]['img']='i/character/Glasses/Glasses4.png';
+
+
+
+
 $defaultConfig = (new Mpdf\Config\ConfigVariables())->getDefaults();
 $fontDirs = $defaultConfig['fontDir'];
 
@@ -169,18 +177,28 @@ $pdf = new \Mpdf\Mpdf([
      GLOBAL $SWIM;
      $childsPicture='';
      $pdfVersion=false;
- //$pages=[0,11,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22];
 
 
+//$pages=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21];
 
- 
-
+//$pages=[10];
 
    $pages=explode('-',$paymentRow['pages']);
      array_unshift($pages ,0);
    array_push($pages,21); 
     array_push($pages,22); 
   
+  
+//$pages=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21];
+  
+
+
+
+
+
+
+
+
 
      
      $childsPictureBackground='';
@@ -209,7 +227,7 @@ $pdf = new \Mpdf\Mpdf([
    
      }
 
-      $res='HiRes.png';
+ //$res='HiRes.png';
    
     
    
@@ -258,7 +276,7 @@ $pdf = new \Mpdf\Mpdf([
          <div style="position:fixed; text-align: center; padding-top:-90px; color: #0f75bc;   font-size: 70pt; font-family: frutiger; width:100%">
         
 
-       <p style="text-align: center">'.$childsname.'</p>
+       <p style="text-align: center">'.$childsname.'\'s</p>
            </div>
          ').'
 
@@ -400,7 +418,9 @@ transform:rotate(0);
     src="'.$characterParts['eyes'][$eyes]['color'][$eyescolor].'" /> 
 
 
-'.($glasses==1 ? '
+'.($glasses!=0 ? '
+
+          
 
    <img class="pagglasses page1glasses" id="page1glasses" style="display:block; position:absolute;
    transform:rotate(0); 
@@ -411,7 +431,7 @@ padding-right:'.$characterParts['glasses'][$body][$hair][$eyes][1]['padding-righ
 padding-top:'.$characterParts['glasses'][$body][$hair][$eyes][1]['padding-top'].'px;
 padding-bottom:'.$characterParts['glasses'][$body][$hair][$eyes][1]['padding-bottom'].'px;
 "
-src="i/character/Glasses/Glasses1.png" /> 
+    src='.$characterParts['glasses'][$glasses]['img'].' /> 
 
   ' : '').'
 
@@ -518,9 +538,8 @@ padding-bottom:'.$characterParts['freckles'][$body][$hair][$glasses][1]['padding
      src="'.$characterParts['eyes'][$eyes]['color'][$eyescolor].'" />
 
 
-
-     '.($glasses==1 ? '
-
+'.($glasses!=0 ? '
+  
    <img class="pagglasses page1glasses" id="page1glasses" style="position:absolute;
    transform:rotate(0); 
 width:'.$characterParts['glasses'][$body][$hair][2]['width'].'px;
@@ -530,7 +549,7 @@ padding-right:'.$characterParts['glasses'][$body][$hair][2]['padding-right'].'px
 padding-top:'.$characterParts['glasses'][$body][$hair][2]['padding-top'].'px;
 padding-bottom:'.$characterParts['glasses'][$body][$hair][2]['padding-bottom'].'px;
 "
-src="i/character/Glasses/Glasses1.png" /> 
+    src='.$characterParts['glasses'][$glasses]['img'].' /> 
 
   ' : '').'
 
@@ -652,7 +671,7 @@ padding-bottom:'.$characterParts['freckles'][$body][$hair][$glasses][2]['padding
 
 
 
-'.($glasses==1 ? '
+'.($glasses!=0 ? '
 
    <img class="pagglasses page1glasses" id="page1glasses" style="display:block; position:absolute;
    transform:rotate(0); 
@@ -663,7 +682,7 @@ padding-right:'.$characterParts['glasses'][$hair][$eyes][3]['padding-right'].'px
 padding-top:'.$characterParts['glasses'][$hair][$eyes][3]['padding-top'].'px;
 padding-bottom:'.$characterParts['glasses'][$hair][$eyes][3]['padding-bottom'].'px;
 "
-src="i/character/Glasses/Glasses1.png" /> 
+    src='.$characterParts['glasses'][$glasses]['img'].' /> 
 
   ' : '').'
 
@@ -843,7 +862,8 @@ padding-bottom:'.$characterParts['freckles'][$hair][$glasses][3]['padding-bottom
 
 
 
-   '.($glasses==1 ? '
+'.($glasses!=0 ? '
+
 
    <img class="pagglasses page1glasses" id="page1glasses" style="display:block; position:absolute;
    transform:rotate(0); 
@@ -854,7 +874,7 @@ padding-right:'.$characterParts['glasses'][$body][$hair][$eyes][4]['padding-righ
 padding-top:'.$characterParts['glasses'][$body][$hair][$eyes][4]['padding-top'].'px;
 padding-bottom:'.$characterParts['glasses'][$body][$hair][$eyes][4]['padding-bottom'].'px;
 "
-src="i/character/Glasses/Glasses1.png" /> 
+    src='.$characterParts['glasses'][$glasses]['img'].' /> 
 
   ' : '').'
 
@@ -963,7 +983,8 @@ padding-bottom:'.$characterParts['freckles'][$body][$hair][$glasses][4]['padding
      src="'.$characterParts['eyes'][$eyes]['color'][$eyescolor].'" />
 
 
-           '.($glasses==1 ? '
+    '.($glasses!=0 ? '
+   
 
    <img class="pagglasses page1glasses" id="page1glasses" style="display:block; position:absolute;
    transform:rotate(0); 
@@ -974,7 +995,7 @@ padding-right:'.$characterParts['glasses'][$body][$hair][$eyes][5]['padding-righ
 padding-top:'.$characterParts['glasses'][$body][$hair][$eyes][5]['padding-top'].'px;
 padding-bottom:'.$characterParts['glasses'][$body][$hair][$eyes][5]['padding-bottom'].'px;
 "
-src="i/pages/ComicBookPACKAGE/FaceMask.png" /> 
+   src='.$characterParts['glasses'][$glasses]['img'].' /> 
 
   ' : '').'
 
@@ -1112,7 +1133,8 @@ padding-bottom:'.$characterParts['freckles'][$body][$hair][$glasses][5]['padding
 
        
 
-          '.($glasses==1 ? '
+           '.($glasses!=0 ? '
+
 
    <img class="pagglasses page1glasses" id="page1glasses" style="display:block; position:absolute;
    transform:rotate(0); 
@@ -1123,7 +1145,7 @@ padding-right:'.$characterParts['glasses'][$body][$hair][6]['padding-right'].'px
 padding-top:'.$characterParts['glasses'][$body][$hair][6]['padding-top'].'px;
 padding-bottom:'.$characterParts['glasses'][$body][$hair][6]['padding-bottom'].'px;
 "
-src="i/character/Glasses/Glasses1.png" /> 
+   src='.$characterParts['glasses'][$glasses]['img'].' /> 
 
   ' : '').'
 
@@ -1224,7 +1246,8 @@ padding-bottom:'.$characterParts['freckles'][$body][$hair][$glasses][6]['padding
 
        
 
-          '.($glasses==1 ? '
+             '.($glasses!=0 ? '
+  
 
    <img class="pagglasses page1glasses" id="page1glasses" style="display:block; position:absolute;
    transform:rotate(0); 
@@ -1235,7 +1258,7 @@ padding-right:'.$characterParts['glasses'][$body][$hair][7]['padding-right'].'px
 padding-top:'.$characterParts['glasses'][$body][$hair][7]['padding-top'].'px;
 padding-bottom:'.$characterParts['glasses'][$body][$hair][7]['padding-bottom'].'px;
 "
-src="i/character/Glasses/Glasses1.png" /> 
+    src='.$characterParts['glasses'][$glasses]['img'].' /> 
 
   ' : '').'
 
@@ -1359,7 +1382,8 @@ padding-bottom:'.$characterParts['freckles'][$body][$glasses][$hair][7]['padding
 
 
 
-          '.($glasses==1 ? '
+           '.($glasses!=0 ? '
+
 
    <img class="pagglasses page1glasses" id="page1glasses" style="display:block; position:absolute;
    transform:rotate(0); 
@@ -1370,7 +1394,7 @@ padding-right:'.$characterParts['glasses'][$body][$hair][$eyes][8]['padding-righ
 padding-top:'.$characterParts['glasses'][$body][$hair][$eyes][8]['padding-top'].'px;
 padding-bottom:'.$characterParts['glasses'][$body][$hair][$eyes][8]['padding-bottom'].'px;
 "
-src="i/character/Glasses/Glasses1.png" /> 
+   src='.$characterParts['glasses'][$glasses]['img'].' /> 
 
   ' : '').'
 
@@ -1477,7 +1501,7 @@ padding-bottom:'.$characterParts['freckles'][$body][$hair][$glasses][8]['padding
    
    
    
-         <div class="second" style="padding-left:590;padding-top:-150;">
+         <div class="second" style="padding-left:630;padding-top:-100;">
          <div><span class="childsnameautofill">'.$childsname.'</span> swims between,</div>
          <div>Schools of jellyfish,</div>
          <div>Then takes a moment to,</div>
@@ -1542,7 +1566,9 @@ padding-bottom:'.$characterParts['freckles'][$body][$hair][$glasses][8]['padding
 
 
 
-          '.($glasses==1 ? '
+      '.($glasses!=0 ? '
+  
+
 
    <img class="pagglasses page1glasses" id="page1glasses" style="display:block; position:absolute;
    transform:rotate(0); 
@@ -1553,7 +1579,7 @@ padding-right:'.$characterParts['glasses'][$body][$hair][9]['padding-right'].'px
 padding-top:'.$characterParts['glasses'][$body][$hair][9]['padding-top'].'px;
 padding-bottom:'.$characterParts['glasses'][$body][$hair][9]['padding-bottom'].'px;
 "
-src="i/character/Glasses/Glasses1.png" /> 
+    src='.$characterParts['glasses'][$glasses]['img'].' /> 
 
   ' : '').'
 
@@ -1561,12 +1587,12 @@ src="i/character/Glasses/Glasses1.png" />
             '.($freckles==1 ? '
 
   <img class="pagglasses page1glasses" id="page1glasses" style="position:absolute;
-width:'.$characterParts['freckles'][$body][$glasses][9]['width'].'px;
-height:'.$characterParts['freckles'][$body][$glasses][9]['height'].'px;
-padding-left:'.$characterParts['freckles'][$body][$glasses][9]['padding-left'].'px;
-padding-right:'.$characterParts['freckles'][$body][$glasses][9]['padding-right'].'px;
-padding-top:'.$characterParts['freckles'][$body][$glasses][9]['padding-top'].'px;
-padding-bottom:'.$characterParts['freckles'][$body][$glasses][9]['padding-bottom'].'px; "
+width:'.$characterParts['freckles'][$hair][$glasses][9]['width'].'px;
+height:'.$characterParts['freckles'][$hair][$glasses][9]['height'].'px;
+padding-left:'.$characterParts['freckles'][$hair][$glasses][9]['padding-left'].'px;
+padding-right:'.$characterParts['freckles'][$hair][$glasses][9]['padding-right'].'px;
+padding-top:'.$characterParts['freckles'][$hair][$glasses][9]['padding-top'].'px;
+padding-bottom:'.$characterParts['freckles'][$hair][$glasses][9]['padding-bottom'].'px; "
     src="i/character/Freckles/FrecklesPointsHiRes-01.png" /> 
 
   ' : '').'
@@ -1578,6 +1604,7 @@ padding-bottom:'.$characterParts['freckles'][$body][$glasses][9]['padding-bottom
          </div>
          '.$pageSeparator.'
        </div>' : '').'
+
 
 
 
@@ -1722,7 +1749,9 @@ padding-bottom:'.$characterParts['freckles'][$body][$glasses][9]['padding-bottom
      src="'.$characterParts['eyes'][$eyes]['color'][$eyescolor].'" />
 
 
-             '.($glasses==1 ? '
+             '.($glasses!=0 ? '
+
+
 
    <img class="pagglasses page1glasses" id="page1glasses" style="display:block; position:absolute;
    transform:rotate(0); 
@@ -1733,7 +1762,7 @@ padding-right:'.$characterParts['glasses'][$body][$hair][10]['padding-right'].'p
 padding-top:'.$characterParts['glasses'][$body][$hair][10]['padding-top'].'px;
 padding-bottom:'.$characterParts['glasses'][$body][$hair][10]['padding-bottom'].'px;
 "
-src="i/character/Glasses/Glasses1.png" /> 
+src='.$characterParts['glasses'][$glasses]['img'].' /> 
 
   ' : '').'
 
@@ -1819,8 +1848,12 @@ padding-bottom:'.$characterParts['freckles'][$body][$hair][$glasses][10]['paddin
 
       
    
-      
-   
+
+
+
+
+
+
 
 
 
@@ -1936,7 +1969,9 @@ padding-bottom:'.$characterParts['freckles'][$body][$hair][$glasses][10]['paddin
 
 
 
-      '.($glasses==1 ? '
+       '.($glasses!=0 ? '
+
+
 
    <img class="pagglasses page1glasses" id="page1glasses" style="display:block; position:absolute;
    transform:rotate(0); 
@@ -1947,7 +1982,7 @@ padding-right:'.$characterParts['glasses'][$body][$hair][12]['padding-right'].'p
 padding-top:'.$characterParts['glasses'][$body][$hair][12]['padding-top'].'px;
 padding-bottom:'.$characterParts['glasses'][$body][$hair][12]['padding-bottom'].'px;
 "
-src="i/character/Glasses/Glasses1.png" /> 
+    src='.$characterParts['glasses'][$glasses]['img'].' /> 
 
   ' : '').'
 
@@ -1977,18 +2012,6 @@ padding-bottom:'.$characterParts['freckles'][$body][$hair][$glasses][12]['paddin
          
          '.$pageSeparator.'
        </div>' : '').'
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -2100,8 +2123,9 @@ padding-bottom:'.$characterParts['freckles'][$body][$hair][$glasses][12]['paddin
    
 
 
-    '.($glasses==1 ? '
 
+       '.($glasses!=0 ? '
+           
    <img class="pagglasses page1glasses" id="page1glasses" style="display:block; position:absolute;
    transform:rotate(0); 
 width:'.$characterParts['glasses'][$body][$hair][13]['width'].'px;
@@ -2111,7 +2135,7 @@ padding-right:'.$characterParts['glasses'][$body][$hair][13]['padding-right'].'p
 padding-top:'.$characterParts['glasses'][$body][$hair][13]['padding-top'].'px;
 padding-bottom:'.$characterParts['glasses'][$body][$hair][13]['padding-bottom'].'px;
 "
-src="i/character/Glasses/Glasses1.png" /> 
+   src='.$characterParts['glasses'][$glasses]['img'].' /> 
 
   ' : '').'
 
@@ -2244,7 +2268,9 @@ padding-bottom:'.$characterParts['freckles'][$body][$glasses][13]['padding-botto
 
 
 
-          '.($glasses==1 ? '
+         
+       '.($glasses!=0 ? '
+          
 
    <img class="pagglasses page1glasses" id="page1glasses" style="display:block; position:absolute;
    transform:rotate(0); 
@@ -2255,7 +2281,7 @@ padding-right:'.$characterParts['glasses'][$body][$hair][14]['padding-right'].'p
 padding-top:'.$characterParts['glasses'][$body][$hair][14]['padding-top'].'px;
 padding-bottom:'.$characterParts['glasses'][$body][$hair][14]['padding-bottom'].'px;
 "
-src="i/character/Glasses/Glasses1.png" /> 
+ src='.$characterParts['glasses'][$glasses]['img'].' /> 
 
   ' : '').'
 
@@ -2478,7 +2504,8 @@ padding-bottom:'.$characterParts['freckles'][$body][$glasses][14]['padding-botto
 
         
 
-        '.($glasses==1 ? '
+       '.($glasses!=0 ? '
+           
 
    <img class="pagglasses page1glasses" id="page1glasses" style="display:block; position:absolute;
    transform:rotate(0); 
@@ -2489,7 +2516,7 @@ padding-right:'.$characterParts['glasses'][$body][$hair][16]['padding-right'].'p
 padding-top:'.$characterParts['glasses'][$body][$hair][16]['padding-top'].'px;
 padding-bottom:'.$characterParts['glasses'][$body][$hair][16]['padding-bottom'].'px;
 "
-src="i/character/Glasses/Glasses1.png" /> 
+ src='.$characterParts['glasses'][$glasses]['img'].' /> 
 
   ' : '').'
 
@@ -2544,6 +2571,7 @@ padding-bottom:'.$characterParts['freckles'][$body][$glasses][16]['padding-botto
 
 
 
+      
        '.(in_array(17,$pages) ? '<div id="page17area" class="pagearea page17area" style="overflow:hidden">
 
                 <div style="background-image:url(i/pages/StillnessPACKAGE/StillnessSpread'.$res.');  
@@ -2557,7 +2585,7 @@ padding-bottom:'.$characterParts['freckles'][$body][$glasses][16]['padding-botto
 
       <img class="pagehair page1hair" id="page1hair" style="display:block;position:absolute; 
 width:900px;
-height:500px;
+height:510px;
 padding-top:450px;
 padding-bottom:-500px;
 padding-right:-300px;
@@ -2583,6 +2611,7 @@ padding-left:350px;
 
 
 
+
           <img class="pageyes page2eyes" id="page2eyes"     style=" ply:block;position:absolute; 
   
       padding-bottom:'.$characterParts['eyes'][$eyes][$hair][$body][17]['padding-bottom'].'px;
@@ -2597,18 +2626,19 @@ padding-left:350px;
 
 
 
-        '.($glasses==1 ? '
+        '.($glasses!=0 ? '
+          
 
    <img class="pagglasses page1glasses" id="page1glasses" style="display:block; position:absolute;
    transform:rotate(330); 
-width:'.$characterParts['glasses'][$body][$hair][17]['width'].'px;
-height:'.$characterParts['glasses'][$body][$hair][17]['height'].'px;
-padding-left:'.$characterParts['glasses'][$body][$hair][17]['padding-left'].'px;
-padding-right:'.$characterParts['glasses'][$body][$hair][17]['padding-right'].'px;
-padding-top:'.$characterParts['glasses'][$body][$hair][17]['padding-top'].'px;
-padding-bottom:'.$characterParts['glasses'][$body][$hair][17]['padding-bottom'].'px;
+width:'.$characterParts['glasses'][$body][$hair][$eyes][17]['width'].'px;
+height:'.$characterParts['glasses'][$body][$hair][$eyes][17]['height'].'px;
+padding-left:'.$characterParts['glasses'][$body][$hair][$eyes][17]['padding-left'].'px;
+padding-right:'.$characterParts['glasses'][$body][$hair][$eyes][17]['padding-right'].'px;
+padding-top:'.$characterParts['glasses'][$body][$hair][$eyes][17]['padding-top'].'px;
+padding-bottom:'.$characterParts['glasses'][$body][$hair][$eyes][17]['padding-bottom'].'px;
 "
-src="i/character/Glasses/Glasses1.png" /> 
+ src='.$characterParts['glasses'][$glasses]['img'].' /> 
 
   ' : '').'
 
@@ -2617,15 +2647,20 @@ src="i/character/Glasses/Glasses1.png" />
       '.($freckles==1 ? '
 
   <img class="pagglasses page1glasses" id="page1glasses" style="position:absolute;   transform:rotate(330); 
-width:'.$characterParts['freckles'][$body][$hair][$glasses][17]['width'].'px;
-height:'.$characterParts['freckles'][$body][$hair][$glasses][17]['height'].'px;
-padding-left:'.$characterParts['freckles'][$body][$hair][$glasses][17]['padding-left'].'px;
-padding-right:'.$characterParts['freckles'][$body][$hair][$glasses][17]['padding-right'].'px;
-padding-top:'.$characterParts['freckles'][$body][$hair][$glasses][17]['padding-top'].'px;
-padding-bottom:'.$characterParts['freckles'][$body][$hair][$glasses][17]['padding-bottom'].'px; "
+width:'.$characterParts['freckles'][$body][$hair][$glasses][$eyes][17]['width'].'px;
+height:'.$characterParts['freckles'][$body][$hair][$glasses][$eyes][17]['height'].'px;
+padding-left:'.$characterParts['freckles'][$body][$hair][$glasses][$eyes][17]['padding-left'].'px;
+padding-right:'.$characterParts['freckles'][$body][$hair][$glasses][$eyes][17]['padding-right'].'px;
+padding-top:'.$characterParts['freckles'][$body][$hair][$glasses][$eyes][17]['padding-top'].'px;
+padding-bottom:'.$characterParts['freckles'][$body][$hair][$glasses][$eyes][17]['padding-bottom'].'px; "
     src="i/character/Freckles/FrecklesPointsHiRes-01.png" /> 
 
   ' : '').'
+
+
+
+
+
          </div></div>
 
 
@@ -2665,6 +2700,25 @@ padding-bottom:'.$characterParts['freckles'][$body][$hair][$glasses][17]['paddin
          </div>
          '.$pageSeparator.'
        </div>' : '').'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2755,8 +2809,9 @@ padding-bottom:'.$characterParts['freckles'][$body][$hair][$glasses][17]['paddin
 
         
 
-        '.($glasses==1 ? '
-
+      
+        '.($glasses!=0 ? '
+            
    <img class="pagglasses page1glasses" id="page1glasses" style="display:block; position:absolute;
    transform:rotate(340); 
 width:'.$characterParts['glasses'][$body][$hair][19]['width'].'px;
@@ -2766,7 +2821,7 @@ padding-right:'.$characterParts['glasses'][$body][$hair][19]['padding-right'].'p
 padding-top:'.$characterParts['glasses'][$body][$hair][19]['padding-top'].'px;
 padding-bottom:'.$characterParts['glasses'][$body][$hair][19]['padding-bottom'].'px;
 "
-src="i/character/Glasses/Glasses1.png" /> 
+ src='.$characterParts['glasses'][$glasses]['img'].' /> 
 
   ' : '').'
 
@@ -2828,14 +2883,6 @@ padding-bottom:'.$characterParts['freckles'][$body][$hair][$glasses][19]['paddin
 
 
 
-
-
-
-
-
-
-
-
         '.(in_array(20,$pages) ? '<div id="page20area" class="pagearea page20area">
         
 
@@ -2875,8 +2922,9 @@ padding-bottom:'.$characterParts['freckles'][$body][$hair][$glasses][19]['paddin
 
 
 
-             '.($glasses==1 ? '
-
+          
+        '.($glasses!=0 ? '
+         
    <img class="pagglasses page1glasses" id="page1glasses" style="display:block; position:absolute;
    transform:rotate(0); 
 width:'.$characterParts['glasses'][$body][$hair][20]['width'].'px;
@@ -2886,7 +2934,7 @@ padding-right:'.$characterParts['glasses'][$body][$hair][20]['padding-right'].'p
 padding-top:'.$characterParts['glasses'][$body][$hair][20]['padding-top'].'px;
 padding-bottom:'.$characterParts['glasses'][$body][$hair][20]['padding-bottom'].'px;
 "
-src="i/character/Glasses/Glasses1.png" /> 
+   src='.$characterParts['glasses'][$glasses]['img'].' /> 
 
   ' : '').'
 
@@ -2945,11 +2993,6 @@ padding-bottom:'.$characterParts['freckles'][$body][$glasses][$hair][20]['paddin
          </div>
          '.$pageSeparator.'
        </div>' : '').'
-
-
-
-
-
 
 
 
@@ -3092,7 +3135,7 @@ padding-bottom:'.$characterParts['freckles'][$body][$glasses][$hair][20]['paddin
    <div style="background-color:#ff0000"></div>
      </div>';
    
-   //print_r($html);exit;
+    //print_r($html);exit;
    
    
     $pdf->writeHTML($html);

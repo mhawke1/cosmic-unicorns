@@ -161,6 +161,25 @@ display: none;
     background-color: #fff;
 }
 
+.glassesselector {
+    position: relative !important;
+    left: 36px !important;
+    top: 2px !important;
+    width: 44px !important;
+}
+
+
+.xselector {
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    color: #ff0000;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 0px;
+    left: 35px;
+}
   
 }
 
@@ -243,6 +262,30 @@ display: none;
     left: -125px;
 }
   
+  
+  
+  
+.glassesselector {
+    position: relative !important;
+    left: 36px !important;
+    top: 2px !important;
+    width: 44px !important;
+}
+
+
+.xselector {
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    color: #ff0000;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 0px;
+    left: 35px;
+}
+
+
 }
 
 
@@ -534,6 +577,28 @@ div.cws_fa_wrapper.round {
     margin-left: -1px !important;
     height: 28px !important;
     padding-top: 6px;
+}
+
+
+
+.glassesselector {
+    position: relative !important;
+    left: 36px !important;
+    top: 2px !important;
+    width: 44px !important;
+}
+
+
+.xselector {
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    color: #ff0000;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 0px;
+    left: 35px;
 }
 
 }

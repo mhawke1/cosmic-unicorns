@@ -11,7 +11,22 @@ character['glasses']=null;
 character['hair']=6;
 character['haircolor']=3;
 
+
+var glassPart=[];
+    glassPart[1]='i/character/Glasses/Glasses1.png';
+    glassPart[2]='i/character/Glasses/Glasses2.png';
+    glassPart[3]='i/character/Glasses/Glasses3.png';
+    glassPart[4]='i/character/Glasses/Glasses4.png';
+
+
+
+
 var characterParts=[];
+
+
+
+   
+    
 
 characterParts['body']=[];
 characterParts['body'][0]=[];
@@ -291,6 +306,11 @@ characterParts['eyes'][1]['color'][2]='i/character/Eyes/EyesEyelashes/2EyesGreen
 characterParts['eyes'][1]['color'][3]='i/character/Eyes/EyesEyelashes/2EyesGreyLashes-01.png?v='+version;
 characterParts['eyes'][1]['color'][4]='i/character/Eyes/EyesEyelashes/2EyesHazelLashes-01.png?v='+version;
 
+
+
+
+
+
 //var canvasArray=[];
 function updateAllPages()
 {
@@ -509,7 +529,24 @@ function updatePageMain(pageNum,newHeadScaleGroupWidth,bgImgDefWidth,bgImgDefHei
      
      	
      }
-	if(isInt(character['glasses']))$jq('.page'+pageNum+'charactercontainer .pageglasses').show();
+    
+
+    var glassId = document.getElementById('selectedglasses').value;
+     
+
+
+    
+
+      
+
+	if(isInt(character['glasses']))
+        {
+
+        	
+        $jq('.page'+pageNum+'charactercontainer .pageglasses').attr('src',glassPart[glassId]);
+
+		$jq('.page'+pageNum+'charactercontainer .pageglasses').show();
+	}
 	else{$jq('.page'+pageNum+'charactercontainer .pageglasses').hide()}
 	if(isInt(character['freckles']))$jq('.page'+pageNum+'charactercontainer .pagefreckles').show();
 	else{$jq('.page'+pageNum+'charactercontainer .pagefreckles').hide()}
@@ -1998,8 +2035,12 @@ ready(function()
 	$jq('.eyecolorselector[data-value="'+$jq('#selectedeyescolor').val()+'"]').trigger('click');
 	$jq('.bodyselimg[data-value="'+$jq('#selectedbodytype').val()+'"]').trigger('click');
 	$jq('.bodycolorselector[data-value="'+$jq('#selectedskincolor').val()+'"]').trigger('click');
-
+      
+    
 	if($jq('#selectedglasses').val()==1)$jq('#glassesselector0').trigger('click');
+		if($jq('#selectedglasses').val()==2)$jq('#glassesselector1').trigger('click');
+			if($jq('#selectedglasses').val()==3)$jq('#glassesselector2').trigger('click');
+				if($jq('#selectedglasses').val()==4)$jq('#glassesselector3').trigger('click');
 	if($jq('#selectedfreckles').val()==1)$jq('#frecklesselector0').trigger('click');
 
 	$jq('.hiddenpagesinput').each(function()
