@@ -1,0 +1,240 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CWS Portfolio and Staff\n"
+"POT-Creation-Date: 2018-11-14 14:35+0200\n"
+"PO-Revision-Date: 2018-01-22 16:18+0200\n"
+"Last-Translator: \n"
+"Language-Team: CWS Team\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: languages\n"
+
+#: cws-portfolio-staff.php:33 cws-portfolio-staff.php:49
+msgid "Portfolio items"
+msgstr ""
+
+#: cws-portfolio-staff.php:34
+msgid "Portfolio item"
+msgstr ""
+
+#: cws-portfolio-staff.php:35
+msgid "Portfolio"
+msgstr ""
+
+#: cws-portfolio-staff.php:36
+msgid "Add Portfolio Item"
+msgstr ""
+
+#: cws-portfolio-staff.php:37
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: cws-portfolio-staff.php:38
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: cws-portfolio-staff.php:39
+msgid "New Portfolio Item"
+msgstr ""
+
+#: cws-portfolio-staff.php:40
+msgid "View Portfolio Item"
+msgstr ""
+
+#: cws-portfolio-staff.php:41
+msgid "Search Portfolio Item"
+msgstr ""
+
+#: cws-portfolio-staff.php:42
+msgid "No Portfolio Items found"
+msgstr ""
+
+#: cws-portfolio-staff.php:43
+msgid "No Portfolio Items found in Trash"
+msgstr ""
+
+#: cws-portfolio-staff.php:258 cws-portfolio-staff.php:507
+#: cws-portfolio-staff.php:820 cws-portfolio-staff.php:828
+msgid ", "
+msgstr ""
+
+#: cws-portfolio-staff.php:611 cws-portfolio-staff.php:628
+msgid "Staff members"
+msgstr ""
+
+#: cws-portfolio-staff.php:612
+msgid "Staff member"
+msgstr ""
+
+#: cws-portfolio-staff.php:613
+msgid "Our team"
+msgstr ""
+
+#: cws-portfolio-staff.php:614
+msgid "All"
+msgstr ""
+
+#: cws-portfolio-staff.php:615
+msgid "Add new"
+msgstr ""
+
+#: cws-portfolio-staff.php:616
+msgid "Add New Staff Member"
+msgstr ""
+
+#: cws-portfolio-staff.php:617
+msgid "Edit Staff Member's info"
+msgstr ""
+
+#: cws-portfolio-staff.php:618
+msgid "New Staff Member"
+msgstr ""
+
+#: cws-portfolio-staff.php:619
+msgid "View Staff Member's info"
+msgstr ""
+
+#: cws-portfolio-staff.php:620
+msgid "Find Staff Member"
+msgstr ""
+
+#: cws-portfolio-staff.php:621
+msgid "No Staff Members found"
+msgstr ""
+
+#: cws-portfolio-staff.php:622
+msgid "No Staff Members found in Trash"
+msgstr ""
+
+#: cws-portfolio-staff.php:651
+msgid "Departments"
+msgstr ""
+
+#: cws-portfolio-staff.php:652
+msgid "Staff department"
+msgstr ""
+
+#: cws-portfolio-staff.php:653
+msgid "All Staff departments"
+msgstr ""
+
+#: cws-portfolio-staff.php:654
+msgid "Edit Staff department"
+msgstr ""
+
+#: cws-portfolio-staff.php:655
+msgid "View Staff department"
+msgstr ""
+
+#: cws-portfolio-staff.php:656
+msgid "Update Staff department"
+msgstr ""
+
+#: cws-portfolio-staff.php:657
+msgid "Add Staff department"
+msgstr ""
+
+#: cws-portfolio-staff.php:658
+msgid "New Staff department name"
+msgstr ""
+
+#: cws-portfolio-staff.php:659
+msgid "Parent Staff department"
+msgstr ""
+
+#: cws-portfolio-staff.php:660
+msgid "Parent Staff department:"
+msgstr ""
+
+#: cws-portfolio-staff.php:661
+msgid "Search Staff departments"
+msgstr ""
+
+#: cws-portfolio-staff.php:662
+msgid "Popular Staff departments"
+msgstr ""
+
+#: cws-portfolio-staff.php:663 cws-portfolio-staff.php:690
+msgid "Separate with commas"
+msgstr ""
+
+#: cws-portfolio-staff.php:664
+msgid "Add or Remove Staff departments"
+msgstr ""
+
+#: cws-portfolio-staff.php:665
+msgid "Choose from the most used Staff departments"
+msgstr ""
+
+#: cws-portfolio-staff.php:666
+msgid "No Staff departments found"
+msgstr ""
+
+#: cws-portfolio-staff.php:680
+msgid "Positions"
+msgstr ""
+
+#: cws-portfolio-staff.php:681
+msgid "Staff Member position"
+msgstr ""
+
+#: cws-portfolio-staff.php:682
+msgid "All Staff Member positions"
+msgstr ""
+
+#: cws-portfolio-staff.php:683
+msgid "Edit Staff Member position"
+msgstr ""
+
+#: cws-portfolio-staff.php:684
+msgid "View Staff Member position"
+msgstr ""
+
+#: cws-portfolio-staff.php:685
+msgid "Update Staff Member position"
+msgstr ""
+
+#: cws-portfolio-staff.php:686
+msgid "Add Staff Member position"
+msgstr ""
+
+#: cws-portfolio-staff.php:687
+msgid "New Staff Member position name"
+msgstr ""
+
+#: cws-portfolio-staff.php:688
+msgid "Search Staff Member positions"
+msgstr ""
+
+#: cws-portfolio-staff.php:689
+msgid "Popular Staff Member positions"
+msgstr ""
+
+#: cws-portfolio-staff.php:691
+msgid "Add or Remove Staff Member positions"
+msgstr ""
+
+#: cws-portfolio-staff.php:692
+msgid "Choose from the most used Staff Member positions"
+msgstr ""
+
+#: cws-portfolio-staff.php:693
+msgid "No Staff Member positions found"
+msgstr ""
+
+#: cws-portfolio-staff.php:901
+msgid "Departments: "
+msgstr ""
+
+#: cws-portfolio-staff.php:910
+msgid "Positions: "
+msgstr ""

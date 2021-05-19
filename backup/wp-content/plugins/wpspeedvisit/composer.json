@@ -1,0 +1,15 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/metatick/imincomelab-plugin-lib"
+        }
+    ],
+    "require": {
+        "yahnis-elsts/plugin-update-checker": "v4.4",
+        "imincomelab/wordpress-lib": "dev-master"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}

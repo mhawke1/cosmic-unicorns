@@ -1,0 +1,97 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "d76d6df60f2db0f93024902828de09d7",
+    "packages": [
+        {
+            "name": "imincomelab/wordpress-lib",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:metatick/imincomelab-plugin-lib.git",
+                "reference": "b62e56c1d45558c3f0b3687da972f74400f56a0c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/metatick/imincomelab-plugin-lib/zipball/b62e56c1d45558c3f0b3687da972f74400f56a0c",
+                "reference": "b62e56c1d45558c3f0b3687da972f74400f56a0c",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "IMIncomeLab\\": "src"
+                }
+            },
+            "license": [
+                "Private"
+            ],
+            "support": {
+                "source": "https://github.com/metatick/imincomelab-plugin-lib/tree/master",
+                "issues": "https://github.com/metatick/imincomelab-plugin-lib/issues"
+            },
+            "time": "2018-05-28T04:55:13+00:00"
+        },
+        {
+            "name": "yahnis-elsts/plugin-update-checker",
+            "version": "v4.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/YahnisElsts/plugin-update-checker.git",
+                "reference": "da4286343601e1f5c01836e1d51e1c57cedb0f6d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/YahnisElsts/plugin-update-checker/zipball/da4286343601e1f5c01836e1d51e1c57cedb0f6d",
+                "reference": "da4286343601e1f5c01836e1d51e1c57cedb0f6d",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.2.0"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "plugin-update-checker.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Yahnis Elsts",
+                    "email": "whiteshadow@w-shadow.com",
+                    "homepage": "http://w-shadow.com/",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A custom update checker for WordPress plugins and themes. Useful if you can't host your plugin in the official WP repository but still want it to support automatic updates.",
+            "homepage": "https://github.com/YahnisElsts/plugin-update-checker/",
+            "keywords": [
+                "automatic updates",
+                "plugin updates",
+                "theme updates",
+                "wordpress"
+            ],
+            "time": "2017-12-22T10:39:11+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "imincomelab/wordpress-lib": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

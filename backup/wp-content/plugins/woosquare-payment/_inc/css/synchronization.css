@@ -1,0 +1,133 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 21, 2016, 3:45:17 PM
+    Author     : Omar ELsayed <omarelsayed1992@gmail.com>
+*/
+
+cd-popup button:disabled {
+    color:gray; 
+}
+
+
+.sync-success{
+    background-color: green;
+}
+
+
+.sync-failure{
+    background-color: red;
+}
+
+
+table.gridtable {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #666666;
+	border-collapse: collapse;
+}
+table.gridtable th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #dedede;
+}
+table.gridtable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #ffffff;
+}
+
+
+
+
+/* -------------------------------- 
+
+xpopup custom> style popup -- 31/8/2016
+
+-------------------------------- */
+
+
+
+div#sync-content {
+    padding: 0 15px;
+}
+
+.square-update a {
+    text-decoration: none;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+.sync-data {
+    max-height: 350px;
+    min-height: 300px;
+    overflow-y: scroll;
+}
+
+.sync-elements h2 {
+    text-align: center;
+}
+
+.sync-elements h3 {
+    font-size: 1.1em;
+}
+
+.square-action {
+    min-height: 30px;
+    line-height: 30px;
+    border-radius: 3px;
+    padding: 5px 10px;
+    background-color: #f2f2f2;
+    margin-bottom: 5px;
+}
+
+.sync-success {
+    background-color: rgba(76,175,80,.2) !important;
+}
+
+.sync-failure {
+    background-color: rgba(255,0,0,.2) !important;
+}
+
+.square-action .right {
+    float: right;
+    border: 2px solid;
+    border-radius: 50%;
+    margin-top: 3px;
+}
+
+.sync-success span.dashicons.dashicons-yes {
+    color: #4CAF50;
+}
+
+.sync-failure span.dashicons.dashicons-no-alt {
+    color: red;
+}
+
+ul.cd-buttons.end li {
+    width: 100%;
+}
+
+div#sync-error {
+    padding: 54px 20px;
+    min-height: 300px;
+    box-sizing: border-box;
+}
+
+/* -------------------------------- 
+
+xpopup custom style logs -- 31/8/2016
+
+--------
+.cd-popup-container button:enabled{
+    cursor: pointer;
+}
