@@ -556,10 +556,21 @@ $pages = isset($getCart['pages']) ? $getCart['pages'] : null;
 																		<li>
 																			<div id="glassesselectornull"
 																				class="glassesselector  xselector" data-value="">X</div>
-																		</li>
-																		<li><img id="glassesselector0" class="glassesselector"
-																			src="./i/character/Glasses/Glasses1.png" width="108"
-																			height="" data-value="0" /></li>
+																		</li>  <li>
+                                       <img id="glassesselector0" class="glassesselector" src="./i/character/Glasses/Glasses1.png" width="80" height="" data-value="1" />
+                                    </li>
+
+                                      <li>
+                                       <img id="glassesselector1" class="glassesselector" src="./i/character/Glasses/Glasses2.png" width="80" height="" data-value="2" />
+                                    </li>
+
+                                      <li>
+                                       <img id="glassesselector2" class="glassesselector" src="./i/character/Glasses/Glasses3.png" width="80" height="" data-value="3" />
+                                    </li>
+
+                                      <li>
+                                       <img id="glassesselector3" class="glassesselector" src="./i/character/Glasses/Glasses4.png" width="80" height="" data-value="4" />
+                                    </li>
 																		<li style="height: 50px">&nbsp;</li>
 																	</div>
 																	<div id="frecklesselect">

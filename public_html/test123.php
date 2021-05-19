@@ -280,7 +280,7 @@ array_unshift($pages ,0);
     </div>
     <?php 
 
-        $pages=['4'];
+        $pages=['3'];
       $childsImage ='<img src="upload/'.htmlentities($paymentRow['childspicture']).'" class="lovenotechildspicture" style="width:unset !important;height:unset !important;max-width:100% !important;max-height:100% !important;margin-left:auto !important;margin-right:auto !important;" />';
       echo pageSpreadsHtmlTest('',true,$pages,htmlentities('upload/'.$paymentRow['childspicture']));
       //echo pageSpreadsHtml($childsImage,true,[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14]);
