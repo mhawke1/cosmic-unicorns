@@ -1,0 +1,78 @@
+.product-remove a
+{
+	line-height:100% !important;
+}
+
+
+input.error
+{
+	border-color:#ff6766;
+}
+
+#partselectors
+{
+	position:relative;
+	left:-100px;
+}
+
+
+.main-nav-container .main-menu>.menu-item>a
+{
+	padding:15px 20px !important;
+}
+
+
+.main-nav-container.a-right
+{
+	text-align:center;
+}
+
+
+#hairselect img, #hisabselect img, #eyesselect img,#bodyselect img
+
+{
+	height:50px;
+}
+
+#hairselector,#hairselector,#eyeselector,#extrasselector,#bodyselector
+{
+	width:127px !important;
+	height:66px !important;
+	margin-bottom:-33px !important;
+}
+
+#charactereditorarea img,#characterpagesarea img
+{
+	vertical-align:middle !important;
+}
+
+#hero-section ul li::before
+{
+	content:unset !important;
+	padding:0px !important;
+}
+
+
+#hero-section img,#hero-section iframe,#hero-section .wp-caption,#hero-section select
+{
+	max-width:unset !important;
+}
+
+.contact-form .cf-form-control-wrap,#s2id_reasons
+{
+	width:100% !important;
+}
+
+#childsnameinput,#lovenoteinput,#lovenotefrominput
+{
+	color:grey;
+}
+
+
+.page10micro{
+
+   display:block;position:relative; max-width: 195px !important;left: -56px;top: -19px;
+}
+
+
+

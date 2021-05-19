@@ -1,0 +1,2337 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kiddy - Multipurpose Children WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-16 14:37+0200\n"
+"PO-Revision-Date: 2018-04-03 09:55+0300\n"
+"Last-Translator: admin <support@cwsthemes.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html_e;esc_html__;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: language/kiddy/framework/rc/assets/js\n"
+"X-Poedit-SearchPathExcluded-1: language/kiddy/js\n"
+"X-Poedit-SearchPathExcluded-2: core/js\n"
+
+#: 404.php:21
+msgid "Sorry"
+msgstr ""
+
+#: 404.php:21
+msgid "page not found"
+msgstr ""
+
+#: 404.php:26
+msgid "Please, proceed to our "
+msgstr ""
+
+#: 404.php:26
+msgid "Home page"
+msgstr ""
+
+#: comments.php:17
+msgid "Comments"
+msgstr ""
+
+#: comments.php:28
+msgid "Comments are closed."
+msgstr ""
+
+#: core/bfi_thumb.php:117
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: core/bfi_thumb.php:229
+msgid "Image rotate failed."
+msgstr ""
+
+#: core/bfi_thumb.php:250
+msgid "Image opacity change failed."
+msgstr ""
+
+#: core/bfi_thumb.php:326
+msgid "Image color change failed."
+msgstr ""
+
+#: core/bfi_thumb.php:342
+msgid "Image grayscale failed."
+msgstr ""
+
+#: core/bfi_thumb.php:358
+msgid "Image negate failed."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:333 core/plugins.php:129
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:334 core/plugins.php:130
+msgid "Install Plugins"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:335 core/plugins.php:131
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:336 core/plugins.php:132
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:397 core/plugins.php:143
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:399
+#: core/class-tgm-plugin-activation.php:3034 core/plugins.php:144
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:524
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:525
+msgid "Update Required"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:639
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:833
+#: core/class-tgm-plugin-activation.php:3444
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:940
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:940
+#: core/class-tgm-plugin-activation.php:943
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:943
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2172
+msgid "Required"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2175
+msgid "Recommended"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2191
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2194
+msgid "External Source"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2197
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2214
+msgid "Not Installed"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2218
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2220
+msgid "Active"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2226
+msgid "Required Update not Available"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2229
+msgid "Requires Update"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2232
+msgid "Update recommended"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2384
+msgid "Installed version:"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2392
+msgid "Minimum required version:"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2404
+msgid "Available version:"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2441
+msgid "Plugin"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2442 functions.php:506
+msgid "Source"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2443
+msgid "Type"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2447
+msgid "Version"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2448
+msgid "Status"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2575
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2608
+msgid "Install"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2614
+msgid "Update"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2617
+msgid "Activate"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2648
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2650
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2686
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2688
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2793
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2819
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3033
+msgid "Plugin activation failed."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3367
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3371
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3376
+#: core/class-tgm-plugin-activation.php:3382
+msgid "Show Details"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3376
+#: core/class-tgm-plugin-activation.php:3382
+msgid "Hide Details"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3377
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3381
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3382
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3383
+msgid "All installations have been completed."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3384
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/pb.php:187 core/pb.php:191
+msgid "From"
+msgstr ""
+
+#: core/pb.php:187 core/pb.php:191
+msgid "till"
+msgstr ""
+
+#: core/pb.php:259 core/pb.php:269
+msgid "Select"
+msgstr ""
+
+#: core/pb.php:260
+msgid "Remove"
+msgstr ""
+
+#: core/plugins.php:103
+msgid "Contact Form 7"
+msgstr ""
+
+#: core/plugins.php:108
+msgid "oAuth Twitter Feed for Developers"
+msgstr ""
+
+#: core/plugins.php:145
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:49 functions.php:125 functions.php:239 functions.php:579
+#: plugins/kiddy-essentials/core/framework/config.php:1216
+#: plugins/kiddy-essentials/core/metaboxes.php:192
+#: plugins/kiddy-essentials/core/scg.php:32
+#: plugins/kiddy-essentials/core/scg.php:111
+#: plugins/kiddy-essentials/core/scg.php:198
+msgid "Title"
+msgstr ""
+
+#: functions.php:53 functions.php:416
+msgid "Button name"
+msgstr ""
+
+#: functions.php:58
+msgid "Button URL"
+msgstr ""
+
+#: functions.php:63
+msgid "Custom colors"
+msgstr ""
+
+#: functions.php:68 functions.php:562
+msgid "Pattern"
+msgstr ""
+
+#: functions.php:223
+msgid "Alt style"
+msgstr ""
+
+#: functions.php:243 functions.php:293 functions.php:362 functions.php:443
+msgid "Margins (px)"
+msgstr ""
+
+#: functions.php:253 functions.php:303 functions.php:372 functions.php:453
+msgid "Extra Class"
+msgstr ""
+
+#: functions.php:254 functions.php:304 functions.php:373 functions.php:454
+msgid "Space separated class names"
+msgstr ""
+
+#: functions.php:258
+msgid "Display"
+msgstr ""
+
+#: functions.php:267
+msgid "Departments "
+msgstr ""
+
+#: functions.php:273
+msgid "Items per page"
+msgstr ""
+
+#: functions.php:411
+msgid "Post text length"
+msgstr ""
+
+#: functions.php:470
+msgid "Custom Background"
+msgstr ""
+
+#: functions.php:475
+msgid "Media type"
+msgstr ""
+
+#: functions.php:485
+msgid "Image"
+msgstr ""
+
+#: functions.php:491
+msgid "This is HiDPI image"
+msgstr ""
+
+#: functions.php:496 plugins/kiddy-essentials/core/framework/config.php:999
+msgid "Video type"
+msgstr ""
+
+#: functions.php:511
+msgid "YouTube ID"
+msgstr ""
+
+#: functions.php:517
+msgid "Vimeo embed URL"
+msgstr ""
+
+#: functions.php:524 plugins/kiddy-essentials/core/scg.php:126
+#: plugins/kiddy-essentials/core/scg.php:333
+msgid "Background Color"
+msgstr ""
+
+#: functions.php:533 plugins/kiddy-essentials/core/scg.php:49
+msgid "Color"
+msgstr ""
+
+#: functions.php:540 plugins/kiddy-essentials/core/framework/config.php:1041
+msgid "Opacity"
+msgstr ""
+
+#: functions.php:541 plugins/kiddy-essentials/core/framework/config.php:1042
+msgid "In percents"
+msgstr ""
+
+#: functions.php:549
+msgid "Apply Parallax"
+msgstr ""
+
+#: functions.php:555
+msgid "Parallax speed"
+msgstr ""
+
+#: functions.php:567
+msgid "Font color"
+msgstr ""
+
+#: functions.php:583 plugins/kiddy-essentials/widgets/cws_twitter.php:16
+msgid "Tweets to extract"
+msgstr ""
+
+#: functions.php:587 plugins/kiddy-essentials/widgets/cws_twitter.php:21
+msgid "Tweets to show"
+msgstr ""
+
+#: functions.php:591 plugins/kiddy-essentials/widgets/cws_latest_posts.php:37
+#: plugins/kiddy-essentials/widgets/cws_twitter.php:26
+msgid "Show date"
+msgstr ""
+
+#: functions.php:603
+msgid "Apply Animation"
+msgstr ""
+
+#: functions.php:608
+msgid "Effect"
+msgstr ""
+
+#: functions.php:676
+msgid "Duration (sec)"
+msgstr ""
+
+#: functions.php:682
+msgid "Delay (sec)"
+msgstr ""
+
+#: functions.php:688
+msgid "Offset (px, related to bottom)"
+msgstr ""
+
+#: functions.php:694
+msgid "Iteration"
+msgstr ""
+
+#: functions.php:755
+msgid ""
+" theme notice: Please insert your Item Purchase Code in Theme Options to get "
+"the latest theme updates!"
+msgstr ""
+
+#: functions.php:795
+msgid "Navigation Menu"
+msgstr ""
+
+#: functions.php:796
+msgid "SideBar Menu"
+msgstr ""
+
+#: functions.php:894
+#: plugins/kiddy-essentials/core/framework/rc/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: functions.php:895 image.php:139 single-cws_portfolio.php:121
+msgid "Next"
+msgstr ""
+
+#: functions.php:896 image.php:136 single-cws_portfolio.php:118
+msgid "Prev"
+msgstr ""
+
+#: functions.php:897
+msgid "The requested content cannot be loaded. Please try again later."
+msgstr ""
+
+#: functions.php:2520
+msgid "Load More"
+msgstr ""
+
+#: functions.php:2600
+msgid "Next Page"
+msgstr ""
+
+#: functions.php:2601
+msgid "Previous Page"
+msgstr ""
+
+#: functions.php:2642 functions.php:2663 search.php:132
+msgid "Read More"
+msgstr ""
+
+#: functions.php:2798
+msgid "BACK"
+msgstr ""
+
+#: functions.php:3172
+msgid "Reply"
+msgstr ""
+
+#: functions.php:3180
+msgid " at "
+msgstr ""
+
+#: functions.php:3181
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:3187
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:3221
+msgid "Older Comments"
+msgstr ""
+
+#: functions.php:3225
+msgid "Newer Comments"
+msgstr ""
+
+#: header.php:42 header.php:56 plugins/kiddy-essentials/core/breadcrumbs.php:4
+msgid "Home"
+msgstr ""
+
+#: header.php:43
+#, php-format
+msgid "Category \"%s\""
+msgstr ""
+
+#: header.php:44 plugins/kiddy-essentials/core/breadcrumbs.php:6
+#, php-format
+msgid "Search for \"%s\""
+msgstr ""
+
+#: header.php:45 plugins/kiddy-essentials/core/breadcrumbs.php:7
+#, php-format
+msgid "Archive by %s \"%s\""
+msgstr ""
+
+#: header.php:46 plugins/kiddy-essentials/core/breadcrumbs.php:8
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: header.php:47 plugins/kiddy-essentials/core/breadcrumbs.php:9
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: header.php:48 plugins/kiddy-essentials/core/breadcrumbs.php:10
+msgid "Error 404"
+msgstr ""
+
+#: header.php:52
+msgid "404 Page"
+msgstr ""
+
+#: header.php:54 searchform.php:6
+msgid "Search"
+msgstr ""
+
+#: header.php:273
+msgid "View your shopping cart"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:33
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:49
+msgid "Portfolio items"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:34
+msgid "Portfolio item"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:35
+msgid "Portfolio"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:36
+msgid "Add Portfolio Item"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:37
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:38
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:39
+msgid "New Portfolio Item"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:40
+msgid "View Portfolio Item"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:41
+msgid "Search Portfolio Item"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:42
+msgid "No Portfolio Items found"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:43
+msgid "No Portfolio Items found in Trash"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:258
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:507
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:820
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:828
+msgid ", "
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:611
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:628
+msgid "Staff members"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:612
+msgid "Staff member"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:613
+msgid "Our team"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:614
+#: plugins/kiddy-essentials/core/shortcodes.php:1009
+#: plugins/kiddy-essentials/core/shortcodes.php:1102
+#: plugins/kiddy-essentials/core/shortcodes.php:1250
+msgid "All"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:615
+msgid "Add new"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:616
+msgid "Add New Staff Member"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:617
+msgid "Edit Staff Member's info"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:618
+msgid "New Staff Member"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:619
+msgid "View Staff Member's info"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:620
+msgid "Find Staff Member"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:621
+msgid "No Staff Members found"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:622
+msgid "No Staff Members found in Trash"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:651
+msgid "Departments"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:652
+msgid "Staff department"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:653
+msgid "All Staff departments"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:654
+msgid "Edit Staff department"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:655
+msgid "View Staff department"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:656
+msgid "Update Staff department"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:657
+msgid "Add Staff department"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:658
+msgid "New Staff department name"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:659
+msgid "Parent Staff department"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:660
+msgid "Parent Staff department:"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:661
+msgid "Search Staff departments"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:662
+msgid "Popular Staff departments"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:663
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:690
+msgid "Separate with commas"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:664
+msgid "Add or Remove Staff departments"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:665
+msgid "Choose from the most used Staff departments"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:666
+msgid "No Staff departments found"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:680
+msgid "Positions"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:681
+msgid "Staff Member position"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:682
+msgid "All Staff Member positions"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:683
+msgid "Edit Staff Member position"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:684
+msgid "View Staff Member position"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:685
+msgid "Update Staff Member position"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:686
+msgid "Add Staff Member position"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:687
+msgid "New Staff Member position name"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:688
+msgid "Search Staff Member positions"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:689
+msgid "Popular Staff Member positions"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:691
+msgid "Add or Remove Staff Member positions"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:692
+msgid "Choose from the most used Staff Member positions"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:693
+msgid "No Staff Member positions found"
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:901
+msgid "Departments: "
+msgstr ""
+
+#: plugins/cws-portfolio-staff/cws-portfolio-staff.php:910
+msgid "Positions: "
+msgstr ""
+
+#: plugins/kiddy-essentials/core/breadcrumbs.php:5
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: plugins/kiddy-essentials/core/breadcrumbs.php:185
+msgid "Page"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:123
+#: plugins/kiddy-essentials/core/framework/config.php:124
+msgid "Theme Options"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:258
+msgid "General Settings"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:265
+msgid "Logotype"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:273
+msgid "Logo"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:280
+msgid "Options"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:282
+msgid "This is a High-Resolution logo"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:283
+msgid "Add logotype border"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:300
+msgid "Dimensions"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:309
+#: plugins/kiddy-essentials/core/framework/config.php:408
+msgid "Position"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:311
+#: plugins/kiddy-essentials/core/framework/config.php:410
+#: plugins/kiddy-essentials/core/metaboxes.php:86
+#: plugins/kiddy-essentials/core/scg.php:406
+msgid "Left"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:312
+#: plugins/kiddy-essentials/core/framework/config.php:411
+msgid "Center"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:313
+#: plugins/kiddy-essentials/core/framework/config.php:412
+#: plugins/kiddy-essentials/core/metaboxes.php:87
+#: plugins/kiddy-essentials/core/scg.php:407
+msgid "Right"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:314
+msgid "Inner"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:321
+msgid "Inner position"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:337
+msgid "Spacings"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:349
+#: plugins/kiddy-essentials/core/framework/config.php:372
+msgid "Sticky logo"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:357
+msgid "Mobile & Sticky"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:365
+msgid "Apply sticky menu"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:379
+msgid "High-Resolution sticky logo"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:387
+msgid "Mobile logo"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:393
+msgid "High-Resolution logo"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:400
+msgid "Menu"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:418
+msgid "Header hovers slider"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:429
+msgid "Add bees to the menu"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:434
+msgid "Enable mobile menu"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:446
+msgid "TopBar"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:453
+msgid "TopBar appearance"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:456
+msgid "Hidden"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:457
+msgid "Toggled"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:458
+msgid "Static"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:470
+msgid "Show search icon"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:476
+msgid "Content"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:483
+msgid "Meta & Slugs"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:491
+msgid "Show breadcrumbs"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:497
+msgid "Show post author"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:503
+msgid "Portfolio slug"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:509
+msgid "Staff slug"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:516
+msgid "Theme Updates"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:524
+msgid "Theme purchase code"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:525
+msgid ""
+"Fill in this field to get automatic theme updates and import Demo content. "
+"It's not needed if you got this theme from Envato Elemets."
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:535
+msgid "Styling Options"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:542
+msgid "Colors"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:550
+msgid "Theme Color"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:558
+msgid "Secondary Color"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:566
+msgid "Outline Color"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:574
+msgid "Menu Color"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:582
+msgid "Hover Menu Color"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:590
+msgid "Footer Color"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:599
+msgid "Patterns"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:607
+msgid "Theme patterns"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:609
+msgid "0"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:610
+msgid "1"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:611
+msgid "2"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:612
+msgid "3"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:613
+msgid "4"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:614
+msgid "5"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:615
+msgid "6"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:616
+msgid "7"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:617
+msgid "8"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:618
+msgid "9"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:619
+msgid "custom"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:628
+msgid "Add custom pattern"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:635
+msgid "High-Resolution pattern"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:644
+msgid "Benefits pattern"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:651
+msgid "Footer pattern"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:658
+msgid "Content items pattern"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:665
+msgid "Footer image"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:671
+msgid "High-Resolution footer img"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:678
+msgid "Layout"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:686
+msgid "Apply Boxed Layout"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:695
+msgid "Background Settings"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:701
+msgid "Apply cloud style"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:706
+msgid "Customize headers"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:714
+msgid "Header image"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:722
+msgid "Header pattern"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:733
+msgid "Header Spacings"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:744
+msgid "Layout Options"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:751
+msgid "Sidebars"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:762
+msgid "Page Sidebar Position"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:763
+msgid "You can override these settings on each page individually."
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:765
+#: plugins/kiddy-essentials/core/framework/config.php:795
+#: plugins/kiddy-essentials/core/framework/config.php:1086
+#: plugins/kiddy-essentials/core/framework/config.php:1154
+msgid "No Sidebar"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:766
+#: plugins/kiddy-essentials/core/framework/config.php:796
+#: plugins/kiddy-essentials/core/framework/config.php:1087
+#: plugins/kiddy-essentials/core/framework/config.php:1106
+#: plugins/kiddy-essentials/core/framework/config.php:1155
+msgid "Left Sidebar"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:767
+#: plugins/kiddy-essentials/core/framework/config.php:786
+#: plugins/kiddy-essentials/core/framework/config.php:797
+#: plugins/kiddy-essentials/core/framework/config.php:816
+#: plugins/kiddy-essentials/core/framework/config.php:1088
+#: plugins/kiddy-essentials/core/framework/config.php:1156
+msgid "Right Sidebar"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:768
+#: plugins/kiddy-essentials/core/framework/config.php:798
+#: plugins/kiddy-essentials/core/framework/config.php:1089
+msgid "Double Sidebars"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:778
+#: plugins/kiddy-essentials/core/framework/config.php:808
+#: plugins/kiddy-essentials/core/framework/config.php:1098
+msgid "Sidebar"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:792
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:793
+msgid "You can override this settings on each page individually."
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:821
+#: plugins/kiddy-essentials/core/metaboxes.php:113
+msgid "Blog Layout"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:823
+#: plugins/kiddy-essentials/core/metaboxes.php:117
+#: plugins/kiddy-essentials/core/scg.php:157
+#: plugins/kiddy-essentials/core/scg.php:215
+msgid "Small"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:824
+#: plugins/kiddy-essentials/core/metaboxes.php:118
+#: plugins/kiddy-essentials/core/scg.php:158
+msgid "Medium"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:825
+#: plugins/kiddy-essentials/core/metaboxes.php:119
+#: plugins/kiddy-essentials/core/scg.php:159
+#: plugins/kiddy-essentials/core/scg.php:217
+msgid "Large"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:826
+#: plugins/kiddy-essentials/core/metaboxes.php:120
+#: plugins/kiddy-essentials/core/scg.php:390
+msgid "Two"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:827
+#: plugins/kiddy-essentials/core/metaboxes.php:121
+#: plugins/kiddy-essentials/core/scg.php:391
+msgid "Three"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:837
+#: plugins/kiddy-essentials/core/framework/config.php:845
+msgid "Sidebar Generator"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:853
+msgid "Footer"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:863
+msgid "Footer's sidebar area"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:864
+msgid ""
+"This options will set the default Footer widget area, unless you override it "
+"on each page."
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:869
+msgid "Footer Copyrights content"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:877
+msgid "Typography"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:885
+msgid "Menu Font"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:904
+msgid "Headers Font"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:926
+msgid "Content Text Font"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:951
+msgid "Home Page"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:959
+#: plugins/kiddy-essentials/core/framework/config.php:980
+msgid "Slider"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:967
+#: plugins/kiddy-essentials/core/framework/config.php:985
+#: plugins/kiddy-essentials/core/metaboxes.php:160
+msgid "Slider shortcode"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:974
+msgid "Video Slider Setting"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:992
+msgid "Video height"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1002
+msgid "Self hosted"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1003
+msgid "Youtube"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1004
+msgid "Vimeo"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1010
+msgid "Add video"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1018
+msgid "Youtube video code"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1025
+msgid "Vimeo embed url"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1032
+msgid "Overlay color"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1048
+msgid "Use pattern image"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1054
+msgid "Pattern image"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1069
+msgid "Static Image"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1075
+msgid "Static Image Height"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1084
+msgid "HomePage Sidebar"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1113
+msgid "Posts Category"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1122
+msgid "Benefits Area"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1123
+msgid "Show widgets of this sidebar under the slider on the Home Page."
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1143
+msgid "WooCommerce"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1152
+msgid "Default WooCommerce Sidebar"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1166
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1171
+msgid "Show WooCommerce Cart"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1177
+msgid "Products per page"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1186
+msgid "Recent products per page"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1200
+msgid "Social Networks"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1209
+#: plugins/kiddy-essentials/core/metaboxes.php:49
+msgid "Social networks"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1210
+msgid "Social network"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1225
+#: plugins/kiddy-essentials/core/scg.php:55
+#: plugins/kiddy-essentials/core/scg.php:139
+#: plugins/kiddy-essentials/core/scg.php:355
+msgid "Icon"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1231
+#: plugins/kiddy-essentials/core/metaboxes.php:280
+#: plugins/kiddy-essentials/core/scg.php:202
+#: plugins/kiddy-essentials/core/scg.php:300
+#: plugins/kiddy-essentials/widgets/cws_text.php:75
+msgid "Url"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1238
+msgid "Icons Location"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1241
+#: plugins/kiddy-essentials/core/metaboxes.php:89
+msgid "None"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1242
+msgid "Top panel"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1243
+msgid "Copyrights area"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1244
+msgid "Top and Copyrights"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1255
+#: plugins/kiddy-essentials/core/framework/config.php:1280
+msgid "Twitter Feed"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1263
+msgid "Enable Twitter Feed"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1272
+msgid "Twitter username"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1290
+msgid "oAuth Twitter Feed for Developers plugin needed!"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1300
+msgid "Theme Manual"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/config.php:1308
+msgid "Select tutorial"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/class.redux_admin_notices.php:97
+msgid "Dismiss"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/extensions/customizer/inc/customizer_panel.php:138
+msgid "Back"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/extensions/customizer/inc/customizer_panel.php:146
+msgid "Help"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/extensions/customizer/inc/customizer_section.php:122
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/extensions/import_export/import_export/field_import_export.php:91
+msgid "Import Options"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/extensions/import_export/import_export/field_import_export.php:95
+msgid "Import from File"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/extensions/import_export/import_export/field_import_export.php:98
+msgid "Import from URL"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid "Import"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/extensions/import_export/import_export/field_import_export.php:120
+msgid "Export Options"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/extensions/import_export/import_export/field_import_export.php:132
+msgid "Copy Data"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/extensions/import_export/import_export/field_import_export.php:133
+msgid "Download Data File"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/extensions/import_export/import_export/field_import_export.php:134
+msgid "Copy Export URL"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/fields/group/field_group.php:117
+msgid "Add"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/fields/group/field_group.php:222
+msgid "Delete"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/tracking.php:152
+msgid "Getting Started"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/tracking.php:154
+msgid "Redux Extensions"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/tracking.php:157
+msgid "Email address"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/templates/panel/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/templates/panel/header_stickybar.tpl.php:21
+msgid "Save Changes"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/templates/panel/header_stickybar.tpl.php:25
+msgid "Reset Section"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/templates/panel/header_stickybar.tpl.php:26
+msgid "Reset All"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/framework/rc/templates/panel/header_stickybar.tpl.php:29
+msgid "Working..."
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:39
+msgid "Reference to single"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:44
+msgid "Add URL to the staff photo."
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:50
+msgid "Add new social network"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:55
+msgid "Social account title"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:61
+msgid "Select the icon for this social contact"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:65
+msgid "Url to your account"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:81
+msgid "Sidebar Position"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:85
+#: plugins/kiddy-essentials/core/metaboxes.php:116
+msgid "Default"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:88
+msgid "Double"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:93
+msgid "Select a sidebar"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:100
+msgid "Select right sidebar"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:107
+msgid "Show Blog posts"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:125
+msgid "Category"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:134
+msgid "Customize footer"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:138
+#: plugins/kiddy-essentials/core/metaboxes.php:149
+msgid "Sidebar area"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:145
+msgid "Add Benefits"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:156
+msgid "Add Image Slider"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:177
+msgid "Use carousel of items"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:182
+msgid "Show related projects"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:188
+msgid "Related projects options"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:193
+msgid "Related projects"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:197
+#: plugins/kiddy-essentials/core/scg.php:386
+msgid "Columns"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:199
+msgid "one"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:200
+msgid "two"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:201
+msgid "three"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:202
+msgid "four"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:207
+msgid "Items count"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:211
+msgid "Enable hover effect"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:217
+#: plugins/kiddy-essentials/core/metaboxes.php:277
+msgid "Link options"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:221
+msgid "Custom url"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:226
+msgid "Open in fancybox"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:243
+msgid "Gallery options"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:246
+msgid "Gallery"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:254
+msgid "Video options"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:257
+msgid "Url to video file"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:265
+msgid "Audio options"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:268
+msgid "Self-hosted/soundclod audio url."
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:269
+msgid "Ex.: /wp-content/uploads/audio.mp3 or http://soundcloud.com/..."
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:288
+msgid "Quote options"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:291
+msgid "Quote"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:292
+msgid "Enter the quote"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:297
+#: plugins/kiddy-essentials/core/scg.php:268
+msgid "Author"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/metaboxes.php:310
+msgid "Enable lightbox"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:17
+msgid "CWS Message Box"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:22
+msgid "Message type"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:25
+msgid "Informational"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:26
+msgid "Warning"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:27
+msgid "Success"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:28
+msgid "Error"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:36
+#: plugins/kiddy-essentials/core/scg.php:263
+#: plugins/kiddy-essentials/widgets/cws_text.php:60
+msgid "Text"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:40
+msgid "Make this box collapsible"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:44
+#: plugins/kiddy-essentials/core/scg.php:84
+#: plugins/kiddy-essentials/core/scg.php:168
+#: plugins/kiddy-essentials/core/scg.php:230
+#: plugins/kiddy-essentials/core/scg.php:272
+msgid "Customize colors"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:63
+msgid "CWS Milestone"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:67
+msgid "Number"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:72
+msgid "Speed"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:73
+msgid "Should be integer"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:78
+msgid "Description"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:89
+msgid "Filling color"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:95
+#: plugins/kiddy-essentials/core/scg.php:328
+msgid "Font Color"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:101
+msgid "Use alternative style"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:107
+msgid "CWS Progress Bar"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:115
+msgid "Progress"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:116
+msgid "In percents ( number from 0 to 100 )"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:121
+msgid "Customize Color Settings"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:134
+msgid "CWS Font Awesome Icon"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:145
+msgid "Shape"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:148
+msgid "Use Squared icon container"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:149
+msgid "Use Round icon container"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:153
+#: plugins/kiddy-essentials/core/scg.php:211
+msgid "Size"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:156
+#: plugins/kiddy-essentials/core/scg.php:214
+msgid "Mini"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:160
+msgid "Extra Large"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:164
+#: plugins/kiddy-essentials/core/scg.php:222
+msgid "Alternative style"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:173
+#: plugins/kiddy-essentials/core/scg.php:235
+#: plugins/kiddy-essentials/core/scg.php:282
+msgid "Font"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:179
+#: plugins/kiddy-essentials/core/scg.php:241
+#: plugins/kiddy-essentials/core/scg.php:288
+msgid "Background"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:185
+#: plugins/kiddy-essentials/core/scg.php:247
+msgid "Border color"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:193
+msgid "CWS Button"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:207
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:216
+msgid "Regular"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:218
+msgid "Extra large"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:226
+msgid "Full width"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:255
+msgid "CWS Testimonial"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:259
+msgid "Thumbnail"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:277
+msgid "Add Pattern"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:296
+msgid "Embed audio/video file"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:301
+msgid "Embed url"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:305
+msgid "Width"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:306
+msgid "Max width in pixels"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:310
+msgid "Height"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:311
+msgid "Max height in pixels"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:317
+msgid "CWS Dropcap"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:322
+msgid "CWS Mark Selection"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:340
+msgid "CWS List Selection"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:345
+msgid "List Style"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:348
+msgid "Dots"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:349
+msgid "Checkmarks"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:350
+msgid "Arrow"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:351
+msgid "Custom Icon"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:363
+msgid "CWS Shortcode Carousel"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:367
+msgid "Some content here"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:370
+msgid "Carousel title"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:374
+msgid "Autoplay"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:380
+msgid "Autoplay speed"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:389
+msgid "One"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:392
+msgid "Four"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:398
+msgid "CWS Bee Icon"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:403
+msgid "Bee direction"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/scg.php:475
+msgid "Insert Shortcode"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/shortcodes.php:23
+msgid "Click Here"
+msgstr ""
+
+#: plugins/kiddy-essentials/core/shortcodes.php:99
+msgid "Twitter API keys and tokens are not set."
+msgstr ""
+
+#: plugins/kiddy-essentials/core/shortcodes.php:1497
+msgid "Twitter responds:"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_latest_posts.php:9
+#: plugins/kiddy-essentials/widgets/cws_portfolio.php:10
+msgid "Widget Title"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_latest_posts.php:14
+msgid "Post categories"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_latest_posts.php:22
+msgid "Post count"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_latest_posts.php:27
+msgid "Visible count"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_latest_posts.php:32
+msgid "Count of chars from post content"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_latest_posts.php:42
+msgid "CWS most recent posts"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_latest_posts.php:43
+msgid "CWS Recent Posts"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_latest_posts.php:113
+msgid "..."
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_latest_posts.php:139
+#: plugins/kiddy-essentials/widgets/cws_portfolio.php:102
+msgid "There are no posts matching the query"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_portfolio.php:16
+msgid "Categories"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_portfolio.php:22
+msgid "Items Count"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_portfolio.php:29
+msgid "Portfolio Items"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_portfolio.php:30
+msgid "CWS Portfolio"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_text.php:10
+#: plugins/kiddy-essentials/widgets/cws_twitter.php:11
+msgid "Widget title"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_text.php:16
+msgid "Show icon options"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_text.php:22
+msgid "Icon color"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_text.php:27
+msgid "Icon type"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_text.php:32
+msgid "icon"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_text.php:33
+msgid "image"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_text.php:37
+msgid "Custom icon"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_text.php:42
+msgid "Image width"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_text.php:48
+msgid "Image height"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_text.php:54
+msgid "Font Awesome character"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_text.php:66
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_text.php:70
+msgid "Add link"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_text.php:80
+msgid "Link text"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_text.php:88
+msgid "Modified WP Text widget"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_text.php:89
+msgid "CWS Benefits"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_twitter.php:32
+msgid "CWS Twitter Widget"
+msgstr ""
+
+#: plugins/kiddy-essentials/widgets/cws_twitter.php:33
+msgid "CWS Twitter"
+msgstr ""
+
+#: search.php:47
+msgid "Empty search string"
+msgstr ""
+
+#: search.php:47
+msgid "Please, enter something to the search field"
+msgstr ""
+
+#: search.php:145
+msgid "No search Results"
+msgstr ""
+
+#: search.php:145
+msgid "There are no posts matching your query"
+msgstr ""
+
+#: searchform.php:3 searchform.php:4
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:80
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:86
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:106
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart.php:76
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:118 woocommerce/cart/mini-cart.php:48
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:139
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:139
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:139
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:144
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:94
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:63
+msgid "Awaiting product image"
+msgstr ""

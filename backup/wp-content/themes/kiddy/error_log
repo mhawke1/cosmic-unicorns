@@ -1,0 +1,4 @@
+[05-Dec-2020 21:17:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function kiddy_get_sidebars() in /home/cosmicu/public_html/new/wp-content/themes/kiddy/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cosmicu/public_html/new/wp-content/themes/kiddy/index.php on line 17

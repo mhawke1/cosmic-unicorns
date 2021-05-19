@@ -1,0 +1,3149 @@
+/******************* PAGE 1 CSS *******************/
+
+
+.page0characterheadstuff .Cornrow {
+	display: block;
+    position: relative;
+    margin-right: -67.1618px;
+    margin-bottom: -45.8611px;
+    left: 24.6946px;
+    bottom: -7.40104px;
+    width: 70px;
+}
+
+.page0characterheadstuff .LongBraidsDown{
+    display: block;
+    position: relative;
+    margin-right: -89.2996px;
+    margin-bottom: -175.158px;
+    left: 10.9108px;
+    bottom: 12.9044px;
+    width: 91.5px;
+}
+
+.page0characterheadstuff .LongPonytail{
+    display: block;
+    position: relative;
+    margin-right: -89.9233px;
+    margin-bottom: -91.9121px;
+    left: 12.3428px;
+    bottom: 38.7764px;
+    width: 92px;
+}
+
+.page0characterheadstuff .MedAfro{
+    display: block;
+    position: relative;
+    margin-right: -95.2862px;
+    margin-bottom: -67.6847px;
+    left: 8.2894px;
+    bottom: 13.8021px;
+    width: 99px;
+}
+
+.page0characterheadstuff .MedCurlyPomsDown{
+    display: block;
+    position: relative;
+    margin-right: -103.767px;
+    margin-bottom: -89.5083px;
+    left: 7.10681px;
+    bottom: -6.95824px;
+    width: 105px;
+}
+
+
+.page0characterheadstuff .MedCurlyPomsDown2{
+    display: block;
+    position: relative;
+    margin-right: -122.912px;
+    margin-bottom: -106.777px;
+    left: -5.48769px;
+    bottom: 12.9286px;
+    width: 123px;
+}
+
+.page0characterheadstuff .MedSpikeyHair{
+	 display: block;
+    position: relative;
+    margin-right: -85.9946px;
+    margin-bottom: -72.3657px;
+    left: 11.599px;
+    bottom: 15.5854px;
+    width: 87px;
+}
+
+.page0characterheadstuff  .ShortCurlyHair {
+	display: block;
+    position: relative;
+    margin-right: -77.576px;
+    margin-bottom: -54.4008px;
+    left: 16.0867px;
+    bottom: -2.59353px;
+    width: 78px;
+}
+
+.page0characterheadstuff  .Shorthair {
+	display: block;
+    position: relative;
+    margin-right: -69.4068px;
+    margin-bottom: -45.7346px;
+    left: 23.6345px;
+    bottom: -7.59081px;
+    width: 68px;
+}
+ 
+.page0characterheadstuff  .Shorthairwavy {
+	display: block;
+    position: relative;
+    margin-right: -77.7007px;
+    margin-bottom: -62.4977px;
+    left: 18.708px;
+    bottom: 3.03632px;
+    width: 79px;
+
+}
+
+.page0characterheadstuff  .MedSpikeyHair2 {
+	 display: block;
+    position: relative;
+    margin-right: -89.5491px;
+    margin-bottom: -56.172px;
+    left: 11.1602px;
+    bottom: 3.28935px;
+    width: 91px;
+}
+
+.page0characterheadstuff  .MedPuffsUp {
+	display: block;
+    position: relative;
+    margin-right: -129.834px;
+    margin-bottom: -70.8476px;
+    left: -7.10905px;
+    bottom: 12.3324px;
+    width: 127px;
+}
+
+/************************* Page 1 CSS Classes ********************/ 
+
+.page1charactercontainer .Cornrow {
+    display: block;
+    position: relative;
+    margin-right: -42.3504px;
+    margin-bottom: -28.5248px;
+    left: 3.5718px;
+    bottom: 11.39668px;
+    width: 59px;
+}
+
+.page1charactercontainer .LongBraidsDown{
+	display: block;
+    position: relative;
+    margin-right: -56.31px;
+    margin-bottom: -108.945px;
+    left: -4.0px;
+    bottom: 26.0263px;
+    width: 73px;
+}
+
+.page1charactercontainer .LongPonytail{
+	display: block;
+    position: relative;
+    margin-right: -523.194px;
+    margin-bottom: -337.591px;
+    left: -2px;
+    bottom: 41px;
+    width: 71px;
+}
+
+.page1charactercontainer .MedAfro{
+	display: block;
+    position: relative;
+    margin-right: -60.0849px;
+    margin-bottom: -42.0987px;
+    left: -1.51177px;
+    bottom: 16.20663px;
+    width: 68px;
+}
+
+ 
+
+.page1charactercontainer .MedCurlyPomsDown{
+	display: block;
+    position: relative;
+    margin-right: -65.4328px;
+    margin-bottom: -55.6726px;
+    left: -5.88806px;
+    bottom: 10.6721px;
+    width: 85px;
+}
+
+.page1charactercontainer .MedCurlyPomsDown2{
+	display: block;
+    position: relative;
+    margin-right: -77.5049px;
+    margin-bottom: -66.4137px;
+    left: -22.46039px;
+    bottom: 32.28532px;
+    width: 106px;
+}
+
+.page1charactercontainer .MedPuffsUp{
+	    display: block;
+    position: relative;
+    margin-right: -81.8697px;
+    margin-bottom: -44.0659px;
+    left: -23.48278px;
+    bottom: 31.7804px;
+    width: 110px;
+}
+
+.page1charactercontainer .MedSpikeyHair{
+	display: block;
+    position: relative;
+    margin-right: -54.2259px;
+    margin-bottom: -45.0102px;
+    left: -3.686px;
+    bottom: 21.9378px;
+    width: 67px;
+}
+
+.page1charactercontainer .ShortCurlyHair{
+	display: block;
+    position: relative;
+    margin-right: -48.9173px;
+    margin-bottom: -33.8363px;
+    left: -0.2256px;
+    bottom: 14.38687px;
+    width: 64px;
+}
+
+.page1charactercontainer .Shorthair{
+	display: block;
+    position: relative;
+    margin-right: -43.7661px;
+    margin-bottom: -28.4461px;
+    left: 2.9033px;
+    bottom: 11.27865px;
+    width: 59px;
+}
+
+.page1charactercontainer .Shorthairwavy{
+	display: block;
+    position: relative;
+    margin-right: -48.996px;
+    margin-bottom: -38.8725px;
+    left: -0.2032px;
+    bottom: 17.88854px;
+    width: 65px;
+}
+
+.page1charactercontainer .MedSpikeyHair2{
+	display: block;
+    position: relative;
+    margin-right: -56.4673px;
+    margin-bottom: -34.938px;
+    left: -1.33209px;
+    bottom: 10.04592px;
+    width: 67px;
+}
+
+
+/************************* Page 2 CSS Classes ********************/ 
+
+.page2charactercontainer .Cornrow {
+	 display: block;
+	 position: relative;
+	 margin-right: -56.1821px;
+	 margin-bottom: -37.841px;
+	 left: 18.6575px;
+	 width: 58px;
+	 bottom: -5.10676px;
+}
+
+.page2charactercontainer .LongBraidsDown{
+    display: block;
+    position: relative;
+    margin-right: -74.7008px;
+    margin-bottom: -144.527px;
+    left: 8.96358px;
+    bottom: 10.6477px;
+    width: 75.6px;
+}
+
+.page2charactercontainer .LongPonytail{
+    display: block;
+    position: relative;
+    margin-right: -75.2224px;
+    margin-bottom: -75.8386px;
+    left: 11.998px;
+    bottom: 31.9952px;
+    width: 77px;
+}
+
+.page2charactercontainer .MedAfro{
+    display: block;
+    position: relative;
+    margin-right: -79.7086px;
+    margin-bottom: -55.8481px;
+    left: 8.60728px;
+    bottom: 12.2135px;
+    width: 81px;
+}
+
+.page2charactercontainer .MedCurlyPomsDown{
+    display: block;
+    position: relative;
+    margin-right: -86.8031px;
+    margin-bottom: -73.8552px;
+    left: 6.78149px;
+    bottom: -5.7414px;
+    width: 87px;
+}
+
+
+.page2charactercontainer .MedCurlyPomsDown2{
+    display: block;
+    position: relative;
+    margin-right: -102.818px;
+    margin-bottom: -88.1043px;
+    left: -4.59055px;
+    bottom: 12.3179px;
+    width: 104px;
+}
+
+.page2charactercontainer .MedSpikeyHair{
+	display: block;
+    position: relative;
+    margin-right: -71.936px;
+    margin-bottom: -59.7105px;
+    left: 9.70275px;
+    bottom: 14.5101px;
+    width: 72px;
+}
+
+.page2charactercontainer  .ShortCurlyHair {
+	display: block;
+    position: relative;
+    margin-right: -64.8937px;
+    margin-bottom: -44.8873px;
+    left: 13.2933px;
+    bottom: -2.13997px;
+    width: 65px;
+}
+
+.page2charactercontainer  .Shorthair {
+	display: block;
+    position: relative;
+    margin-right: -58.06px;
+    margin-bottom: -37.7366px;
+    left: 19.7707px;
+    bottom: -6.26334px;
+    width: 56px;
+}
+
+.page2charactercontainer  .Shorthairwavy {  
+    display: block;
+    position: relative;
+    margin-right: -58.06px;
+    margin-bottom: -37.7366px;
+    left: 16.7707px;
+    bottom: 2.73666px;
+    width: 65px;
+}
+
+.page2charactercontainer  .MedSpikeyHair2 {
+	display: block;
+    position: relative;
+    margin-right: -74.9094px;
+    margin-bottom: -46.3487px;
+    left: 10.1722px;
+    bottom: 2.71411px;
+    width: 72px;
+}
+
+.page2charactercontainer  .MedPuffsUp {
+	display: block;
+    position: relative;
+    margin-right: -108.608px;
+    margin-bottom: -58.4578px;
+    left: -5.94685px;
+    bottom: 14.3013px;
+    width: 110px;
+}
+
+/************************* Page 3 CSS Classes ********************/ 
+
+
+.page3characterheadstuff .Cornrow {
+	display: block;
+    position: relative;
+    margin-right: -50.3357px;
+    margin-bottom: -33.9032px;
+    left: 18.5078px;
+    bottom: -3.47128px;
+    width: 49px;
+}
+
+.page3characterheadstuff .LongBraidsDown{
+    display: block;
+    position: relative;
+    margin-right: -66.9273px;
+    margin-bottom: -129.487px;
+    left: 8.92676px;
+    bottom: 9.53967px;
+    width: 67px;
+}
+
+.page3characterheadstuff .LongPonytail{
+    display: block;
+    position: relative;
+    margin-right: -67.3947px;
+    margin-bottom: -67.9468px;
+    left: 10.7495px;
+    bottom: 28.6658px;
+    width: 68px;
+}
+
+.page3characterheadstuff .MedAfro{
+    display: block;
+    position: relative;
+    margin-right: -71.4141px;
+    margin-bottom: -50.0365px;
+    left: 7.7116px;
+    bottom: 10.9426px;
+    width: 72px;
+}
+
+.page3characterheadstuff .MedCurlyPomsDown{
+    display: block;
+    position: relative;
+    margin-right: -77.7703px;
+    margin-bottom: -66.1698px;
+    left: 6.07581px;
+    bottom: -5.14394px;
+    width: 77px;
+}
+
+
+.page3characterheadstuff .MedCurlyPomsDown2{
+    display: block;
+    position: relative;
+    margin-right: -92.1186px;
+    margin-bottom: -78.9361px;
+    left: -4.11285px;
+    bottom: 11.0361px;
+    width: 91px; 
+}
+
+.page3characterheadstuff  .MedPuffsUp {
+	display: block;
+    position: relative;
+    margin-right: -97.3064px;
+    margin-bottom: -52.3747px;
+    left: -5.32801px;
+    bottom: 12.8131px;
+    width: 97px;
+}
+
+.page3characterheadstuff .MedSpikeyHair{
+	display: block;
+    position: relative;
+    margin-right: -64.4503px;
+    margin-bottom: -53.497px;
+    left: 8.69308px;
+    bottom: 13.0001px;
+    width: 65px;
+}
+
+.page3characterheadstuff  .ShortCurlyHair {
+	 display: block;
+    position: relative;
+    margin-right: -58.1408px;
+    margin-bottom: -40.2163px;
+    left: 12.8059px;
+    bottom: -1.91729px;
+    width: 59px;
+}
+
+.page3characterheadstuff  .Shorthair {
+	display: block;
+    position: relative;
+    margin-right: -52.0182px;
+    margin-bottom: -33.8097px;
+    left: 16.7133px;
+    bottom: -5.61157px;
+    width: 53px;
+}
+
+.page3characterheadstuff  .Shorthairwavy {
+	display: block;
+    position: relative;
+    margin-right: -58.2343px;
+    margin-bottom: -46.2019px;
+    left: 14.0211px;
+    bottom: 3.24463px;
+    width: 58px;
+}
+
+.page3characterheadstuff  .MedSpikeyHair2 {
+	display: block;
+    position: relative;
+    margin-right: -67.1143px;
+    margin-bottom: -41.5256px;
+    left: 9.11371px;
+    bottom: 2.43168px;
+    width: 68px;
+}
+
+
+/************************* Page 4 CSS Classes ********************/ 
+
+
+.page4characterheadstuff .Cornrow {
+	display: block;
+    position: relative;
+    margin-right: -148.084px;
+    margin-bottom: -99.7408px;
+    left: 54.4487px;
+    bottom: -16.0961px;
+    width: 150px;
+}
+
+.page4characterheadstuff .LongBraidsDown{
+ 	display: block;
+    position: relative;
+    margin-right: -196.895px;
+    margin-bottom: -380.941px;
+    left: 26.2619px;
+    bottom: 28.065px;
+    width: 198px;
+}
+
+.page4characterheadstuff .LongPonytail{
+  	display: block;
+    position: relative;
+    margin-right: -198.27px;
+    margin-bottom: -199.894px;
+    left: 31.6242px;
+    bottom: 84.3326px;
+    width: 200px;
+}
+
+.page4characterheadstuff .MedAfro{
+    display: block;
+    position: relative;
+    margin-right: -210.095px;
+    margin-bottom: -147.204px;
+    left: 22.687px;
+    bottom: 32.1922px;
+    width: 210px;
+}
+
+.page4characterheadstuff .MedCurlyPomsDown{
+    display: block;
+    position: relative;
+    margin-right: -228.795px;
+    margin-bottom: -194.667px;
+    left: 17.8746px;
+    bottom: -15.1331px;
+    width: 230px;
+}
+
+
+.page4characterheadstuff .MedCurlyPomsDown2{
+     display: block;
+    position: relative;
+    margin-right: -271.006px;
+    margin-bottom: -232.224px;
+    left: -12.0997px;
+    bottom: 32.4674px;
+    width: 272px;
+}
+
+.page4characterheadstuff  .MedPuffsUp {
+	display: block;
+    position: relative;
+    margin-right: -286.268px;
+    margin-bottom: -154.082px;
+    left: -15.6746px;
+    bottom: 37.6952px;
+    width: 288px;
+}
+
+.page4characterheadstuff .MedSpikeyHair{
+	display: block;
+    position: relative;
+    margin-right: -189.608px;
+    margin-bottom: -157.384px;
+    left: 25.5744px;
+    bottom: 38.2455px;
+    width: 190px;
+}
+
+.page4characterheadstuff  .ShortCurlyHair {
+	display: block;
+    position: relative;
+    margin-right: -171.046px;
+    margin-bottom: -118.313px;
+    left: 37.6741px;
+    bottom: -5.64052px;
+    width: 170px;
+}
+
+.page4characterheadstuff  .Shorthair {
+	display: block;
+    position: relative;
+    margin-right: -153.034px;
+    margin-bottom: -99.4657px;
+    left: 52.1113px;
+    bottom: -16.5088px;
+    width: 152px;
+}
+
+.page4characterheadstuff  .Shorthairwavy {
+	display: block;
+    position: relative;
+    margin-right: -171.321px;
+    margin-bottom: -135.923px;
+    left: 41.249px;
+    bottom: 6.60353px;
+    width: 172px;
+}
+
+.page4characterheadstuff  .MedSpikeyHair2 {
+	width: 198px;
+    display: block;
+    position: relative;
+    margin-right: -197.445px;
+    margin-bottom: -122.165px;
+    left: 26.8119px;
+    bottom: 7.15383px;
+}
+
+/************************* Page 5 CSS Classes ********************/ 
+
+.page5characterheadstuff .Cornrow {
+	position: relative;
+    width: 83.405px;
+    height: auto !important;
+    margin-right: -163.405px !important;
+    margin-bottom: -198.816px !important;
+    left: 24.776px;
+    bottom: 154.5592px;
+}
+
+.page5characterheadstuff .LongBraidsDown{
+    display: block;
+    position: relative;
+    margin-right: -77.286px;
+    margin-bottom: -52.0554px;
+    left: 24.4171px;
+    bottom: -4.40067px;
+    width: 86px;
+}
+
+.page5characterheadstuff .LongPonytail{
+  	display: block;
+    position: relative;
+    margin-right: -103.479px;
+    margin-bottom: -104.326px;
+    left: 16.5049px;
+    bottom: 44.0137px;
+    width: 104px;
+}
+
+.page5characterheadstuff .MedAfro{
+    display: block;
+    position: relative;
+    margin-right: -109.65px;
+    margin-bottom: -76.8266px;
+    left: 11.8405px;
+    bottom: 16.8013px;
+    width: 110px;
+}
+
+.page5characterheadstuff .MedCurlyPomsDown{
+    display: block;
+    position: relative;
+    margin-right: -119.409px;
+    margin-bottom: -101.598px;
+    left: 9.32886px;
+    bottom: -7.89806px;
+    width: 119px;
+}
+
+
+.page5characterheadstuff .MedCurlyPomsDown2{
+    display: block;
+    position: relative;
+    margin-right: -141.44px;
+    margin-bottom: -121.199px;
+    left: -6.31492px;
+    bottom: 16.9449px;
+    width: 141px;
+
+}
+
+.page5characterheadstuff  .MedPuffsUp {
+	display: block;
+    position: relative;
+    margin-right: -149.405px;
+    margin-bottom: -80.4166px;
+    left: -8.18069px;
+    bottom: 19.6734px;
+    width: 150px;
+}
+
+.page5characterheadstuff .MedSpikeyHair{
+	display: block;
+    position: relative;
+    margin-right: -98.9577px;
+    margin-bottom: -82.1398px;
+    left: 13.3474px;
+    bottom: 19.9606px;
+    width: 100px;
+
+}
+
+.page5characterheadstuff  .ShortCurlyHair {
+	display: block;
+    position: relative;
+    margin-right: -89.27px;
+    margin-bottom: -61.7485px;
+    left: 19.6624px;
+    bottom: -2.94382px;
+    width: 88px;
+}
+
+.page5characterheadstuff  .Shorthair {
+    display: block;
+    position: relative;
+    margin-right: -79.8694px;
+    margin-bottom: -51.9118px;
+    left: 27.1972px;
+    bottom: -8.61607px;
+    width: 80px;
+}
+
+.page5characterheadstuff  .Shorthairwavy {
+	display: block;
+    position: relative;
+    margin-right: -89.4135px;
+    margin-bottom: -70.939px;
+    left: 21.5281px;
+    bottom: 3.44643px;
+    width: 89px;
+}
+
+.page5characterheadstuff  .MedSpikeyHair2 {
+	display: block;
+    position: relative;
+    margin-right: -103.048px;
+    margin-bottom: -63.7589px;
+    left: 13.9933px;
+    bottom: 3.73363px;
+    width: 103px;
+}
+
+
+/************************* Page 6 CSS Classes ********************/ 
+
+.page6characterheadstuff .Cornrow {
+	display: block;
+    position: relative;
+    margin-right: -55.3265px;
+    margin-bottom: -37.2648px;
+    left: 20.3429px;
+    bottom: -6.01376px;
+    width: 55px;
+}
+
+.page6characterheadstuff .LongBraidsDown{
+	display: block;
+    position: relative;
+    margin-right: -73.5632px;
+    margin-bottom: -142.326px;
+    left: 9.81185px;
+    bottom: 10.4855px;
+    width: 74px;
+}
+
+.page6characterheadstuff .LongPonytail{
+	display: block;
+    position: relative;
+    margin-right: -74.0769px;
+    margin-bottom: -74.6837px;
+    left: 11.8153px;
+    bottom: 31.508px;
+    width: 75px;
+}
+
+.page6characterheadstuff .MedAfro{
+	display: block;
+    position: relative;
+    margin-right: -78.4948px;
+    margin-bottom: -54.9976px;
+    left: 8.47621px;
+    bottom: 12.0275px;
+    width: 80px;
+}
+
+.page6characterheadstuff .MedCurlyPomsDown{
+    display: block;
+    position: relative;
+    margin-right: -85.4813px;
+    margin-bottom: -72.7305px;
+    left: 6.67822px;
+    bottom: -5.65396px;
+    width: 85px;
+}
+
+
+.page6characterheadstuff .MedCurlyPomsDown2{
+	display: block;
+    position: relative;
+    margin-right: -101.252px;
+    margin-bottom: -86.7626px;
+    left: -4.52064px;
+    bottom: 12.1303px;
+    width: 102px;
+}
+
+.page6characterheadstuff  .MedPuffsUp {
+	display: block;
+    position: relative;
+    margin-right: -106.954px;
+    margin-bottom: -57.5676px;
+    left: -5.85629px;
+    bottom: 14.0835px;
+    width: 108px;
+}
+
+.page6characterheadstuff .MedSpikeyHair{
+	display: block;
+    position: relative;
+    margin-right: -70.8405px;
+    margin-bottom: -58.8012px;
+    left: 9.555px;
+    bottom: 14.2891px;
+    width: 72px;
+}
+
+.page6characterheadstuff  .ShortCurlyHair {
+	display: block;
+    position: relative;
+    margin-right: -63.9055px;
+    margin-bottom: -44.2037px;
+    left: 14.0756px;
+    bottom: -2.10739px;
+    width: 65px;
+}
+
+.page6characterheadstuff  .Shorthair {
+	display: block;
+    position: relative;
+    margin-right: -57.1759px;
+    margin-bottom: -37.162px;
+    left: 19.4696px;
+    bottom: -6.16796px;
+    width: 57px;
+}
+
+.page6characterheadstuff  .Shorthairwavy {
+	display: block;
+    position: relative;
+    margin-right: -64.0082px;
+    margin-bottom: -50.7829px;
+    left: 15.4113px;
+    bottom: 2.46718px;
+    width: 65px;
+}
+
+.page6characterheadstuff  .MedSpikeyHair2 {
+	display: block;
+    position: relative;
+    margin-right: -73.7687px;
+    margin-bottom: -45.6429px;
+    left: 10.0173px;
+    bottom: 2.67278px;
+    width: 75px;
+}
+
+
+/************************* Page 7 CSS Classes ********************/ 
+
+.page7characterheadstuff .Cornrow {
+    display: block;
+    position: relative;
+    margin-right: -30.2299px;
+    margin-bottom: -20.3612px;
+    left: 11.1152px;
+    bottom: -3.28587px;
+    width: 31px;
+}
+
+.page7characterheadstuff .LongBraidsDown{
+	display: block;
+    position: relative;
+    margin-right: -40.1943px;
+    margin-bottom: -77.7656px;
+    left: 5.36111px;
+    bottom: 5.72921px;
+    width: 40px;
+}
+
+.page7characterheadstuff .LongPonytail{
+	display: block;
+    position: relative;
+    margin-right: -40.475px;
+    margin-bottom: -40.8066px;
+    left: 6.45579px;
+    bottom: 17.2157px;
+    width: 41px;
+}
+
+.page7characterheadstuff .MedAfro{
+	display: block;
+    position: relative;
+    margin-right: -42.8889px;
+    margin-bottom: -30.0503px;
+    left: 4.63133px;
+    bottom: 6.57174px;
+    width: 43px;
+}
+
+.page7characterheadstuff .MedCurlyPomsDown{
+    display: block;
+    position: relative;
+    margin-right: -46.7063px;
+    margin-bottom: -39.7394px;
+    left: 3.64893px;
+    bottom: -3.08928px;
+    width: 45px;
+}
+
+
+.page7characterheadstuff .MedCurlyPomsDown2{
+	 display: block;
+    position: relative;
+    margin-right: -55.3233px;
+    margin-bottom: -47.4064px;
+    left: -2.47004px;
+    bottom: 6.62791px;
+    width: 55px;
+}
+
+.page7characterheadstuff  .MedPuffsUp {
+	display: block;
+    position: relative;
+    margin-right: -58.439px;
+    margin-bottom: -31.4545px;
+    left: -3.19983px;
+    bottom: 7.69511px;
+    width: 58px;
+}
+
+.page7characterheadstuff .MedSpikeyHair{
+	display: block;
+    position: relative;
+    margin-right: -38.7067px;
+    margin-bottom: -32.1285px;
+    left: 5.22077px;
+    bottom: 7.80745px;
+    width: 40px;
+}
+
+.page7characterheadstuff  .ShortCurlyHair {
+	display: block;
+    position: relative;
+    margin-right: -34.9174px;
+    margin-bottom: -24.1525px;
+    left: 7.69081px;
+    bottom: -1.15146px;
+    width: 35px;
+}
+
+.page7characterheadstuff  .Shorthair {
+	display: block;
+    position: relative;
+    margin-right: -31.2404px;
+    margin-bottom: -20.305px;
+    left: 10.638px;
+    bottom: -3.37012px;
+    width: 30px;
+}
+
+.page7characterheadstuff  .Shorthairwavy {
+	display: block;
+    position: relative;
+    margin-right: -34.9736px;
+    margin-bottom: -27.7473px;
+    left: 8.4206px;
+    bottom: 1.34805px;
+    width: 35px;
+}
+
+.page7characterheadstuff  .MedSpikeyHair2 {
+	display: block;
+    position: relative;
+    margin-right: -40.3066px;
+    margin-bottom: -24.9389px;
+    left: 5.47339px;
+    bottom: 1.46039px;
+    width: 40px;
+}
+
+
+
+/************************* Page 8 CSS Classes ********************/ 
+
+.page8characterheadstuff .Cornrow {
+	display: block;
+    position: relative;
+    margin-right: -39.356px;
+    margin-bottom: -26.5079px;
+    left: 14.4707px;
+    bottom: -4.27783px;
+    width: 42px;
+}
+
+.page8characterheadstuff .LongBraidsDown{
+	display: block;
+    position: relative;
+    margin-right: -52.3285px;
+    margin-bottom: -101.242px;
+    left: 6.97956px;
+    bottom: 7.45878px;
+    width: 52px;
+}
+
+.page8characterheadstuff .LongPonytail{
+	display: block;
+    position: relative;
+    margin-right: -52.6939px;
+    margin-bottom: -53.1255px;
+    left: 8.40471px;
+    bottom: 22.4129px;
+    width: 54px;
+}
+
+.page8characterheadstuff .MedAfro{
+	display: block;
+    position: relative;
+    margin-right: -55.8365px;
+    margin-bottom: -39.122px;
+    left: 6.02947px;
+    bottom: 8.55566px;
+    width: 56px;
+}
+
+.page8characterheadstuff .MedCurlyPomsDown{
+	display: block;
+    position: relative;
+    margin-right: -60.8063px;
+    margin-bottom: -51.7361px;
+    left: 4.75049px;
+    bottom: -4.02189px;
+    width: 61px;
+}
+
+.page8characterheadstuff .MedCurlyPomsDown2{
+	display: block;
+    position: relative;
+    margin-right: -72.0247px;
+    margin-bottom: -61.7177px;
+    left: -3.21572px;
+    bottom: 8.62878px;
+    width: 73px;
+}
+
+.page8characterheadstuff  .MedPuffsUp {
+    display: block;
+    position: relative;
+    margin-right: -76.0809px;
+    margin-bottom: -40.9502px;
+    left: -4.16581px;
+    bottom: 10.0182px;
+    width: 78px;
+}
+
+.page8characterheadstuff .MedSpikeyHair{
+	display: block;
+    position: relative;
+    margin-right: -50.3917px;
+    margin-bottom: -41.8277px;
+    left: 5.79685px;
+    bottom: 10.1644px;
+    width: 50px;
+}
+
+.page8characterheadstuff  .ShortCurlyHair {
+	display: block;
+    position: relative;
+    margin-right: -45.4585px;
+    margin-bottom: -31.4439px;
+    left: 10.0126px;
+    bottom: -1.49907px;
+    width: 45px;
+}
+
+.page8characterheadstuff  .Shorthair {
+	display: block;
+    position: relative;
+    margin-right: -40.6715px;
+    margin-bottom: -26.4348px;
+    left: 13.8495px;
+    bottom: -4.38752px;
+    width: 42px;
+}
+
+.page8characterheadstuff  .Shorthairwavy {
+	display: block;
+    position: relative;
+    margin-right: -45.5316px;
+    margin-bottom: -36.1239px;
+    left: 10.9627px;
+    bottom: 1.75501px;
+    width: 45px;
+}
+
+.page8characterheadstuff  .MedSpikeyHair2 {
+	display: block;
+    position: relative;
+    margin-right: -52.4746px;
+    margin-bottom: -32.4676px;
+    left: 7.12573px;
+    bottom: 1.90126px;
+    width: 53px;
+}
+
+
+
+/************************* Page 9 CSS Classes ********************/ 
+
+.page9characterheadstuff .Cornrow {
+	display: block;
+    position: relative;
+    margin-right: -38.5004px;
+    margin-bottom: -25.9317px;
+    left: 14.1561px;
+    bottom: -4.18483px;
+    width: 40px;
+}
+
+.page9characterheadstuff .LongBraidsDown{
+	display: block;
+    position: relative;
+    margin-right: -51.1909px;
+    margin-bottom: -99.0411px;
+    left: 6.82783px;
+    bottom: 7.29663px;
+    width: 51px;
+}
+
+.page9characterheadstuff .LongPonytail{
+	display: block;
+    position: relative;
+    margin-right: -51.5484px;
+    margin-bottom: -51.9706px;
+    left: 8.222px;
+    bottom: 21.9257px;
+    width: 53px;
+}
+
+.page9characterheadstuff .MedAfro{
+	display: block;
+    position: relative;
+    margin-right: -54.6227px;
+    margin-bottom: -38.2716px;
+    left: 5.89839px;
+    bottom: 8.36967px;
+    width: 56px;
+}
+
+.page9characterheadstuff .MedCurlyPomsDown{
+	display: block;
+    position: relative;
+    margin-right: -59.4844px;
+    margin-bottom: -50.6114px;
+    left: 4.64722px;
+    bottom: -3.93446px;
+    width: 60px;
+}
+
+.page9characterheadstuff .MedCurlyPomsDown2{
+	display: block;
+    position: relative;
+    margin-right: -70.459px;
+    margin-bottom: -60.3761px;
+    left: -3.14581px;
+    bottom: 8.4412px;
+    width: 70px;
+}
+
+.page9characterheadstuff  .MedPuffsUp {
+	display: block;
+    position: relative;
+    margin-right: -74.427px;
+    margin-bottom: -40.0599px;
+    left: -4.07525px;
+    bottom: 9.80038px;
+    width: 75px;
+}
+
+.page9characterheadstuff .MedSpikeyHair{
+	display: block;
+    position: relative;
+    margin-right: -49.2962px;
+    margin-bottom: -40.9184px;
+    left: 6.64909px;
+    bottom: 9.94345px;
+    width: 51px;
+}
+
+.page9characterheadstuff  .ShortCurlyHair {
+	display: block;
+    position: relative;
+    margin-right: -44.4703px;
+    margin-bottom: -30.7603px;
+    left: 9.7949px;
+    bottom: -1.46648px;
+    width: 45px;
+}
+
+.page9characterheadstuff  .Shorthair {
+	display: block;
+    position: relative;
+    margin-right: -39.7873px;
+    margin-bottom: -25.8601px;
+    left: 13.5484px;
+    bottom: -4.29214px;
+    width: 39px;
+}
+
+.page9characterheadstuff  .Shorthairwavy {
+	display: block;
+    position: relative;
+    margin-right: -44.5418px;
+    margin-bottom: -35.3386px;
+    left: 10.7243px;
+    bottom: 1.71685px;
+    width: 45px;
+}
+
+.page9characterheadstuff  .MedSpikeyHair2 {
+	display: block;
+    position: relative;
+    margin-right: -51.3339px;
+    margin-bottom: -31.7618px;
+    left: 6.97083px;
+    bottom: 1.85993px;
+    width: 53px;
+}
+
+/************************* Page 10 CSS Classes ********************/ 
+
+.page10characterheadstuff .Cornrow {
+	display: block;
+    position: relative;
+    margin-right: -65.5933px;
+    margin-bottom: -44.1799px;
+    left: 24.1179px;
+    bottom: -7.12972px;
+    width: 67px;
+}
+
+.page10characterheadstuff .LongBraidsDown{
+	display: block;
+    position: relative;
+    margin-right: -87.2141px;
+    margin-bottom: -168.737px;
+    left: 11.6326px;
+    bottom: 12.4313px;
+    width: 88px;
+}
+
+.page10characterheadstuff .LongPonytail{
+	display: block;
+    position: relative;
+    margin-right: -87.8231px;
+    margin-bottom: -88.5425px;
+    left: 14.0079px;
+    bottom: 37.3548px;
+    width: 90px;
+}
+
+.page10characterheadstuff .MedAfro{
+	display: block;
+    position: relative;
+    margin-right: -93.0608px;
+    margin-bottom: -65.2034px;
+    left: 10.0491px;
+    bottom: 14.2594px;
+    width: 95px;
+}
+
+.page10characterheadstuff .MedCurlyPomsDown{
+	display: block;
+    position: relative;
+    margin-right: -101.344px;
+    margin-bottom: -86.2269px;
+    left: 7.91748px;
+    bottom: -6.70315px;
+    width: 102px;
+}
+
+.page10characterheadstuff .MedCurlyPomsDown2{
+	display: block;
+    position: relative;
+    margin-right: -120.041px;
+    margin-bottom: -102.863px;
+    left: -5.35953px;
+    bottom: 14.3813px;
+    width: 121px;
+
+}
+
+.page10characterheadstuff  .MedPuffsUp {
+	display: block;
+    position: relative;
+    margin-right: -126.801px;
+    margin-bottom: -68.2503px;
+    left: -6.94302px;
+    bottom: 16.6969px;
+    width: 130px;
+}
+
+.page10characterheadstuff .MedSpikeyHair{
+	display: block;
+    position: relative;
+    margin-right: -83.9862px;
+    margin-bottom: -69.7128px;
+    left: 11.3281px;
+    bottom: 16.9407px;
+    width: 85px;
+}
+
+.page10characterheadstuff  .ShortCurlyHair {
+	display: block;
+    position: relative;
+    margin-right: -75.7642px;
+    margin-bottom: -52.4065px;
+    left: 16.6876px;
+    bottom: -2.49845px;
+    width: 76px;
+}
+
+.page10characterheadstuff  .Shorthair {
+	display: block;
+    position: relative;
+    margin-right: -67.7858px;
+    margin-bottom: -44.058px;
+    left: 23.0825px;
+    bottom: -7.31253px;
+    width: 69px;
+}
+
+.page10characterheadstuff  .Shorthairwavy {
+	display: block;
+    position: relative;
+    margin-right: -75.886px;
+    margin-bottom: -60.2065px;
+    left: 18.2711px;
+    bottom: 2.92501px;
+    width: 77px;
+}
+
+.page10characterheadstuff  .MedSpikeyHair2 {
+	display: block;
+    position: relative;
+    margin-right: -87.4577px;
+    margin-bottom: -54.1127px;
+    left: 11.8762px;
+    bottom: 3.16876px;
+    width: 88px;
+}
+
+
+
+/************************* Page 12 CSS Classes ********************/ 
+
+.page12characterheadstuff .Cornrow {
+	 display: block;
+    position: relative;
+    margin-right: -72.4378px;
+    margin-bottom: -48.7899px;
+    left: 26.6345px;
+    bottom: -7.87369px;
+    width: 73px;
+}
+
+.page12characterheadstuff .LongBraidsDown{
+	display: block;
+    position: relative;
+    margin-right: -96.3147px;
+    margin-bottom: -186.344px;
+    left: 12.8464px;
+    bottom: 13.7285px;
+    width: 97px;
+}
+
+.page12characterheadstuff .LongPonytail{
+	display: block;
+    position: relative;
+    margin-right: -96.9873px;
+    margin-bottom: -97.7818px;
+    left: 15.4695px;
+    bottom: 41.2527px;
+    width: 98px;
+}
+
+.page12characterheadstuff .MedAfro{
+	display: block;
+    position: relative;
+    margin-right: -102.772px;
+    margin-bottom: -72.0072px;
+    left: 11.0977px;
+    bottom: 15.7474px;
+    width: 104px;
+}
+
+.page12characterheadstuff .MedCurlyPomsDown{
+	display: block;
+    position: relative;
+    margin-right: -111.919px;
+    margin-bottom: -95.2245px;
+    left: 8.74365px;
+    bottom: -7.40261px;
+    width: 113px;	
+}
+
+.page12characterheadstuff .MedCurlyPomsDown2{
+	display: block;
+    position: relative;
+    margin-right: -132.567px;
+    margin-bottom: -113.596px;
+    left: -5.91878px;
+    bottom: 15.882px;
+    width: 134px;
+}
+
+.page12characterheadstuff  .MedPuffsUp {
+	display: block;
+    position: relative;
+    margin-right: -140.033px;
+    margin-bottom: -75.372px;
+    left: -7.66751px;
+    bottom: 18.4392px;
+    width: 142px;
+}
+
+.page12characterheadstuff .MedSpikeyHair{
+	display: block;
+    position: relative;
+    margin-right: -92.75px;
+    margin-bottom: -76.9872px;
+    left: 12.5101px;
+    bottom: 18.7084px;
+    width: 93px;
+}
+
+.page12characterheadstuff  .ShortCurlyHair {
+	display: block;
+    position: relative;
+    margin-right: -83.67px;
+    margin-bottom: -57.875px;
+    left: 18.4289px;
+    bottom: -2.75916px;
+    width: 85px;
+}
+
+.page12characterheadstuff  .Shorthair {
+	display: block;
+    position: relative;
+    margin-right: -74.8591px;
+    margin-bottom: -48.6553px;
+    left: 25.4911px;
+    bottom: -8.07558px;
+    width: 75px;
+}
+
+.page12characterheadstuff  .Shorthairwavy {
+	display: block;
+    position: relative;
+    margin-right: -83.8045px;
+    margin-bottom: -66.4889px;
+    left: 20.1777px;
+    bottom: 3.23023px;
+    width: 85px;
+}
+
+.page12characterheadstuff  .MedSpikeyHair2 {
+	display: block;
+    position: relative;
+    margin-right: -96.5837px;
+    margin-bottom: -59.7593px;
+    left: 13.1155px;
+    bottom: 3.49942px;
+    width: 98px;
+
+}
+
+
+
+/************************* Page 13 CSS Classes ********************/ 
+
+.page13characterheadstuff .Cornrow {
+	display: block;
+    position: relative;
+    margin-right: -44.8458px;
+    margin-bottom: -30.2056px;
+    left: 16.4893px;
+    bottom: -4.87456px;
+    width: 45px;
+}
+
+.page13characterheadstuff .LongBraidsDown{
+	display: block;
+    position: relative;
+    margin-right: -59.6279px;
+    margin-bottom: -115.364px;
+    left: 7.95316px;
+    bottom: 8.49923px;
+    width: 60px;
+}
+
+.page13characterheadstuff .LongPonytail{
+	display: block;
+    position: relative;
+    margin-right: -60.0443px;
+    margin-bottom: -60.5362px;
+    left: 8.57711px;
+    bottom: 25.5393px;
+    width: 61px;
+}
+
+.page13characterheadstuff .MedAfro{
+	display: block;
+    position: relative;
+    margin-right: -63.6253px;
+    margin-bottom: -44.5793px;
+    left: 6.87053px;
+    bottom: 9.74911px;
+    width: 64px;
+}
+
+.page13characterheadstuff .MedCurlyPomsDown{
+	display: block;
+    position: relative;
+    margin-right: -69.2883px;
+    margin-bottom: -58.953px;
+    left: 5.41315px;
+    bottom: -4.58292px;
+    width: 69px;
+}
+
+.page13characterheadstuff .MedCurlyPomsDown2{
+	display: block;
+    position: relative;
+    margin-right: -82.0716px;
+    margin-bottom: -70.3269px;
+    left: -4.66428px;
+    bottom: 9.83244px;
+    width: 83px;
+}
+
+.page13characterheadstuff  .MedPuffsUp {
+	display: block;
+    position: relative;
+    margin-right: -86.6936px;
+    margin-bottom: -46.6624px;
+    left: -4.74691px;
+    bottom: 11.4156px;
+    width: 87px;
+}
+
+.page13characterheadstuff .MedSpikeyHair{
+	display: block;
+    position: relative;
+    margin-right: -57.421px;
+    margin-bottom: -47.6623px;
+    left: 7.74496px;
+    bottom: 11.5823px;
+    width: 55px
+}
+
+.page13characterheadstuff  .ShortCurlyHair {
+	 display: block;
+    position: relative;
+    margin-right: -51.7997px;
+    margin-bottom: -35.8301px;
+    left: 11.4092px;
+    bottom: -1.70818px;
+    width: 50px;
+}
+
+.page13characterheadstuff  .Shorthair {
+	display: block;
+    position: relative;
+    margin-right: -46.3449px;
+    margin-bottom: -30.1223px;
+    left: 15.7814px;
+    bottom: -4.99954px;
+    width: 46px;
+}
+
+.page13characterheadstuff  .Shorthairwavy {
+	display: block;
+    position: relative;
+    margin-right: -51.8829px;
+    margin-bottom: -41.1629px;
+    left: 12.4919px;
+    bottom: 1.99982px;
+    width: 52px;
+}
+
+.page13characterheadstuff  .MedSpikeyHair2 {
+	display: block;
+    position: relative;
+    margin-right: -59.7945px;
+    margin-bottom: -36.9966px;
+    left: 8.11972px;
+    bottom: 2.16647px;
+    width: 61px;
+}
+
+
+/********************* Page 14 Hairs ********************/
+
+.page14characterheadstuff .Cornrow{
+    display: block;
+    position: relative;
+    margin-right: -65.1655px;
+    margin-bottom: -43.8917px;
+    left: 23.9606px;
+    bottom: -7.08322px;
+    width: 65px;
+}
+
+.page14characterheadstuff .LongBraidsDown{
+    display: block;
+    position: relative;
+    margin-right: -86.6453px;
+    margin-bottom: -167.636px;
+    left: 11.5567px;
+    bottom: 12.3502px;
+    width: 85px;
+}
+
+.page14characterheadstuff .LongPonytail{
+	display: block;
+    position: relative;
+    margin-right: -87.2504px;
+    margin-bottom: -87.9651px;
+    left: 13.9165px;
+    bottom: 37.1112px;
+    width: 87px;
+}
+
+.page14characterheadstuff .MedAfro{
+	display: block;
+    position: relative;
+    margin-right: -92.4539px;
+    margin-bottom: -64.7781px;
+    left: 9.98357px;
+    bottom: 14.1664px;
+    width: 92px;
+}
+
+.page14characterheadstuff .MedCurlyPomsDown{
+	display: block;
+    position: relative;
+    margin-right: -100.683px;
+    margin-bottom: -85.6646px;
+    left: 7.86584px;
+    bottom: -6.65944px;
+    width: 100px;
+}
+
+.page14characterheadstuff .MedCurlyPomsDown2{
+	display: block;
+    position: relative;
+    margin-right: -119.258px;
+    margin-bottom: -102.192px;
+    left: -5.32457px;
+    bottom: 14.2875px;
+    width: 120px;
+}
+
+.page14characterheadstuff .MedPuffsUp{
+	display: block;
+    position: relative;
+    margin-right: -125.975px;
+    margin-bottom: -67.8052px;
+    left: -6.89774px;
+    bottom: 16.588px;
+    width: 125px;
+}
+
+.page14characterheadstuff .MedSpikeyHair{
+	display: block;
+    position: relative;
+    margin-right: -83.4385px;
+    margin-bottom: -69.2581px;
+    left: 11.2542px;
+    bottom: 16.8302px;
+    width: 84px;
+}
+
+.page14characterheadstuff .ShortCurlyHair{
+	display: block;
+    position: relative;
+    margin-right: -75.2701px;
+    margin-bottom: -52.0647px;
+    left: 16.5788px;
+    bottom: -2.48215px;
+    width: 75px;
+}
+
+.page14characterheadstuff .Shorthair{
+	display: block;
+    position: relative;
+    margin-right: -67.3437px;
+    margin-bottom: -43.7707px;
+    left: 22.932px;
+    bottom: -7.26484px;
+    width: 68px;
+}
+
+.page14characterheadstuff .Shorthairwavy{
+	display: block;
+    position: relative;
+    margin-right: -75.3911px;
+    margin-bottom: -59.8138px;
+    left: 18.1519px;
+    bottom: 2.90594px;
+    width: 75px;
+}
+
+.page14characterheadstuff .MedSpikeyHair2{
+    display: block;
+    position: relative;
+    margin-right: -86.8873px;
+    margin-bottom: -53.7598px;
+    left: 11.7988px;
+    bottom: 3.1481px;
+    width: 87px;
+} 
+
+
+/************************* Page 15 CSS Classes ********************/ 
+
+.page15characterheadstuff .MedCurlyPomsDown2{
+    position: absolute;
+    width:80px;
+    top:-50px;
+    left:-15px;
+
+}
+.page15characterheadstuff .page15eyes{
+    position:absolute;
+    width:35px;
+    top: -17px;
+    left:8px;
+    
+
+}
+
+.page15characterheadstuff .MedPuffsUp {
+    width: 90px;
+    position: absolute;
+    top: -54px;
+    left: -19px;
+}
+
+.page15characterheadstuff .MedSpikeyHair {
+        width: 54px;
+        position: absolute;
+        top: -50px;
+        left: -3px;
+}
+.page15characterheadstuff .ShortCurlyHair {
+    width: 50px;
+    position: absolute;
+    top: -40px;
+    left: -30px;
+    left: -1px;
+}
+
+.page15characterheadstuff .Shorthair {
+    width: 44px;
+    position: absolute;
+    top: -35px;
+    left: 4px;
+}
+
+.page15characterheadstuff .Cornrow{
+    width: 45px;
+    position: absolute;
+    top: -35px;
+    left: 4px;
+
+}
+
+.page15characterheadstuff .LongBraidsDown{
+    width: 58px;
+    position: absolute;
+    top: -49px;
+    left: -5px;
+}
+.page15characterheadstuff .LongPonytail{
+    width: 59px;
+    position: absolute;
+    top: -66px;
+    left: -3px;
+}
+.page15characterheadstuff .MedAfro{
+    width: 63px;
+    position: absolute;
+    top: -51px;
+    left: -5px;
+}
+.page15characterheadstuff .MedCurlyPomsDown {
+    width: 68px;
+    position: absolute;
+    top: -36px;
+    left: -7px;
+}
+.page15characterheadstuff .Shorthairwavy {
+    width: 49px;
+    position: absolute;
+    top: -41px;
+    left: 1px;
+}
+.page15characterheadstuff .MedSpikeyHair2 {
+    width: 57px;
+    position: absolute;
+    top: -42px;
+    left: -4px;
+}
+.page15characterheadstuff .hijab {
+    width: 55px;
+    position: absolute;
+    top: -45px;
+    left: -1px;
+}
+.page15characterheadstuff .page15glasses {
+    width: 42px;
+    position: absolute;
+    top: -13px;
+    left: 4px;
+}
+
+/************************* Page 16 CSS Classes ********************/ 
+
+.page16characterheadstuff .Cornrow {
+	display: block;
+    position: relative;
+    margin-right: -51.1913px;
+    margin-bottom: -34.4795px;
+    left: 18.8224px;
+    bottom: -5.56428px;
+    width: 52px;
+}
+
+.page16characterheadstuff .LongBraidsDown{
+	display: block;
+    position: relative;
+    margin-right: -68.0649px;
+    margin-bottom: -131.688px;
+    left: 9.07849px;
+    bottom: 9.70182px;
+    width: 68px;
+}
+
+.page16characterheadstuff .LongPonytail{
+	display: block;
+    position: relative;
+    margin-right: -68.5402px;
+    margin-bottom: -69.1017px;
+    left: 10.9322px;
+    bottom: 29.153px;
+    width: 69px;
+}
+
+.page16characterheadstuff .MedAfro{
+	display: block;
+    position: relative;
+    margin-right: -72.6279px;
+    margin-bottom: -50.887px;
+    left: 7.84268px;
+    bottom: 11.1286px;
+    width: 73px;
+}
+
+.page16characterheadstuff .MedCurlyPomsDown{
+	display: block;
+    position: relative;
+    margin-right: -79.0922px;
+    margin-bottom: -67.2945px;
+    left: 6.17908px;
+    bottom: -5.23137px;
+    width: 80px;
+}
+
+.page16characterheadstuff .MedCurlyPomsDown2{
+	display: block;
+    position: relative;
+    margin-right: -93.6843px;
+    margin-bottom: -80.2778px;
+    left: -4.18276px;
+    bottom: 11.2237px;
+    width: 94px;
+}
+
+.page16characterheadstuff  .MedPuffsUp {
+	display: block;
+    position: relative;
+    margin-right: -98.9603px;
+    margin-bottom: -53.2649px;
+    left: -5.41858px;
+    bottom: 13.0309px;
+    width: 98px;
+}
+
+.page16characterheadstuff .MedSpikeyHair{
+	display: block;
+    position: relative;
+    margin-right: -65.5458px;
+    margin-bottom: -54.4063px;
+    left: 8.84083px;
+    bottom: 13.2211px;
+    width: 66px;
+}
+
+.page16characterheadstuff  .ShortCurlyHair {
+	display: block;
+    position: relative;
+    margin-right: -59.129px;
+    margin-bottom: -40.8998px;
+    left: 13.0236px;
+    bottom: -1.94988px;
+    width: 59px;
+}
+
+.page16characterheadstuff  .Shorthair {
+	width: 53px;
+    display: block;
+    position: relative;
+    margin-right: -52.9024px;
+    margin-bottom: -34.3844px;
+    left: 18.0144px;
+    bottom: -5.70695px;
+}
+
+.page16characterheadstuff  .Shorthairwavy {
+	 display: block;
+    position: relative;
+    margin-right: -59.2241px;
+    margin-bottom: -46.9872px;
+    left: 14.2594px;
+    bottom: 2.28278px;
+    width: 59px;
+}
+
+.page16characterheadstuff  .MedSpikeyHair2 {
+	display: block;
+    position: relative;
+    margin-right: -68.255px;
+    margin-bottom: -42.2314px;
+    left: 9.26862px;
+    bottom: 2.47301px;
+    width: 69px;
+}
+
+/************************* Page 17 CSS Classes ********************/ 
+
+.page17characterheadstuff .Cornrow {
+	display: block;
+    position: relative;
+    margin-right: -58.2497px;
+    margin-bottom: -39.2336px;
+    left: 20.4177px;
+    bottom: -5.3315px;
+    width: 57px;
+}
+
+.page17characterheadstuff .LongBraidsDown{
+	display: block;
+    position: relative;
+    margin-right: -77.4499px;
+    margin-bottom: -149.845px;
+    left: 10.3303px;
+    bottom: 11.0395px;
+    width: 80px;
+}
+
+.page17characterheadstuff .LongPonytail{
+	display: block;
+    position: relative;
+    margin-right: -77.9908px;
+    margin-bottom: -78.6296px;
+    left: 12.4396px;
+    bottom: 33.1727px;
+    width: 80px;
+}
+
+.page17characterheadstuff .MedAfro{
+	display: block;
+    position: relative;
+    margin-right: -82.6421px;
+    margin-bottom: -57.9034px;
+    left: 8.92405px;
+    bottom: 12.663px;
+    width: 85px;
+}
+
+.page17characterheadstuff .MedCurlyPomsDown{
+	display: block;
+    position: relative;
+    margin-right: -89.9977px;
+    margin-bottom: -76.5732px;
+    left: 6.03107px;
+    bottom: -5.95269px;
+    width: 92px;
+}
+
+.page17characterheadstuff .MedCurlyPomsDown2{
+	display: block;
+    position: relative;
+    margin-right: -106.602px;
+    margin-bottom: -91.3467px;
+    left: -4.75949px;
+    bottom: 12.7712px;
+    width: 108px;
+}
+
+.page17characterheadstuff  .MedPuffsUp {
+	display: block;
+    position: relative;
+    margin-right: -112.605px;
+    margin-bottom: -60.6092px;
+    left: -6.1657px;
+    bottom: 14.8276px;
+    width: 116px;
+}
+
+.page17characterheadstuff .MedSpikeyHair{
+    display: block;
+    position: relative;
+    margin-right: -74.5834px;
+    margin-bottom: -61.908px;
+    left: 10.0598px;
+    bottom: 15.0441px;
+    width: 75px;
+}
+
+.page17characterheadstuff  .ShortCurlyHair {
+	display: block;
+    position: relative;
+    margin-right: -67.2819px;
+    margin-bottom: -46.5392px;
+    left: 14.8193px;
+    bottom: -2.21873px;
+    width: 68px;
+}
+
+.page17characterheadstuff  .Shorthair {
+	display: block;
+    position: relative;
+    margin-right: -60.1968px;
+    margin-bottom: -39.1254px;
+    left: 21.4983px;
+    bottom: -6.49384px;
+    width: 60px;
+}
+
+.page17characterheadstuff  .Shorthairwavy {
+	display: block;
+    position: relative;
+    margin-right: -67.3901px;
+    margin-bottom: -53.466px;
+    left: 16.2255px;
+    bottom: 2.59754px;
+    width: 70px;
+}
+
+.page17characterheadstuff  .MedSpikeyHair2 {
+	 display: block;
+    position: relative;
+    margin-right: -77.6662px;
+    margin-bottom: -48.0544px;
+    left: 10.5466px;
+    bottom: 2.814px;
+    width: 80px;
+}
+
+
+/************************* Page 19 CSS Classes ********************/ 
+
+.page19characterheadstuff .Cornrow {
+	display: block;
+    position: relative;
+    margin-right: -47.4838px;
+    margin-bottom: -31.9824px;
+    left: 16.4592px;
+    bottom: -5.16129px;
+    width: 50px;
+}
+
+.page19characterheadstuff .LongBraidsDown{
+    display: block;
+    position: relative;
+    margin-right: -63.1354px;
+    margin-bottom: -122.151px;
+    left: 8.421px;
+    bottom: 8.99918px;
+    width: 64px;
+}
+
+.page19characterheadstuff .LongPonytail{
+    display: block;
+    position: relative;
+    margin-right: -63.5763px;
+    margin-bottom: -64.0971px;
+    left: 10.1405px;
+    bottom: 27.0417px;
+    width: 65px;
+}
+
+.page19characterheadstuff .MedAfro{
+	display: block;
+    position: relative;
+    margin-right: -67.368px;
+    margin-bottom: -47.2016px;
+    left: 7.27468px;
+    bottom: 10.3226px;
+    width: 69px;
+}
+
+.page19characterheadstuff .MedCurlyPomsDown{
+	display: block;
+    position: relative;
+    margin-right: -73.3641px;
+    margin-bottom: -62.4208px;
+    left: 5.73157px;
+    bottom: -4.8525px;
+    width: 73px;
+}
+
+.page19characterheadstuff .MedCurlyPomsDown2{
+	display: block;
+    position: relative;
+    margin-right: -86.8994px;
+    margin-bottom: -74.4638px;
+    left: -3.87983px;
+    bottom: 10.4108px;
+    width: 88px;
+}
+
+.page19characterheadstuff  .MedPuffsUp {
+	display: block;
+    position: relative;
+    margin-right: -91.7933px;
+    margin-bottom: -49.4073px;
+    left: -5.02614px;
+    bottom: 12.0871px;
+    width: 93px;
+}
+
+.page19characterheadstuff .MedSpikeyHair{
+	display: block;
+    position: relative;
+    margin-right: -60.7987px;
+    margin-bottom: -50.466px;
+    left: 9.20055px;
+    bottom: 12.2636px;
+    width: 61px;
+}
+
+.page19characterheadstuff  .ShortCurlyHair {
+	display: block;
+    position: relative;
+    margin-right: -54.8467px;
+    margin-bottom: -37.9377px;
+    left: 12.0804px;
+    bottom: -1.80866px;
+    width: 56px;
+}
+
+.page19characterheadstuff  .Shorthair {
+	display: block;
+    position: relative;
+    margin-right: -49.071px;
+    margin-bottom: -31.8942px;
+    left: 17.5097px;
+    bottom: -5.29364px;
+    width: 48px;
+}
+
+.page19characterheadstuff  .Shorthairwavy {
+	display: block;
+    position: relative;
+    margin-right: -54.9349px;
+    margin-bottom: -43.5843px;
+    left: 14.2267px;
+    bottom: 2.11745px;
+    width: 55px;
+}
+
+.page19characterheadstuff  .MedSpikeyHair2 {
+	display: block;
+    position: relative;
+    margin-right: -63.3118px;
+    margin-bottom: -39.1729px;
+    left: 8.59735px;
+    bottom: 2.29391px;
+    width: 64px;
+}
+
+/************************* Page 20 CSS Classes ********************/ 
+
+.page20characterheadstuff .Cornrow {
+	display: block;
+    position: relative;
+    margin-right: -65.3081px;
+    margin-bottom: -43.9878px;
+    left: 23.013px;
+    bottom: -7.09872px;
+    width: 66px;
+}
+
+.page20characterheadstuff .LongBraidsDown{
+	display: block;
+    position: relative;
+    margin-right: -86.8349px;
+    margin-bottom: -168.003px;
+    left: 11.582px;
+    bottom: 11.3773px;
+    width: 86px;
+}
+
+.page20characterheadstuff .LongPonytail{
+	display: block;
+    position: relative;
+    margin-right: -87.4413px;
+    margin-bottom: -88.1576px;
+    left: 13.9469px;
+    bottom: 36.1924px;
+    width: 88px;
+}
+
+.page20characterheadstuff .MedAfro{
+	display: block;
+    position: relative;
+    margin-right: -92.6562px;
+    margin-bottom: -64.9199px;
+    left: 10.0054px;
+    bottom: 14.1974px;
+    width: 93px;
+}
+
+.page20characterheadstuff .MedCurlyPomsDown{
+	display: block;
+    position: relative;
+    margin-right: -100.903px;
+    margin-bottom: -85.852px;
+    left: 7.88306px;
+    bottom: -7.67401px;
+    width: 100px;
+}
+
+.page20characterheadstuff .MedCurlyPomsDown2{
+	display: block;
+    position: relative;
+    margin-right: -119.519px;
+    margin-bottom: -102.416px;
+    left: -5.33622px;
+    bottom: 13.3188px;
+    width: 119px;
+}
+
+.page20characterheadstuff  .MedPuffsUp {
+	display: block;
+    position: relative;
+    margin-right: -126.25px;
+    margin-bottom: -67.9535px;
+    left: -6.91283px;
+    bottom: 14.6243px;
+    width: 127px;
+}
+
+.page20characterheadstuff .MedSpikeyHair{
+	display: block;
+    position: relative;
+    margin-right: -83.621px;
+    margin-bottom: -69.4097px;
+    left: 11.2788px;
+    bottom: 14.867px;
+    width: 84px;
+}
+
+.page20characterheadstuff  .ShortCurlyHair {
+	display: block;
+    position: relative;
+    margin-right: -75.4348px;
+    margin-bottom: -52.1786px;
+    left: 16.6151px;
+    bottom: -3.48758px;
+    width: 75px;
+}
+
+.page20characterheadstuff  .Shorthair {
+	display: block;
+    position: relative;
+    margin-right: -67.4911px;
+    margin-bottom: -43.8664px;
+    left: 22.9821px;
+    bottom: -7.28074px;
+    width: 67px;
+}
+
+.page20characterheadstuff  .Shorthairwavy {
+	display: block;
+    position: relative;
+    margin-right: -75.5561px;
+    margin-bottom: -59.9447px;
+    left: 18.1917px;
+    bottom: 2.91229px;
+    width: 77px;
+}
+
+.page20characterheadstuff  .MedSpikeyHair2 {
+	display: block;
+    position: relative;
+    margin-right: -87.0775px;
+    margin-bottom: -53.8774px;
+    left: 11.8246px;
+    bottom: 2.15499px;
+    width: 87px;
+}
+
+/********************** Glasses CSS ************************/
+
+.page0characterheadstuff .pageglasses{
+    display: block;
+    position: absolute;
+    margin-right: -66.2264px !important;
+    margin-bottom: -16.8263px !important;
+    left: 22.944px;
+    bottom: 130.5px;
+    width: 70px;
+}
+
+.page1glasses{
+    display: block;
+	position: absolute;
+	margin-right: -41.7606px !important;
+	margin-bottom: -10.4657px !important;
+	left: 13.729px;
+	top: 28px;
+	width: 46px;
+}
+
+.page2characterheadstuff  .pageglasses{
+	display: block;
+    position: absolute;
+    margin-right: -55.3996px !important;
+    margin-bottom: -13.8837px !important;
+    left: 20.8661px;
+    bottom: 106px;
+    width: 56px;
+}
+
+.page3characterheadstuff  .pageglasses{
+	display: block;
+    position: absolute;
+    margin-right: -49.6347px !important;
+    margin-bottom: -12.439px !important;
+    left: 18.6948px;
+    bottom: 96px;
+    width: 50px;
+}
+
+.page4characterheadstuff  .pageglasses{
+    display: block;
+    position: absolute;
+    margin-right: -146.022px !important;
+    margin-bottom: -36.5946px !important;
+    left: 54.9987px;
+    bottom: 284px;
+    width: 146px;
+}
+
+.page5characterheadstuff  .pageglasses{display:none !important}
+
+.page5characterheadstuff  .pagemask{
+    display: block;
+    position: absolute;
+    margin-right: -79.3888px !important;
+    margin-bottom: -79.4331px !important;
+    left: 27.2899px;
+    bottom: 180px;
+}
+
+.page6characterheadstuff  .pageglasses{
+	display: block;
+    position: absolute;
+    margin-right: -54.5559px !important;
+    margin-bottom: -13.6723px !important;
+    left: 20.5484px;
+    bottom: 104px;
+    width: 55px;
+}
+
+.page7characterheadstuff  .pageglasses{
+	display: block;
+    position: absolute;
+    margin-right: -29.8089px !important;
+    margin-bottom: -7.47044px !important;
+    left: 11.2275px;
+    top: 20px;
+    width: 30px;
+}
+
+.page8characterheadstuff  .pageglasses{
+	display: block;
+    position: absolute;
+    margin-right: -38.8078px !important;
+    margin-bottom: -9.72566px !important;
+    left: 14.6169px;
+    top: 27px;
+    width: 41px;
+}
+
+.page9characterheadstuff  .pageglasses{
+	display: block;
+    position: absolute;
+    margin-right: -37.9642px !important;
+    margin-bottom: -9.51424px !important;
+    left: 14.2991px;
+    width: 40px;
+    top: 27px;
+}
+
+.page10characterheadstuff  .pageglasses{
+	display: block;
+    position: absolute;
+    margin-right: -64.6797px !important;
+    margin-bottom: -16.2094px !important;
+    left: 24.3615px;
+    top: 44px;
+    width: 64px;
+}
+
+.page10characterheadstuff  .pageglasses{
+	display: block;
+    position: absolute;
+    margin-right: -64.6797px !important;
+    margin-bottom: -16.2094px !important;
+    left: 24.3615px;
+    top: 44px;
+    width: 64px;
+}
+
+.page12characterheadstuff  .pageglasses{
+    display: block;
+    position: absolute;
+    margin-right: -71.4289px !important;
+    margin-bottom: -17.9009px !important;
+    left: 26.9035px;
+    top: 47px;
+    width: 73px;
+}
+
+.page13characterheadstuff  .pageglasses{
+    display:block;
+	position: absolute;
+    margin-right: -44.2212px !important;
+    margin-bottom: -11.0823px !important;
+    left: 16.6558px;
+    top: 29px;
+    width: 45px;
+}
+
+.page14characterheadstuff  .pageglasses{
+    display: block;
+    position: absolute;
+    margin-right: -64.2579px !important;
+    margin-bottom: -16.1037px !important;
+    left: 24.2026px;
+    bottom: 125px;
+    width: 65px;
+}
+
+.page16characterheadstuff  .pageglasses{
+    display:block;
+    position: absolute;
+    margin-right: -50.4783px !important;
+    margin-bottom: -12.6504px !important;
+    left: 19.0125px;
+    top: 35px;
+    width: 51px;
+}
+
+.page17characterheadstuff  .pageglasses{
+    display:block;
+    position: absolute;
+    margin-right: -57.4384px !important;
+    margin-bottom: -14.3947px !important;
+    left: 21.6341px;
+    top: 39px;
+	width: 56px;
+}
+
+.page19characterheadstuff  .pageglasses{  
+    display: block;
+    position: absolute;
+    margin-right: -46.8225px !important;
+    margin-bottom: -11.7342px !important;
+    left: 17.6356px;
+    top: 32px;
+    width: 47px;
+}
+.page20characterheadstuff  .pageglasses{  
+    display: block;
+    position: absolute;
+    margin-right: -64.3985px !important;
+    margin-bottom: -16.139px !important;
+    left: 24.2556px;
+    top: 44px;
+    width: 65px;
+}
+
+/************************** Boday Changing CSS ************************/
+
+.page2charactercontainer  img.pagebody.page2body.w_chair_suit{
+	display: block;
+    position: relative;
+    margin-right: -198.472px;
+    margin-bottom: -198.583px;
+    right: -29px;
+    top: 22px;
+    width: 142px;
+}
+
+.page2charactercontainer  img.pagebody.page2body.full_body_suit{
+	display: block;
+    position: relative;
+    margin-right: -198.472px;
+    margin-bottom: -198.583px;
+    right: 0px;
+    top: 0px;
+	width: 200px;
+}
+
+.page4charactercontainer  img.pagebody.page4body.w_chair_suit{
+    display: block;
+    position: relative;
+    margin-right: -288.611px;
+    margin-bottom: -319.387px;
+    right: 0px;
+    top: 0px;
+    width: 289px;
+}
+
+.page4charactercontainer  img.pagebody.page4body.full_body_suit{
+	display: block;
+    position: relative;
+    margin-right: -288.611px;
+    margin-bottom: -319.387px;
+    right: 0px;
+    top: 0px;
+	width: 289px;
+}
+
+.page5charactercontainer  img.pagebody.page5body.w_chair_suit{
+    display: block;
+    position: relative;
+    margin-right: -198.472px;
+    margin-bottom: -337.591px;
+    right: 9px;
+    top: -6px;
+    width: 256px;
+}
+
+.page5charactercontainer  img.pagebody.page5body.full_body_suit{
+	display: block;
+    position: relative;
+    margin-right: -198.472px;
+    margin-bottom: -337.591px;
+    right: 0px;
+    top: 0px;
+	width: 199px;
+}
+
+.page6charactercontainer img.pagebody.page6body.w_chair_suit{
+    display: block;
+    position: relative;
+    margin-right: -157.124px;
+    margin-bottom: -235.128px;
+    right: -15px;
+    top: -6px;
+    width: 107px;
+}
+
+.page6charactercontainer img.pagebody.page6body.full_body_suit{
+    display: block;
+    position: relative;
+    margin-right: -157.124px;
+    margin-bottom: -235.128px;
+    right: 0px;
+    top: 0px;
+    width: 158px;
+}
+
+.page10charactercontainer img.pagebody.page10body.w_chair_suit {
+    display: block;
+    position: relative;
+    margin-right: -198.472px;
+    margin-bottom: -320.491px;
+    right: -14px;
+    top: -31.034667px;
+    width: 182px;
+}
+
+.page10charactercontainer img.pagebody.page10body.full_body_suit {
+    display: block;
+    position: relative;
+    margin-right: -198.472px;
+    margin-bottom: -320.491px;
+    right: 0px;
+    top: 0.965333px;
+    width: 198.5px;
+}
+
+.page12charactercontainer img.pagebody.page12body.w_chair_suit {
+    display: block;
+    position: relative;
+    margin-right: -122.942px;
+    margin-bottom: -270.845px;
+    right: 19px;
+    top: 2px;
+    width: 153px;
+}
+    
+.page12charactercontainer img.pagebody.page12body.full_body_suit {
+    display: block;
+    position: relative;
+    margin-right: -122.942px;
+    margin-bottom: -270.845px;
+    right: 0px;
+    top: 0px;
+    width: 122.5px;
+}	
+
+.page0characterheadstuff img.hijab{
+    display: block;
+    position: relative;
+    margin-right: -86.5558px;
+    margin-bottom: -105.449px;
+    left: 14.9664px;
+    bottom: 4.80751px;
+    width: 86px;
+}
+
+.page1characterheadstuff img.hijab{
+    display: block;
+    position: relative;
+    margin-right: -86.5558px;
+    margin-bottom: -101.449px;
+    left: 2.80751px;
+    bottom: 12.80751px;
+    width: 65px;
+}
+
+.page2characterheadstuff img.hijab{
+    display: block;
+    position: relative;
+    margin-right: -72.4055px;
+    margin-bottom: -87.0082px;
+    left: 12.5197px;
+    bottom: 4.96678px;
+    width: 72px;
+}
+
+.page3characterheadstuff img.hijab{
+    display: block;
+    position: relative;
+    margin-right: -64.8709px;
+    margin-bottom: -77.9541px;
+    left: 11.2169px;
+    bottom: 3.554px;
+    width: 64px;
+}
+
+.page4characterheadstuff img.hijab{
+    display: block;
+    position: relative;
+    margin-right: -190.845px;
+    margin-bottom: -229.335px;
+    left: 32.9992px;
+    bottom: 10.4556px;
+    width: 190px;
+}
+
+.page5characterheadstuff img.hijab{
+    width: 101px;
+    display: block;
+    position: relative;
+    margin-right: -99.6035px;
+    margin-bottom: -119.692px;
+    left: 15.2225px;
+    bottom: 5.45684px;
+}
+
+.page6characterheadstuff img.hijab{
+    display: block;
+    position: relative;
+    margin-right: -71.3029px;
+    margin-bottom: -85.6832px;
+    left: 11.329px;
+    bottom: 5.90637px;
+    width: 74px;
+}
+
+.page7characterheadstuff img.hijab{
+    display: block;
+    position: relative;
+    margin-right: -38.9593px;
+    margin-bottom: -46.8166px;
+    left: 6.73648px;
+    bottom: 2.13441px;
+    width: 38px;
+}
+
+.page8characterheadstuff img.hijab{
+    width: 50px;
+    display: block;
+    position: relative;
+    margin-right: -50.7206px;
+    margin-bottom: -60.9499px;
+    left: 8.77013px;
+    bottom: 2.77876px;
+}
+
+.page9characterheadstuff img.hijab{
+    display: block;
+    position: relative;
+    margin-right: -49.618px;
+    margin-bottom: -59.6249px;
+    left: 8.57948px;
+    bottom: 2.71835px;
+    width: 50px;
+}
+
+.page10characterheadstuff img.hijab{
+    display: block;
+    position: relative;
+    margin-right: -84.5343px;
+    margin-bottom: -101.583px;
+    left: 14.6169px;
+    bottom: 4.63127px;
+    width: 84px;
+}
+
+.page11characterheadstuff img.hijab{
+    
+}
+
+.page12characterheadstuff img.hijab{
+    display: block;
+    position: relative;
+    margin-right: -93.3553px;
+    margin-bottom: -112.183px;
+    left: 16.1421px;
+    bottom: 8.11453px;
+    width: 94px;
+}
+
+.page13characterheadstuff img.hijab{
+    display: block;
+    position: relative;
+    margin-right: -57.7958px;
+    margin-bottom: -69.452px;
+    left: 9.9935px;
+    bottom: 3.16638px;
+    width: 58px;
+}
+.page14characterheadstuff .hijab {
+    width: 82px;
+    position: absolute;
+    left: 15px;
+    top: -3px;
+}
+
+.page16characterheadstuff img.hijab{
+    display: block;
+    position: relative;
+    margin-right: -65.9735px;
+    margin-bottom: -79.2791px;
+    left: 11.4075px;
+    bottom: 3.6144px;
+    width: 66px;
+}
+
+.page17characterheadstuff img.hijab{
+    display: block;
+    position: relative;
+    margin-right: -75.0702px;
+    margin-bottom: -90.2103px;
+    left: 13.9804px;
+    bottom: 4.11277px;
+    width: 76px;
+}
+
+.page19characterheadstuff img.hijab{
+	display: block;
+    position: relative;
+    margin-right: -61.1955px;
+    margin-bottom: -73.5374px;
+    left: 10.5814px;
+    bottom: 3.35264px;
+    width: 62px;
+}
+
+.page20characterheadstuff img.hijab{
+	display: block;
+    position: relative;
+    margin-right: -84.1668px;
+    margin-bottom: -101.142px;
+    left: 14.5533px;
+    bottom: 4.61113px;
+    width: 85px;
+}
+
+.page5mask {
+	display: block;
+    position: absolute;
+    left: 27.2899px;
+    top: 18px;
+}
+
+/*********************************** Freckles CSS *************************/
+.page0freckles{
+display: block;
+position: absolute;
+right: 42px;
+top: 55px;
+width: 60px;
+}
+.page1characterheadstuff .page1freckles{
+width: 48px;
+top:-59px;
+left:14px;
+}
+.page2freckles{
+display: block;
+position: absolute;
+margin-right: -53.7303px !important;
+margin-bottom: -16.7022px !important;
+left: 24px !important;
+top: 44px;
+width: 52px;
+}
+.page3freckles{
+display: block;
+position: absolute;
+margin-right: -48.1391px;
+margin-bottom: -14.9642px;
+right: 29px;
+top: 41px;
+width: 47px;
+}
+.page4freckles{
+display: block;
+position: absolute;
+margin-right: -141.622px;
+margin-bottom: -44.0235px;
+right: 85px;
+top: 119px;
+width: 140px;
+}
+.page5freckles{
+display: block;
+position: relative;
+margin-right: -73.9133px;
+margin-bottom: -22.9762px;
+right: -29.4935px;
+top: -56px;
+width: 73px;
+}
+.page6freckles{
+display: block;
+position: relative;
+margin-right: -52.9121px;
+margin-bottom: -16.4479px;
+right: -23.1135px;
+top: -43px;
+width: 52px;
+}
+.page7freckles{
+display: block;
+position: relative;
+margin-right: -28.9107px;
+margin-bottom: -8.98699px;
+right: -11.5362px;
+top: -22.5176px;
+width: 29px;
+}
+.page8freckles{
+display: inline-block;
+position: relative;
+margin-right: -37.6385px;
+margin-bottom: -11.7px;
+right: -15.0189px;
+top: -37.9192px;
+width: 38px;
+}
+.page9freckles{
+display: block;
+position: relative;
+margin-right: -36.8203px;
+margin-bottom: -11.4457px;
+right: -14.6924px;
+top: -28.2253px;
+width: 37px;
+}
+.page10freckles{
+display: block;
+position: relative;
+margin-right: -62.7308px;
+margin-bottom: -19.5001px;
+right: -25.0314px;
+top: -51.1986px;
+width: 63px;
+}
+.page12freckles{
+display: block;
+position: relative;
+margin-right: -69.2766px;
+margin-bottom: -21.5349px;
+right: -27.6434px;
+top: -56.7498px;
+width: 70px;
+}
+.page13freckles{
+display: block;
+position: relative;
+margin-right: -42.8888px;
+margin-bottom: -13.3321px;
+right: -18.1139px;
+top: -34.3717px;
+width: 43px;
+}
+.page14freckles{
+display: block;
+position: relative;
+margin-right: -62.3217px;
+margin-bottom: -19.3729px;
+right: -24.8682px;
+top: -50.8517px;
+width: 63px;
+}
+.page15characterheadstuff .page15freckles {
+width: 41px;
+position: relative;
+top: -15px;
+left: 5px;
+}
+.page16freckles{
+display: block;
+position: relative;
+margin-right: -48.9573px;
+margin-bottom: -15.2185px;
+right: -19.5354px;
+top: -39.5181px;
+width: 48.5px;
+}
+.page17freckles{
+display: block;
+position: relative;
+margin-right: -55.7077px;
+margin-bottom: -17.3169px;
+right: -22.229px;
+top: -47.2427px;
+width: 55.7px;
+}
+.page19freckles{
+display: block;
+position: relative;
+margin-right: -45.4117px;
+margin-bottom: -14.1164px;
+right: -18.1206px;
+top: -38.5112px;
+width: 45.5px;
+}
+.page20freckles{
+display: block;
+position: relative;
+margin-right: -62.4581px;
+margin-bottom: -19.4153px;
+right: -24.9226px;
+top: -50.9674px;
+width:62.5px;
+}
+.page1eyes{
+display: block;
+position: relative;
+margin-right: -35.587px;
+margin-bottom: -21.8362px;
+left: 16.1108px;
+bottom: -23.4494px;
+width: 38px;
+}
+.turn-page-wrapper.pg2.page.p2.even .txt_content{left:82px}
+.turn-page-wrapper.pg5.page.p3.odd .txt_content{left:258px;top:20px}
+.turn-page-wrapper.pg6.page.p2.even .txt_content{top:40px;left:244px}
+.turn-page-wrapper.pg7.page.p3.odd .txt_content{top:24px;left:232px}
+.turn-page-wrapper.pg8.page.p2.even .txt_content,
+.turn-page-wrapper.pg10.page.p2.even .txt_content,
+.turn-page-wrapper.pg12.page.p2.even .txt_content,
+.turn-page-wrapper.pg14.page.p2.even .txt_content,
+.turn-page-wrapper.pg16.page.p2.even .txt_content{left:238px;top:22px}
+.turn-page-wrapper.pg17.page.p3.odd .txt_content{left:226px;top:22px}
+.turn-page-wrapper.pg18.page.p2.even .txt_content.txt1{left:98px;top:22px;width:150px;}
+.turn-page-wrapper.pg18.page.p2.even .txt_content.txt2{left:238px;top:104px;width:150px;}
+
+/******************** Adjusting hairs ******************/
+/****************** Cover Page **************************/
+.page16characterheadstuff .Cornrow{
+    display: block;
+    position: relative;
+    margin-right: -68.0649px;
+    margin-bottom: -131.688px;
+    left: 18.07849px;
+    bottom: -5.29818px;
+    width: 52px;
+}
+
+img.pagehair.page0hair.mboton.Cornrow{bottom:-4.40104px;}
+img.pagehair.page0hair.MedCurlyPomsDown.mboton{bottom:-3.95824px;}
+img.pagehair.page0hair.MedCurlyPomsDown2.mboton{bottom: 17.9286px;}
+img.pagehair.page0hair.Shorthair.mboton{bottom:-4.59081px;left:23.6345px;width:68px;}
+img.pagehair.page0hair.Shorthairwavy.mboton{bottom:6.03632px;}
+img.pagehair.page0hair.LongBraidsDown.mboton{bottom:13.9044px;left: 11.9108px;width:87.5px;}
+
+/************** Page 02 **********************/
+
+img.pagehair.page2hair.Cornrow.mboton{bottom:-2.10676px;}
+img.pagehair.page2hair.MedCurlyPomsDown.mboton{bottom: -1.7414px;}
+img.pagehair.page2hair.MedCurlyPomsDown2.mboton{bottom: 16.3179px;}
+img.pagehair.page2hair.Shorthair.mboton{bottom:-2.26334px;width:59px;}
+img.pagehair.page2hair.Shorthairwavy.mboton{bottom:7px;}
+
+img.pagehair.page3hair.MedCurlyPomsDown.mboton{bottom:-2.14394px;}
+img.pagehair.page3hair.MedCurlyPomsDown2.mboton{bottom:13.0361px;width:90px;left:-3.11285px;}
+img.pagehair.page3hair.ShortCurlyHair.mboton{left:13.8059px;bottom:0.08271px;width:56px;}
+img.pagehair.page3hair.Shorthair.mboton{left:18.7133px;bottom:-2.61157px;width:49px;}
+
+img.pagehair.page4hair.Cornrow.mboton{bottom:-9.0961px;}
+img.pagehair.page4hair.LongBraidsDown.mboton{bottom: 35.065px;}
+img.pagehair.page4hair.LongPonytail.mboton{bottom:90.3326px;width:198px;}
+img.pagehair.page4hair.MedCurlyPomsDown.mboton{bottom:-7.1331px;width:229px;}
+img.pagehair.page4hair.MedCurlyPomsDown2.mboton{bottom:41.4674px;}
+img.pagehair.page4hair.Shorthair.mboton{bottom:-6.5088px;}
+img.pagehair.page4hair.Shorthairwavy.mboton{bottom:15.60353px;}
+
+img.pagehair.page5hair.Shorthair.mboton{bottom: -2.61607px;}
+img.pagehair.page5hair.Cornrow.mboton{bottom: 156.5592px;}
+img.pagehair.page5hair.LongBraidsDown.mboton{bottom: 1.59933px;}
+img.pagehair.page5hair.LongPonytail.mboton{bottom: 49.0137px;}
+img.pagehair.page5hair.MedCurlyPomsDown.mboton{bottom:-3.89806px;}
+img.pagehair.page5hair.MedCurlyPomsDown2.mboton{bottom:20.9449px;}
+img.pagehair.page5hair.ShortCurlyHair.mboton{bottom:0.05618px;}
+
+.page5mask{top:20px !Important;}
+
+img.pagehair.page6hair.Cornrow.mboton{bottom:-3.01376px;}
+img.pagehair.page6hair.LongBraidsDown.mboton{bottom:14.4855px;}
+img.pagehair.page6hair.MedCurlyPomsDown.mboton{bottom:-2.65396px;}
+img.pagehair.page6hair.MedCurlyPomsDown2.mboton{bottom: 16.1303px;}
+img.pagehair.page6hair.ShortCurlyHair.mboton{bottom: 0.89261px;}
+img.pagehair.page6hair.Shorthair.mboton{bottom:-3.16796px;left:20.4696px;width:56px;}
+img.pagehair.page6hair.Shorthairwavy.mboton{bottom:6.46718px;}
+
+img.pagehair.page7hair.Cornrow.mboton{bottom:-2.28587px;}
+img.pagehair.page7hair.MedCurlyPomsDown.mboton{bottom:-2.08928px;}
+img.pagehair.page7hair.MedCurlyPomsDown2.mboton{bottom:7.62791px;}
+img.pagehair.page7hair.MedSpikeyHair.mboton{width: 39px;}
+img.pagehair.page7hair.Shorthair.mboton{bottom: -2.37012px;}
+
+img.pagehair.page8hair.Cornrow.mboton{bottom:-2.27783px;left:13.4707px;}
+img.pagehair.page8hair.MedCurlyPomsDown.mboton{bottom:-2.02189px;}
+img.pagehair.page8hair.MedCurlyPomsDown2.mboton{bottom:10.62878px;}
+img.pagehair.page8hair.MedSpikeyHair.mboton{left:7.79685px;bottom:11.1644px;width:50px;}
+img.pagehair.page8hair.Shorthair.mboton{bottom:-2.38752px;}
+img.pagehair.page8hair.Shorthairwavy.mboton{left:11.9627px;bottom:2.75501px;width:45px;}
+
+img.pagehair.page9hair.Cornrow.mboton{bottom:-2.18483px;left:13.1561px;}
+img.pagehair.page9hair.MedCurlyPomsDown.mboton{bottom:-0.93446px;}
+img.pagehair.page9hair.MedCurlyPomsDown2.mboton{bottom:10.4412px;}
+img.pagehair.page9hair.Shorthair.mboton{bottom: -0.29214px;}
+
+img.pagehair.page10hair.Cornrow.mboton{bottom:-5.12972px;left:23.1179px;}
+img.pagehair.page10hair.LongBraidsDown.mboton{bottom:15.4313px;}
+img.pagehair.page10hair.MedCurlyPomsDown.mboton{bottom:-5.70315px;left:7.91748px;width:99px;}
+img.pagehair.page10hair.MedCurlyPomsDown2.mboton{bottom:17.3813px;left:-5.35953px;width:120px;}
+img.pagehair.page10hair.MedSpikeyHair.mboton{left:13.3281px;bottom:17.9407px;width:80px;}
+img.pagehair.page10hair.Shorthair.mboton{left:24.0825px;bottom:-4.31253px;width:65px;}
+
+img.pagehair.page12hair.Cornrow.mboton{left:25.6345px;bottom:-5.87369px;width:74px;}
+img.pagehair.page12hair.LongBraidsDown.mboton{left:12.8464px;bottom:17.7285px;width:97px;}
+img.pagehair.page12hair.MedCurlyPomsDown.mboton{left:9.74365px;bottom:-7.40261px;width: 109px;}
+img.pagehair.page12hair.MedCurlyPomsDown2.mboton{left:-4.91878px;bottom:18.882px;width:131px;}
+img.pagehair.page12hair.Shorthair.mboton{left:25.4911px;bottom:-5.07558px;width:75px;}
+
+img.pagehair.page13hair.Cornrow.mboton{bottom:-2.87456px;}
+img.pagehair.page13hair.LongBraidsDown.mboton{bottom:9.49923px;left:7.95316px;width:59px;}
+img.pagehair.page13hair.MedCurlyPomsDown.mboton{left:5.41315px;bottom:-3.58292px;width:68px;}
+img.pagehair.page13hair.MedCurlyPomsDown2.mboton{left:-3.66428px;bottom:11.83244px;width:82px;}
+img.pagehair.page13hair.Shorthair.mboton{left:15.7814px;bottom:-1.99954px;width:45px;}
+
+img.pagehair.page14hair.Cornrow.mboton{left:23.9606px;bottom:-4.08322px;width:65px;}
+img.pagehair.page14hair.LongBraidsDown.mboton{bottom:14.3502px;}
+img.pagehair.page14hair.MedCurlyPomsDown.mboton{bottom:-3.65944px;}
+img.pagehair.page14hair.MedCurlyPomsDown2.mboton{left:-5.32457px;bottom:17.2875px;width:118px;}
+img.pagehair.page14hair.Shorthair.mboton{bottom:-4.26484px;width:67px;}
+
+img.pagehair.page16hair.Cornrow.mboton{bottom:-2.29818px;width:52px;}
+img.pagehair.page16hair.LongBraidsDown.mboton{bottom:11.70182px;}
+img.pagehair.page16hair.MedCurlyPomsDown.mboton{bottom:-3.23137px;width:78px;}
+img.pagehair.page16hair.MedCurlyPomsDown2.mboton{bottom:14.2237px;}
+img.pagehair.page16hair.Shorthair.mboton{bottom:-3.70695px;width:52px;}
+
+img.pagehair.page17hair.Cornrow.mboton{left:20.4177px;bottom:-1.3315px;width:57px;}
+img.pagehair.page17hair.LongBraidsDown.mboton{bottom:13.0395px;width:78px;}
+img.pagehair.page17hair.MedCurlyPomsDown.mboton{bottom:-0.95269px;}
+img.pagehair.page17hair.MedCurlyPomsDown2.mboton{bottom: 14.7712px;}
+img.pagehair.page17hair.ShortCurlyHair.mboton{bottom: -0.21873px;}
+img.pagehair.page17hair.Shorthair.mboton{bottom: -2.49384px;width:59px;}
+
+img.pagehair.page19hair.Cornrow.mboton{bottom:-3.16129px;}
+img.pagehair.page19hair.LongBraidsDown.mboton{bottom:11.99918px;}
+img.pagehair.page19hair.MedCurlyPomsDown.mboton{bottom:-2.8525px;}
+img.pagehair.page19hair.MedCurlyPomsDown2.mboton{bottom:13.4108px;}
+img.pagehair.page19hair.Shorthair.mboton{bottom:-3.29364px;}
+
+img.pagehair.page20hair.Cornrow.mboton{bottom:-4.09872px;}
+img.pagehair.page20hair.MedCurlyPomsDown.mboton{bottom:-3.67401px;}
+.turn-page-wrapper.pg22 .firstline{bottom:355px !important;}
+
+.previw{display:none;}
+.flip-control svg{width:20px;}
+
+@media(max-width:767px){
+	.step1_wrap{display:block;width:100%;clear:both}
+	.selection_side{float:left;width:100%;display:block;}
+	.display_side{float:left;width:100%;display:block;}
+}

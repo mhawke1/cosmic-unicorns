@@ -1,0 +1,40 @@
+[30-Jan-2021 12:19:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/cosmicu/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cosmicu/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[13-Apr-2021 17:13:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/cosmicu/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cosmicu/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[13-Apr-2021 17:13:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/cosmicu/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cosmicu/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[07-May-2021 02:11:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/cosmicu/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cosmicu/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[12-May-2021 17:31:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/cosmicu/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cosmicu/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[16-May-2021 15:59:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/cosmicu/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cosmicu/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[16-May-2021 15:59:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/cosmicu/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cosmicu/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[17-May-2021 06:24:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/cosmicu/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/cosmicu/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[18-May-2021 07:23:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/cosmicu/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/cosmicu/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[18-May-2021 12:47:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/cosmicu/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cosmicu/public_html/wp-content/themes/twentyseventeen/404.php on line 13

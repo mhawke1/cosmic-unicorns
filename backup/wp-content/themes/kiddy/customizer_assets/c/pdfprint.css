@@ -1,0 +1,125 @@
+.html2canvas-container { width: 3000px !important; height: 3000px !important; }
+
+.pagearea,.insidecoverarea
+{
+	position:absolute !important;
+	top:0 !important;
+	left:0 !important;
+}
+
+
+/*canvas{display:none;visibility:hidden}*/
+	.container{
+width: 100% !important;
+    margin: 0px !important;
+    padding: 0px !important;
+max-width: 100% !important;
+	}
+
+.hero-section{padding:0px 0px 0px !important}
+
+#characterpagesarea {
+    width: 100% !important;
+    height: auto !important;
+}
+
+body
+{
+	overflow:auto !important;
+}
+
+.rotated
+{
+	transform:rotate(90deg);
+	transform-origin:top left;
+position: relative;
+    left: 1683px;
+}
+
+
+.selectfirstfmicroimage{
+   display: block;
+    position: relative;
+    left: -347px;
+    top: -81px;
+    /* max-width: 1088px!important; */
+    height: 2199px; 
+}
+.
+
+img .selectsecondmicroimage{
+       display: block;
+    position: relative;
+    left: -414px;
+    top: -352px;
+    /* max-width: 1088px!important; */
+    height: 2295px;
+}
+
+#characterpagesarea
+{
+    text-align:center;
+}
+
+.page1textcontainer,.page2textcontainer,.page6textcontainer .first,.page9textcontainer,.page10textcontainer,.page11textcontainer,.page12textcontainer,.page13textcontainer,.page16textcontainer,.page17textcontainer,.page18textcontainer,.page19textcontainer,.page20textcontainer
+{
+	text-align:left;
+}
+
+.lovenotechildspictureborder
+{
+	/*bottom:612px !important;*/
+}
+
+
+
+
+
+
+/*
+.lovenotechildspictureborder
+{
+    position: relative;
+    max-width: unset;
+    display: block;
+    webkit-transform: translateY(0%) rotate(16deg);
+    -moz-transform: translateY(0%) rotate(16deg);
+    -moz-transform-origin: right top;
+    -ms-transform: translateY(0%) rotate(16deg);
+    -o-transform: translateY(0%) rotate(16deg);
+    transform: translateY(0%) rotate(16deg);
+    -webkit-transform-origin: left top;
+    -moz-transform-origin: left top;
+    -ms-transform-origin: left top;
+    -o-transform-origin: left top;
+    transform-origin: left top;
+}
+
+
+.lovenotechildspicture
+{
+    max-width: 100% !important;
+    max-height: 100% !important;
+    margin-top: -77%;
+}
+
+
+.lovenotechildspicturecontainer
+{
+    -webkit-transform: translateY(-100%) rotate(-16deg);
+    -moz-transform: translateY(-100%) rotate(-16deg);
+    -ms-transform: translateY(-100%) rotate(-16deg);
+    -o-transform: translateY(-100%) rotate(-16deg);
+    transform: translateY(-100%) rotate(-16deg);
+    -webkit-transform-origin: left top;
+    -moz-transform-origin: left top;
+    -ms-transform-origin: left top;
+    -o-transform-origin: left top;
+    transform-origin: left top;
+}
+
+.lovenotechildspictureborder
+{
+	bottom:994px !important;
+	right:311px !important;
+}*/

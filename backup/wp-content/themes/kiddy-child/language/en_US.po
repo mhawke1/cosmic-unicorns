@@ -1,0 +1,2723 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kiddy - Multipurpose Children WordPress Theme\n"
+"POT-Creation-Date: 2015-10-22 09:17+0300\n"
+"PO-Revision-Date: 2015-10-22 09:18+0300\n"
+"Last-Translator: \n"
+"Language-Team: CWS Team <support@cwsthemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: kiddy\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: framework/rc/assets/js\n"
+"X-Poedit-SearchPathExcluded-1: js\n"
+
+#: 404.php:21
+msgid "Sorry"
+msgstr ""
+
+#: 404.php:21
+msgid "page not found"
+msgstr ""
+
+#: 404.php:26
+msgid "Please, proceed to our "
+msgstr ""
+
+#: 404.php:26
+msgid "Home page"
+msgstr ""
+
+#: comments.php:24
+msgid "Comments"
+msgstr ""
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:41
+msgid "Send"
+msgstr ""
+
+#: core/bfi_thumb.php:118
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: core/bfi_thumb.php:233
+msgid "Image rotate failed."
+msgstr ""
+
+#: core/bfi_thumb.php:255
+msgid "Image opacity change failed."
+msgstr ""
+
+#: core/bfi_thumb.php:333
+msgid "Image color change failed."
+msgstr ""
+
+#: core/bfi_thumb.php:349
+msgid "Image grayscale failed."
+msgstr ""
+
+#: core/bfi_thumb.php:365
+msgid "Image negate failed."
+msgstr ""
+
+#: core/breadcrumbs.php:5 header.php:55 header.php:71
+msgid "Home"
+msgstr ""
+
+#: core/breadcrumbs.php:6
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: core/breadcrumbs.php:7 header.php:57
+#, php-format
+msgid "Search for \"%s\""
+msgstr ""
+
+#: core/breadcrumbs.php:8 header.php:58
+#, php-format
+msgid "Archive by %s \"%s\""
+msgstr ""
+
+#: core/breadcrumbs.php:9 header.php:59
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: core/breadcrumbs.php:10 header.php:60
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: core/breadcrumbs.php:11 header.php:61
+msgid "Error 404"
+msgstr ""
+
+#: core/breadcrumbs.php:202
+msgid "Page"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:333 core/plugins.php:85
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:334 core/plugins.php:86
+msgid "Install Plugins"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:335 core/plugins.php:87
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:336 core/plugins.php:88
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:397 core/plugins.php:99
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:399
+#: core/class-tgm-plugin-activation.php:3034 core/plugins.php:100
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2172
+msgid "Required"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2175
+msgid "Recommended"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2191
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2194
+msgid "External Source"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2197
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2214
+msgid "Not Installed"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2218
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2220
+#: framework/rc/inc/fields/link_color/field_link_color.php:103
+msgid "Active"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2226
+msgid "Required Update not Available"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2229
+msgid "Requires Update"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2232
+msgid "Update recommended"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2384
+msgid "Installed version:"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2392
+msgid "Minimum required version:"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2404
+msgid "Available version:"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2441
+msgid "Plugin"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2442 functions.php:541
+msgid "Source"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2443
+msgid "Type"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2447
+msgid "Version"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2448
+msgid "Status"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2608
+msgid "Install"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2614
+msgid "Update"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2617
+msgid "Activate"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2648
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2650
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2686
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2688
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3033
+msgid "Plugin activation failed."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3367
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3369
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3374
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3375
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3376
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3377
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3380
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3382
+msgid "All installations have been completed."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3383
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/cws_portfolio.php:18 core/cws_portfolio.php:34
+msgid "Portfolio items"
+msgstr ""
+
+#: core/cws_portfolio.php:19
+msgid "Portfolio item"
+msgstr ""
+
+#: core/cws_portfolio.php:20
+msgid "Portfolio"
+msgstr ""
+
+#: core/cws_portfolio.php:21
+msgid "Add Portfolio Item"
+msgstr ""
+
+#: core/cws_portfolio.php:22
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: core/cws_portfolio.php:23
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: core/cws_portfolio.php:24
+msgid "New Portfolio Item"
+msgstr ""
+
+#: core/cws_portfolio.php:25
+msgid "View Portfolio Item"
+msgstr ""
+
+#: core/cws_portfolio.php:26
+msgid "Search Portfolio Item"
+msgstr ""
+
+#: core/cws_portfolio.php:27
+msgid "No Portfolio Items found"
+msgstr ""
+
+#: core/cws_portfolio.php:28
+msgid "No Portfolio Items found in Trash"
+msgstr ""
+
+#: core/cws_portfolio.php:243 core/cws_portfolio.php:491 core/cws_staff.php:183
+#: core/cws_staff.php:191
+msgid ", "
+msgstr ""
+
+#: core/cws_staff.php:9 core/cws_staff.php:26
+msgid "Staff members"
+msgstr ""
+
+#: core/cws_staff.php:10
+msgid "Staff member"
+msgstr ""
+
+#: core/cws_staff.php:11
+msgid "Our team"
+msgstr ""
+
+#: core/cws_staff.php:12 core/portfolio-cols.php:82 core/shortcodes.php:982
+#: core/shortcodes.php:1058 core/shortcodes.php:1213
+#: framework/rc/inc/fields/spacing/field_spacing.php:151
+msgid "All"
+msgstr ""
+
+#: core/cws_staff.php:13
+msgid "Add new"
+msgstr ""
+
+#: core/cws_staff.php:14
+msgid "Add New Staff Member"
+msgstr ""
+
+#: core/cws_staff.php:15
+msgid "Edit Staff Member's info"
+msgstr ""
+
+#: core/cws_staff.php:16
+msgid "New Staff Member"
+msgstr ""
+
+#: core/cws_staff.php:17
+msgid "View Staff Member's info"
+msgstr ""
+
+#: core/cws_staff.php:18
+msgid "Find Staff Member"
+msgstr ""
+
+#: core/cws_staff.php:19
+msgid "No Staff Members found"
+msgstr ""
+
+#: core/cws_staff.php:20
+msgid "No Staff Members found in Trash"
+msgstr ""
+
+#: core/cws_staff.php:48
+msgid "Departments"
+msgstr ""
+
+#: core/cws_staff.php:49
+msgid "Staff department"
+msgstr ""
+
+#: core/cws_staff.php:50
+msgid "All Staff departments"
+msgstr ""
+
+#: core/cws_staff.php:51
+msgid "Edit Staff department"
+msgstr ""
+
+#: core/cws_staff.php:52
+msgid "View Staff department"
+msgstr ""
+
+#: core/cws_staff.php:53
+msgid "Update Staff department"
+msgstr ""
+
+#: core/cws_staff.php:54
+msgid "Add Staff department"
+msgstr ""
+
+#: core/cws_staff.php:55
+msgid "New Staff department name"
+msgstr ""
+
+#: core/cws_staff.php:56
+msgid "Parent Staff department"
+msgstr ""
+
+#: core/cws_staff.php:57
+msgid "Parent Staff department:"
+msgstr ""
+
+#: core/cws_staff.php:58
+msgid "Search Staff departments"
+msgstr ""
+
+#: core/cws_staff.php:59
+msgid "Popular Staff departments"
+msgstr ""
+
+#: core/cws_staff.php:60 core/cws_staff.php:87
+msgid "Separate with commas"
+msgstr ""
+
+#: core/cws_staff.php:61
+msgid "Add or Remove Staff departments"
+msgstr ""
+
+#: core/cws_staff.php:62
+msgid "Choose from the most used Staff departments"
+msgstr ""
+
+#: core/cws_staff.php:63
+msgid "No Staff departments found"
+msgstr ""
+
+#: core/cws_staff.php:77
+msgid "Positions"
+msgstr ""
+
+#: core/cws_staff.php:78
+msgid "Staff Member position"
+msgstr ""
+
+#: core/cws_staff.php:79
+msgid "All Staff Member positions"
+msgstr ""
+
+#: core/cws_staff.php:80
+msgid "Edit Staff Member position"
+msgstr ""
+
+#: core/cws_staff.php:81
+msgid "View Staff Member position"
+msgstr ""
+
+#: core/cws_staff.php:82
+msgid "Update Staff Member position"
+msgstr ""
+
+#: core/cws_staff.php:83
+msgid "Add Staff Member position"
+msgstr ""
+
+#: core/cws_staff.php:84
+msgid "New Staff Member position name"
+msgstr ""
+
+#: core/cws_staff.php:85
+msgid "Search Staff Member positions"
+msgstr ""
+
+#: core/cws_staff.php:86
+msgid "Popular Staff Member positions"
+msgstr ""
+
+#: core/cws_staff.php:88
+msgid "Add or Remove Staff Member positions"
+msgstr ""
+
+#: core/cws_staff.php:89
+msgid "Choose from the most used Staff Member positions"
+msgstr ""
+
+#: core/cws_staff.php:90
+msgid "No Staff Member positions found"
+msgstr ""
+
+#: core/cws_staff.php:262
+msgid "Departments: "
+msgstr ""
+
+#: core/cws_staff.php:271
+msgid "Positions: "
+msgstr ""
+
+#: core/plugins.php:101
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: core/portfolio-cols.php:239 image.php:141 single-cws_portfolio.php:124
+msgid "Next"
+msgstr ""
+
+#: core/portfolio-cols.php:240
+msgid "Previous"
+msgstr ""
+
+#: core/shortcodes.php:43
+msgid "Click Here"
+msgstr ""
+
+#: core/shortcodes.php:128
+msgid "Twitter API keys and tokens are not set."
+msgstr ""
+
+#: core/shortcodes.php:1451
+msgid "Twitter responds:"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:11 core/widgets/cws_portfolio.php:11
+msgid "Widget Title"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:16
+msgid "Post categories"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:25
+msgid "Post count"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:31
+msgid "Visible count"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:37
+msgid "Count of chars from post content"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:43 core/widgets/cws_twitter.php:30
+#: functions.php:626
+msgid "Show date"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:50
+msgid "CWS most recent posts"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:51
+msgid "CWS Recent Posts"
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:127
+msgid "..."
+msgstr ""
+
+#: core/widgets/cws_latest_posts.php:155 core/widgets/cws_portfolio.php:110
+msgid "There are no posts matching the query"
+msgstr ""
+
+#: core/widgets/cws_portfolio.php:18
+msgid "Categories"
+msgstr ""
+
+#: core/widgets/cws_portfolio.php:27
+msgid "Items Count"
+msgstr ""
+
+#: core/widgets/cws_portfolio.php:35
+msgid "Portfolio Items"
+msgstr ""
+
+#: core/widgets/cws_portfolio.php:36
+msgid "CWS Portfolio"
+msgstr ""
+
+#: core/widgets/cws_text.php:12 core/widgets/cws_twitter.php:12
+msgid "Widget title"
+msgstr ""
+
+#: core/widgets/cws_text.php:18
+msgid "Show icon options"
+msgstr ""
+
+#: core/widgets/cws_text.php:24
+msgid "Icon options"
+msgstr ""
+
+#: core/widgets/cws_text.php:31
+msgid "Icon color"
+msgstr ""
+
+#: core/widgets/cws_text.php:39
+msgid "Icon type"
+msgstr ""
+
+#: core/widgets/cws_text.php:42
+msgid "icon"
+msgstr ""
+
+#: core/widgets/cws_text.php:43
+msgid "image"
+msgstr ""
+
+#: core/widgets/cws_text.php:49
+msgid "Custom icon"
+msgstr ""
+
+#: core/widgets/cws_text.php:55
+msgid "Image width"
+msgstr ""
+
+#: core/widgets/cws_text.php:62
+msgid "Image height"
+msgstr ""
+
+#: core/widgets/cws_text.php:69
+msgid "Font Awesome character"
+msgstr ""
+
+#: core/widgets/cws_text.php:80
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:30
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:359
+msgid "Text"
+msgstr ""
+
+#: core/widgets/cws_text.php:86
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: core/widgets/cws_text.php:92
+msgid "Add link"
+msgstr ""
+
+#: core/widgets/cws_text.php:99
+msgid "Link Options"
+msgstr ""
+
+#: core/widgets/cws_text.php:104 framework/config.php:1033
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:169
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:270
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:415
+msgid "Url"
+msgstr ""
+
+#: core/widgets/cws_text.php:110
+msgid "Link text"
+msgstr ""
+
+#: core/widgets/cws_text.php:119
+msgid "Modified WP Text widget"
+msgstr ""
+
+#: core/widgets/cws_text.php:120
+msgid "CWS Benefits"
+msgstr ""
+
+#: core/widgets/cws_twitter.php:18 functions.php:618
+msgid "Tweets to extract"
+msgstr ""
+
+#: core/widgets/cws_twitter.php:24 functions.php:622
+msgid "Tweets to show"
+msgstr ""
+
+#: core/widgets/cws_twitter.php:37
+msgid "CWS Twitter Widget"
+msgstr ""
+
+#: core/widgets/cws_twitter.php:38
+msgid "CWS Twitter"
+msgstr ""
+
+#: framework/config.php:101
+msgid "Section via hook"
+msgstr ""
+
+#: framework/config.php:102
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: framework/config.php:184
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: framework/config.php:202
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: framework/config.php:203
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: framework/config.php:204
+msgid "Tags"
+msgstr ""
+
+#: framework/config.php:209
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: framework/config.php:209
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: framework/config.php:236
+msgid "General Settings"
+msgstr ""
+
+#: framework/config.php:246
+msgid "Logo"
+msgstr ""
+
+#: framework/config.php:253 framework/config.php:352
+msgid "High-Resolution logo"
+msgstr ""
+
+#: framework/config.php:259
+msgid "Add border to the logo"
+msgstr ""
+
+#: framework/config.php:266
+msgid "Logo Dimensions"
+msgstr ""
+
+#: framework/config.php:271
+msgid "Logo Position"
+msgstr ""
+
+#: framework/config.php:273 framework/config.php:301
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:16
+#: framework/rc/inc/fields/spacing/field_spacing.php:196
+msgid "Left"
+msgstr ""
+
+#: framework/config.php:274 framework/config.php:302
+msgid "Center"
+msgstr ""
+
+#: framework/config.php:275 framework/config.php:303
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:17
+#: framework/rc/inc/fields/spacing/field_spacing.php:182
+msgid "Right"
+msgstr ""
+
+#: framework/config.php:276
+msgid "Inner"
+msgstr ""
+
+#: framework/config.php:284
+msgid "Logo Spacing"
+msgstr ""
+
+#: framework/config.php:291
+msgid "Inner logo position"
+msgstr ""
+
+#: framework/config.php:292
+msgid "This option inserts the logo into the appropriate menu item position."
+msgstr ""
+
+#: framework/config.php:299
+msgid "Menu Position"
+msgstr ""
+
+#: framework/config.php:309
+msgid "Header hovers image slider"
+msgstr ""
+
+#: framework/config.php:316
+msgid "Add bees"
+msgstr ""
+
+#: framework/config.php:322
+msgid "Apply sticky menu"
+msgstr ""
+
+#: framework/config.php:329
+msgid "Sticky logo"
+msgstr ""
+
+#: framework/config.php:337
+msgid "High-Resolution sticky logo"
+msgstr ""
+
+#: framework/config.php:345
+msgid "Mobile logo"
+msgstr ""
+
+#: framework/config.php:360
+msgid "Favicon"
+msgstr ""
+
+#: framework/config.php:366
+msgid "Top bar content"
+msgstr ""
+
+#: framework/config.php:372
+msgid "Toggle top bar"
+msgstr ""
+
+#: framework/config.php:378
+msgid "Show breadcrumbs"
+msgstr ""
+
+#: framework/config.php:384
+msgid "Show post author"
+msgstr ""
+
+#: framework/config.php:390
+msgid "Override portfolio slug"
+msgstr ""
+
+#: framework/config.php:396
+msgid "Override staff slug"
+msgstr ""
+
+#: framework/config.php:402
+msgid "Google Analytic Code"
+msgstr ""
+
+#: framework/config.php:408
+msgid "Google Event Tracking Code"
+msgstr ""
+
+#: framework/config.php:414
+msgid "Theme purchase code"
+msgstr ""
+
+#: framework/config.php:415
+msgid "Fill in this field to get automatic theme updates."
+msgstr ""
+
+#: framework/config.php:423
+msgid "Styling Options"
+msgstr ""
+
+#: framework/config.php:432
+msgid "Apply cloud style"
+msgstr ""
+
+#: framework/config.php:438
+msgid "Main Color"
+msgstr ""
+
+#: framework/config.php:447
+msgid "Secondary Color"
+msgstr ""
+
+#: framework/config.php:456
+msgid "Outline Color"
+msgstr ""
+
+#: framework/config.php:465
+msgid "Menu Color"
+msgstr ""
+
+#: framework/config.php:474
+msgid "Hover Menu Color"
+msgstr ""
+
+#: framework/config.php:482
+msgid "Customize headers"
+msgstr ""
+
+#: framework/config.php:490
+msgid "Top margin"
+msgstr ""
+
+#: framework/config.php:497
+msgid "Bottom margin"
+msgstr ""
+
+#: framework/config.php:504
+msgid "Header image"
+msgstr ""
+
+#: framework/config.php:512
+msgid "Header pattern"
+msgstr ""
+
+#: framework/config.php:519
+msgid "Aside patterns"
+msgstr ""
+
+#: framework/config.php:521
+msgid "0"
+msgstr ""
+
+#: framework/config.php:522
+msgid "1"
+msgstr ""
+
+#: framework/config.php:523
+msgid "2"
+msgstr ""
+
+#: framework/config.php:524
+msgid "3"
+msgstr ""
+
+#: framework/config.php:525
+msgid "4"
+msgstr ""
+
+#: framework/config.php:526
+msgid "5"
+msgstr ""
+
+#: framework/config.php:527
+msgid "6"
+msgstr ""
+
+#: framework/config.php:528
+msgid "7"
+msgstr ""
+
+#: framework/config.php:529
+msgid "8"
+msgstr ""
+
+#: framework/config.php:530
+msgid "9"
+msgstr ""
+
+#: framework/config.php:531
+msgid "custom"
+msgstr ""
+
+#: framework/config.php:540
+msgid "Add custom pattern"
+msgstr ""
+
+#: framework/config.php:547
+msgid "High-Resolution pattern"
+msgstr ""
+
+#: framework/config.php:556
+msgid "Benefits pattern"
+msgstr ""
+
+#: framework/config.php:563
+msgid "Footer pattern"
+msgstr ""
+
+#: framework/config.php:570
+msgid "Content items pattern"
+msgstr ""
+
+#: framework/config.php:577
+msgid "Footer image"
+msgstr ""
+
+#: framework/config.php:583
+msgid "High-Resolution footer img"
+msgstr ""
+
+#: framework/config.php:590
+msgid "Layout Options"
+msgstr ""
+
+#: framework/config.php:598
+msgid "Apply Boxed Layout"
+msgstr ""
+
+#: framework/config.php:605
+msgid "Background Settings"
+msgstr ""
+
+#: framework/config.php:606
+msgid "Click this link to customize your background settings"
+msgstr ""
+
+#: framework/config.php:607
+msgid ""
+"This URL will be opened in a new window, please don't forget to save your "
+"current settings!"
+msgstr ""
+
+#: framework/config.php:614
+msgid "Page Sidebar Position"
+msgstr ""
+
+#: framework/config.php:615
+msgid "You can override these settings on each page individually."
+msgstr ""
+
+#: framework/config.php:617 framework/config.php:647 framework/config.php:913
+#: framework/config.php:969
+msgid "No Sidebar"
+msgstr ""
+
+#: framework/config.php:618 framework/config.php:648 framework/config.php:914
+#: framework/config.php:933 framework/config.php:970
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework/config.php:619 framework/config.php:638 framework/config.php:649
+#: framework/config.php:668 framework/config.php:915 framework/config.php:971
+msgid "Right Sidebar"
+msgstr ""
+
+#: framework/config.php:620 framework/config.php:650 framework/config.php:916
+msgid "Double Sidebars"
+msgstr ""
+
+#: framework/config.php:630 framework/config.php:660 framework/config.php:925
+msgid "Sidebar"
+msgstr ""
+
+#: framework/config.php:644
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: framework/config.php:645
+msgid "You can override this settings on each page individually."
+msgstr ""
+
+#: framework/config.php:673
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:51
+msgid "Blog Layout"
+msgstr ""
+
+#: framework/config.php:675
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:53
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:202
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:286
+msgid "Small"
+msgstr ""
+
+#: framework/config.php:676
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:54
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:203
+msgid "Medium"
+msgstr ""
+
+#: framework/config.php:677
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:55
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:204
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:288
+msgid "Large"
+msgstr ""
+
+#: framework/config.php:678
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:56
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:510
+msgid "Two"
+msgstr ""
+
+#: framework/config.php:679
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:57
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:511
+msgid "Three"
+msgstr ""
+
+#: framework/config.php:689
+msgid "Footer's sidebar area"
+msgstr ""
+
+#: framework/config.php:690
+msgid ""
+"This options will set the default Footer widget area, unless you override it "
+"on each page."
+msgstr ""
+
+#: framework/config.php:695
+msgid "Footer Copyrights text"
+msgstr ""
+
+#: framework/config.php:701
+msgid "Sidebar Generator"
+msgstr ""
+
+#: framework/config.php:702
+msgid ""
+"Please note: dot't forget to remove all the <a href=\"widgets.php\">widgets</"
+"a> within the sidebar before deleting!"
+msgstr ""
+
+#: framework/config.php:709
+msgid "Typography"
+msgstr ""
+
+#: framework/config.php:718
+msgid "Menu Font"
+msgstr ""
+
+#: framework/config.php:737
+msgid "Headers Font"
+msgstr ""
+
+#: framework/config.php:759
+msgid "Content Text Font"
+msgstr ""
+
+#: framework/config.php:783
+msgid "Home Page"
+msgstr ""
+
+#: framework/config.php:791 framework/config.php:810
+msgid "Slider"
+msgstr ""
+
+#: framework/config.php:799 framework/config.php:815
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:109
+msgid "Slider shortcode"
+msgstr ""
+
+#: framework/config.php:822
+msgid "Video height"
+msgstr ""
+
+#: framework/config.php:829 functions.php:531
+msgid "Video type"
+msgstr ""
+
+#: framework/config.php:832
+msgid "Self hosted"
+msgstr ""
+
+#: framework/config.php:833
+msgid "Youtube"
+msgstr ""
+
+#: framework/config.php:834
+msgid "Vimeo"
+msgstr ""
+
+#: framework/config.php:840
+msgid "Add video"
+msgstr ""
+
+#: framework/config.php:848
+msgid "Youtube video code"
+msgstr ""
+
+#: framework/config.php:855
+msgid "Vimeo embed url"
+msgstr ""
+
+#: framework/config.php:862
+msgid "Overlay color"
+msgstr ""
+
+#: framework/config.php:871 functions.php:575
+msgid "Opacity"
+msgstr ""
+
+#: framework/config.php:872 functions.php:576
+msgid "In percents"
+msgstr ""
+
+#: framework/config.php:878
+msgid "Use pattern image"
+msgstr ""
+
+#: framework/config.php:884
+msgid "Pattern image"
+msgstr ""
+
+#: framework/config.php:896
+msgid "Static Image"
+msgstr ""
+
+#: framework/config.php:902
+msgid "Static Image Height"
+msgstr ""
+
+#: framework/config.php:911
+msgid "HomePage Sidebar"
+msgstr ""
+
+#: framework/config.php:940
+msgid "Posts Category"
+msgstr ""
+
+#: framework/config.php:949
+msgid "Benefits Area"
+msgstr ""
+
+#: framework/config.php:950
+msgid "Show widgets of this sidebar under the slider on the Home Page."
+msgstr ""
+
+#: framework/config.php:958
+msgid "WooCommerce"
+msgstr ""
+
+#: framework/config.php:967
+msgid "Default WooCommerce Sidebar"
+msgstr ""
+
+#: framework/config.php:981
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: framework/config.php:986
+msgid "Products per page"
+msgstr ""
+
+#: framework/config.php:995
+msgid "Recent products per page"
+msgstr ""
+
+#: framework/config.php:1007
+msgid "Social Options"
+msgstr ""
+
+#: framework/config.php:1014
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:291
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:293
+msgid "Social networks"
+msgstr ""
+
+#: framework/config.php:1015
+msgid "Social network"
+msgstr ""
+
+#: framework/config.php:1021
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:225
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:24
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:140
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:264
+#: functions.php:88 functions.php:164 functions.php:280 functions.php:614
+msgid "Title"
+msgstr ""
+
+#: framework/config.php:1028
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:63
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:182
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:485
+msgid "Icon"
+msgstr ""
+
+#: framework/config.php:1040
+msgid "Icons Location"
+msgstr ""
+
+#: framework/config.php:1043
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:19
+msgid "None"
+msgstr ""
+
+#: framework/config.php:1044
+msgid "Top panel"
+msgstr ""
+
+#: framework/config.php:1045
+msgid "Copyrights area"
+msgstr ""
+
+#: framework/config.php:1046
+msgid "Top and Copyrights"
+msgstr ""
+
+#: framework/config.php:1054
+msgid "Enable Twitter Feed"
+msgstr ""
+
+#: framework/config.php:1063
+msgid "Twitter username"
+msgstr ""
+
+#: framework/config.php:1070
+msgid "Twitter API key"
+msgstr ""
+
+#: framework/config.php:1077
+msgid "Twitter API secret"
+msgstr ""
+
+#: framework/config.php:1084
+msgid "Twitter Access token"
+msgstr ""
+
+#: framework/config.php:1091
+msgid "Twitter Access token secret"
+msgstr ""
+
+#: framework/config.php:1098
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: framework/config.php:1099
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: framework/config.php:1100
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: framework/config.php:1104
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: framework/config.php:1131 framework/config.php:1132
+msgid "Theme Options"
+msgstr ""
+
+#: framework/config.php:1190
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong></p>"
+msgstr ""
+
+#: framework/config.php:1192
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:4
+msgid "CWS page options"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:11
+msgid "Sidebar Position"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:15
+#: framework/rc/framework.php:1810
+msgid "Default"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:18
+msgid "Double"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:27
+msgid "Select a sidebar"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:35
+msgid "Select right sidebar"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:43
+msgid "Show Blog posts"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:65
+msgid "Category"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:75
+msgid "Customize footer"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:81
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:95
+msgid "Sidebar area"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:89
+msgid "Add Benefits"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:103
+msgid "Add Image Slider"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:122
+msgid "Post Format Options"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:128
+msgid "Gallery options"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:132
+msgid "Gallery"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:140
+msgid "Video options"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:144
+msgid "Url to video file"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:152
+msgid "Audio options"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:156
+msgid "Self-hosted/soundclod audio url."
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:157
+msgid "Ex.: /wp-content/uploads/audio.mp3 or http://soundcloud.com/..."
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:165
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:259
+msgid "Link options"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:177
+msgid "Quote options"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:181
+msgid "Quote"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:182
+msgid "Enter the quote"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:187
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:365
+msgid "Author"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:201
+msgid "Portfolio item options"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:206
+msgid "Use carousel of items"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:212
+msgid "Show related projects"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:220
+msgid "Related projects options"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:226
+msgid "Related projects"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:231
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:506
+msgid "Columns"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:233
+msgid "one"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:234
+msgid "two"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:235
+msgid "three"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:236
+msgid "four"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:244
+msgid "Items count"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:251
+msgid "Enable hover effect"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:264
+msgid "Custom url"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:270
+msgid "Open in fancybox"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:278
+msgid "CWS Staff Member options"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:283
+msgid "Reference to single"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:292
+msgid "Add any social network you like."
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:299
+msgid "Social account title"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:306
+msgid "Select the icon for this social contact"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_metaboxes_config.php:311
+msgid "Url to your account"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:7
+msgid "CWS Message Box"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:12
+msgid "Message type"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:15
+msgid "Informational"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:16
+msgid "Warning"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:17
+msgid "Success"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:18
+msgid "Error"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:36
+msgid "Make this box closable"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:42
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:96
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:217
+msgid "Customize colors"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:49
+msgid "Settings"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:54
+#: functions.php:568
+msgid "Color"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:72
+msgid "CWS Milestone"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:77
+msgid "Number"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:83
+msgid "Speed"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:84
+msgid "Should be integer"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:90
+msgid "Description"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:102
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:160
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:314
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:384
+msgid "Color Settings"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:108
+msgid "Filling color"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:117
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:319
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:389
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:448
+msgid "Font Color"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:128
+msgid "Use alternative style"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:135
+msgid "CWS Progress Bar"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:146
+msgid "Progress"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:147
+msgid "In percents ( number from 0 to 100 )"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:153
+msgid "Customize Color Settings"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:165
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:328
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:398
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:457
+#: functions.php:559
+msgid "Background Color"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:177
+msgid "CWS Font Awesome Icon"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:188
+msgid "Shape"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:191
+msgid "Use Squared icon container"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:192
+msgid "Use Round icon container"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:198
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:282
+#: framework/rc/inc/fields/typography/field_typography.php:359
+msgid "Size"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:201
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:285
+msgid "Mini"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:205
+msgid "Extra Large"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:211
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:295
+msgid "Alternative style"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:224
+msgid "Colors Settings"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:229
+msgid "Font"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:238
+msgid "Background"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:247
+msgid "Border color"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:259
+msgid "CWS Button"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:276
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:287
+#: framework/rc/inc/fields/link_color/field_link_color.php:91
+msgid "Regular"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:289
+msgid "Extra large"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:301
+msgid "Full width"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:307
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:371
+msgid "Customize Colors"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:337
+msgid "Background Hover Color"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:349
+msgid "CWS Testimonial"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:354
+msgid "Thumbnail"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:377
+msgid "Add Pattern"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:410
+msgid "Embed audio/video file"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:416
+msgid "Embed url"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:422
+#: framework/rc/inc/fields/dimensions/field_dimensions.php:121
+msgid "Width"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:423
+msgid "Max width in pixels"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:429
+msgid "Height"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:430
+msgid "Max height in pixels"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:437
+msgid "CWS Dropcap"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:442
+msgid "CWS Mark Selection"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:467
+msgid "CWS List Selection"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:473
+msgid "List Style"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:476
+msgid "Dots              "
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:477
+msgid "Checkmarks"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:478
+msgid "Arrow"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:479
+msgid "Custom Icon"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:493
+msgid "CWS Shortcode Carousel"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:496
+msgid "Some content here"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:500
+msgid "Carousel title"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:509
+msgid "One"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/config/cws_redux_sc_settings_config.php:512
+msgid "Four"
+msgstr ""
+
+#: framework/rc/cws_redux_ext/cws_redux_sc_settings.php:61
+msgid "Insert Shortcode"
+msgstr ""
+
+#: framework/rc/extensions/customizer/extension_customizer.php:566
+#: framework/rc/framework.php:1565
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: framework/rc/extensions/customizer/extension_customizer.php:567
+#: framework/rc/framework.php:1566
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: framework/rc/extensions/customizer/extension_customizer.php:568
+#: framework/rc/framework.php:1568
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: framework/rc/extensions/customizer/extension_customizer.php:601
+msgid "You have changes that are not saved.\tWould you like to save them now?"
+msgstr ""
+
+#: framework/rc/extensions/customizer/extension_customizer.php:602
+msgid "Are you sure?\tResetting will lose all custom values."
+msgstr ""
+
+#: framework/rc/extensions/customizer/extension_customizer.php:603
+msgid ""
+"Your current options will be replaced with the values of this preset.\tWould "
+"you like to proceed?"
+msgstr ""
+
+#: framework/rc/extensions/edd/EDD_License_Handler.php:112
+#: framework/rc/extensions/edd/edd_license/EDD_License_Handler.php:112
+#, php-format
+msgid "%1$s License Key"
+msgstr ""
+
+#: framework/rc/extensions/edd/EDD_License_Handler.php:218
+#: framework/rc/extensions/edd/edd_license/EDD_License_Handler.php:218
+#: framework/rc/extensions/edd/edd_license/field_edd_license.php:142
+msgid "Deactivate License"
+msgstr ""
+
+#: framework/rc/extensions/edd/EDD_SL_Theme_Updater.php:54
+#: framework/rc/extensions/edd/edd_license/EDD_SL_Theme_Updater.php:54
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: framework/rc/extensions/edd/edd_license/field_edd_license.php:110
+msgid "Not Activated"
+msgstr ""
+
+#: framework/rc/extensions/edd/edd_license/field_edd_license.php:114
+msgid "Deactivated"
+msgstr ""
+
+#: framework/rc/extensions/edd/edd_license/field_edd_license.php:116
+#: framework/rc/extensions/edd/module.php:145
+msgid "Valid"
+msgstr ""
+
+#: framework/rc/extensions/edd/edd_license/field_edd_license.php:123
+msgid "License Status"
+msgstr ""
+
+#: framework/rc/extensions/edd/edd_license/field_edd_license.php:132
+msgid "Verify License"
+msgstr ""
+
+#: framework/rc/extensions/edd/edd_license/field_edd_license.php:137
+msgid "Activate License"
+msgstr ""
+
+#: framework/rc/extensions/edd/module.php:11
+msgid "Licencing"
+msgstr ""
+
+#: framework/rc/extensions/edd/module.php:16
+msgid "Shoestrap Theme Licence"
+msgstr ""
+
+#: framework/rc/extensions/edd/module.php:17
+msgid "Enter your shoestrap licence to enable automatic updates."
+msgstr ""
+
+#: framework/rc/extensions/edd/module.php:147
+msgid "Invalid"
+msgstr ""
+
+#: framework/rc/framework.php:185
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: framework/rc/framework.php:185
+msgid "Redux Framework"
+msgstr ""
+
+#: framework/rc/framework.php:188 framework/rc/framework.php:191
+#: framework/rc/framework.php:1212
+msgid "Options"
+msgstr ""
+
+#: framework/rc/framework.php:423
+msgid "Dismiss"
+msgstr ""
+
+#: framework/rc/framework.php:1567
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: framework/rc/framework.php:1569
+msgid "Please Wait"
+msgstr ""
+
+#: framework/rc/framework.php:1705
+msgid "Hints"
+msgstr ""
+
+#: framework/rc/framework.php:2540
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: framework/rc/framework.php:2623
+msgid "Settings Imported!"
+msgstr ""
+
+#: framework/rc/framework.php:2629
+msgid "Settings Saved!"
+msgstr ""
+
+#: framework/rc/framework.php:2636
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: framework/rc/framework.php:2637
+msgid "error(s) were found!"
+msgstr ""
+
+#: framework/rc/framework.php:2638
+msgid "warning(s) were found!"
+msgstr ""
+
+#: framework/rc/framework.php:2641 framework/rc/framework.php:2794
+msgid "Working..."
+msgstr ""
+
+#: framework/rc/framework.php:2644 framework/rc/framework.php:2787
+msgid "Save Changes"
+msgstr ""
+
+#: framework/rc/framework.php:2646 framework/rc/framework.php:2789
+msgid "Reset Section"
+msgstr ""
+
+#: framework/rc/framework.php:2648 framework/rc/framework.php:2791
+msgid "Reset All"
+msgstr ""
+
+#: framework/rc/framework.php:2697
+msgid "System Info"
+msgstr ""
+
+#: framework/rc/inc/debug.php:41 framework/rc/inc/debug.php:69
+#: framework/rc/inc/debug.php:76 framework/rc/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: framework/rc/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: framework/rc/inc/fields/color/field_color.php:71
+msgid "Transparent"
+msgstr ""
+
+#: framework/rc/inc/fields/dimensions/field_dimensions.php:137
+msgid "height"
+msgstr ""
+
+#: framework/rc/inc/fields/dimensions/field_dimensions.php:149
+#: framework/rc/inc/fields/dimensions/field_dimensions.php:150
+#: framework/rc/inc/fields/spacing/field_spacing.php:206
+#: framework/rc/inc/fields/spacing/field_spacing.php:207
+msgid "Units"
+msgstr ""
+
+#: framework/rc/inc/fields/gallery/field_gallery.php:68
+#: framework/rc/inc/fields/media/field_media.php:114
+msgid "No media selected"
+msgstr ""
+
+#: framework/rc/inc/fields/gallery/field_gallery.php:81
+msgid "Add images"
+msgstr ""
+
+#: framework/rc/inc/fields/group/field_group.php:117
+msgid "Add"
+msgstr ""
+
+#: framework/rc/inc/fields/group/field_group.php:138
+msgid "New "
+msgstr ""
+
+#: framework/rc/inc/fields/group/field_group.php:222
+msgid "Delete"
+msgstr ""
+
+#: framework/rc/inc/fields/group_/field_group.php:80
+#: framework/rc/inc/fields/group_/field_group.php:85
+#: framework/rc/inc/fields/group_/field_group.php:92
+msgid "New"
+msgstr ""
+
+#: framework/rc/inc/fields/group_/field_group.php:82
+#: framework/rc/inc/fields/group_/field_group.php:87
+#: framework/rc/inc/fields/group_/field_group.php:94
+#: framework/rc/inc/fields/media/field_media.php:158
+#: framework/rc/inc/fields/multi_text/field_multi_text.php:78
+#: framework/rc/inc/fields/multi_text/field_multi_text.php:86
+#: framework/rc/inc/fields/multi_text/field_multi_text.php:90
+#: framework/rc/inc/fields/multi_text/field_multi_text.php:93
+msgid "Remove"
+msgstr ""
+
+#: framework/rc/inc/fields/group_/field_group.php:97
+msgid "Clear"
+msgstr ""
+
+#: framework/rc/inc/fields/group_/field_group.php:98
+msgid "Add New"
+msgstr ""
+
+#: framework/rc/inc/fields/import_export/import_export.php:77
+msgid "Import / Export Options"
+msgstr ""
+
+#: framework/rc/inc/fields/import_export/import_export.php:80
+msgid "Import Options"
+msgstr ""
+
+#: framework/rc/inc/fields/import_export/import_export.php:81
+msgid "Import from File"
+msgstr ""
+
+#: framework/rc/inc/fields/import_export/import_export.php:81
+msgid "Import from Clipboard"
+msgstr ""
+
+#: framework/rc/inc/fields/import_export/import_export.php:81
+msgid "Import from URL"
+msgstr ""
+
+#: framework/rc/inc/fields/import_export/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: framework/rc/inc/fields/import_export/import_export.php:93
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: framework/rc/inc/fields/import_export/import_export.php:99
+msgid "Import"
+msgstr ""
+
+#: framework/rc/inc/fields/import_export/import_export.php:99
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: framework/rc/inc/fields/import_export/import_export.php:102
+msgid "Export Options"
+msgstr ""
+
+#: framework/rc/inc/fields/import_export/import_export.php:105
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: framework/rc/inc/fields/import_export/import_export.php:109
+msgid "Copy"
+msgstr ""
+
+#: framework/rc/inc/fields/import_export/import_export.php:109
+msgid "Download"
+msgstr ""
+
+#: framework/rc/inc/fields/import_export/import_export.php:109
+msgid "Copy Link"
+msgstr ""
+
+#: framework/rc/inc/fields/import_export/import_export.php:161
+#: framework/rc/inc/fields/import_export/import_export.php:170
+#: framework/rc/inc/fields/import_export/import_export.php:171
+msgid "Import / Export"
+msgstr ""
+
+#: framework/rc/inc/fields/link_color/field_link_color.php:95
+msgid "Hover"
+msgstr ""
+
+#: framework/rc/inc/fields/link_color/field_link_color.php:99
+msgid "Visited"
+msgstr ""
+
+#: framework/rc/inc/fields/media/field_media.php:152
+msgid "Upload"
+msgstr ""
+
+#: framework/rc/inc/fields/multi_text/field_multi_text.php:65
+msgid "Add More"
+msgstr ""
+
+#: framework/rc/inc/fields/select/field_select.php:67
+#: framework/rc/inc/fields/select_image/field_select_image.php:58
+msgid "Select an item"
+msgstr ""
+
+#: framework/rc/inc/fields/select/field_select.php:105
+#: framework/rc/inc/fields/select_image/field_select_image.php:133
+msgid "No items of this type were found."
+msgstr ""
+
+#: framework/rc/inc/fields/spacing/field_spacing.php:175
+msgid "Top"
+msgstr ""
+
+#: framework/rc/inc/fields/spacing/field_spacing.php:189
+msgid "Bottom"
+msgstr ""
+
+#: framework/rc/inc/fields/switch/field_switch.php:42
+msgid "On"
+msgstr ""
+
+#: framework/rc/inc/fields/switch/field_switch.php:49
+msgid "Off"
+msgstr ""
+
+#: framework/rc/inc/fields/typography/field_typography.php:163
+msgid "Font family"
+msgstr ""
+
+#: framework/rc/inc/fields/typography/field_typography.php:190
+msgid "Standard Fonts"
+msgstr ""
+
+#: framework/rc/inc/fields/typography/field_typography.php:240
+msgid "Backup Font Family"
+msgstr ""
+
+#: framework/rc/inc/fields/typography/field_typography.php:259
+#: framework/rc/inc/fields/typography/field_typography.php:263
+msgid "Font style"
+msgstr ""
+
+#: framework/rc/inc/fields/typography/field_typography.php:263
+msgid "Style"
+msgstr ""
+
+#: framework/rc/inc/fields/typography/field_typography.php:292
+msgid "Font subsets"
+msgstr ""
+
+#: framework/rc/inc/fields/typography/field_typography.php:293
+msgid "Subsets"
+msgstr ""
+
+#: framework/rc/inc/fields/typography/field_typography.php:293
+msgid "Font script"
+msgstr ""
+
+#: framework/rc/inc/fields/typography/field_typography.php:309
+#: framework/rc/inc/fields/typography/field_typography.php:310
+msgid "Text Align"
+msgstr ""
+
+#: framework/rc/inc/fields/typography/field_typography.php:332
+#: framework/rc/inc/fields/typography/field_typography.php:333
+msgid "Text Transform"
+msgstr ""
+
+#: framework/rc/inc/fields/typography/field_typography.php:364
+msgid "Line height"
+msgstr ""
+
+#: framework/rc/inc/fields/typography/field_typography.php:369
+msgid "Word spacing"
+msgstr ""
+
+#: framework/rc/inc/fields/typography/field_typography.php:369
+msgid "Word Spacing"
+msgstr ""
+
+#: framework/rc/inc/fields/typography/field_typography.php:375
+msgid "Letter spacing"
+msgstr ""
+
+#: framework/rc/inc/fields/typography/field_typography.php:375
+msgid "Letter Spacing"
+msgstr ""
+
+#: framework/rc/inc/fields/typography/field_typography.php:388
+#: functions.php:602
+msgid "Font color"
+msgstr ""
+
+#: framework/rc/inc/fields/typography/field_typography.php:727
+msgid "Google Webfonts"
+msgstr ""
+
+#: framework/rc/inc/tracking.php:111
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: framework/rc/inc/tracking.php:112
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatability."
+msgstr ""
+
+#: framework/rc/inc/tracking.php:117
+msgid "Allow tracking"
+msgstr ""
+
+#: framework/rc/inc/tracking.php:122
+msgid "Do not allow tracking"
+msgstr ""
+
+#: framework/rc/inc/tracking.php:132
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: framework/rc/inc/tracking.php:133
+msgid "Getting Started"
+msgstr ""
+
+#: framework/rc/inc/tracking.php:133
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: framework/rc/inc/tracking.php:133
+msgid "our documentation"
+msgstr ""
+
+#: framework/rc/inc/tracking.php:134
+msgid "Redux Extensions"
+msgstr ""
+
+#: framework/rc/inc/tracking.php:134
+#, php-format
+msgid ""
+"Did you know Redux has extensions, which enhances its features?  Visit our "
+"%1$s to learn more!"
+msgstr ""
+
+#: framework/rc/inc/tracking.php:134
+msgid "extensions directory"
+msgstr ""
+
+#: framework/rc/inc/tracking.php:135
+msgid "Like Redux?"
+msgstr ""
+
+#: framework/rc/inc/tracking.php:135
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: framework/rc/inc/tracking.php:135
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: framework/rc/inc/tracking.php:135
+msgid "donation"
+msgstr ""
+
+#: framework/rc/inc/tracking.php:136
+msgid "Newsletter"
+msgstr ""
+
+#: framework/rc/inc/tracking.php:136
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: framework/rc/inc/tracking.php:137
+msgid "Email address"
+msgstr ""
+
+#: framework/rc/inc/tracking.php:137
+msgid "Subscribe"
+msgstr ""
+
+#: framework/rc/inc/tracking.php:146
+msgid "Close"
+msgstr ""
+
+#: framework/rc/inc/validation/color/validation_color.php:15
+#: framework/rc/inc/validation/color_rgba/validation_color_rgba.php:15
+#: framework/rc/inc/validation/colorrgba/validation_colorrgba.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: framework/rc/inc/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: framework/rc/inc/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: framework/rc/inc/validation/email/validation_email.php:15
+#: framework/rc/inc/validation/email_not_empty/validation_email_not_empty.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: framework/rc/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: framework/rc/inc/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: framework/rc/inc/validation/not_empty/validation_not_empty.php:15
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: framework/rc/inc/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: framework/rc/inc/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: functions.php:92 functions.php:451
+msgid "Button name"
+msgstr ""
+
+#: functions.php:97
+msgid "Button URL"
+msgstr ""
+
+#: functions.php:102
+msgid "Custom colors"
+msgstr ""
+
+#: functions.php:107 functions.php:597
+msgid "Pattern"
+msgstr ""
+
+#: functions.php:264
+msgid "Alt style"
+msgstr ""
+
+#: functions.php:284 functions.php:334 functions.php:403 functions.php:478
+msgid "Margins (px)"
+msgstr ""
+
+#: functions.php:294 functions.php:344 functions.php:413 functions.php:488
+msgid "Extra Class"
+msgstr ""
+
+#: functions.php:295 functions.php:345 functions.php:414 functions.php:489
+msgid "Space separated class names"
+msgstr ""
+
+#: functions.php:299
+msgid "Display"
+msgstr ""
+
+#: functions.php:308
+msgid "Departments "
+msgstr ""
+
+#: functions.php:314
+msgid "Items per page"
+msgstr ""
+
+#: functions.php:446
+msgid "Post text length"
+msgstr ""
+
+#: functions.php:505
+msgid "Custom Background"
+msgstr ""
+
+#: functions.php:510
+msgid "Media type"
+msgstr ""
+
+#: functions.php:520
+msgid "Image"
+msgstr ""
+
+#: functions.php:526
+msgid "This is HiDPI image"
+msgstr ""
+
+#: functions.php:546
+msgid "YouTube ID"
+msgstr ""
+
+#: functions.php:552
+msgid "Vimeo embed URL"
+msgstr ""
+
+#: functions.php:584
+msgid "Apply Parallax"
+msgstr ""
+
+#: functions.php:590
+msgid "Parallax speed"
+msgstr ""
+
+#: functions.php:638
+msgid "Apply Animation"
+msgstr ""
+
+#: functions.php:643
+msgid "Effect"
+msgstr ""
+
+#: functions.php:711
+msgid "Duration (sec)"
+msgstr ""
+
+#: functions.php:717
+msgid "Delay (sec)"
+msgstr ""
+
+#: functions.php:723
+msgid "Offset (px, related to bottom)"
+msgstr ""
+
+#: functions.php:729
+msgid "Iteration"
+msgstr ""
+
+#: functions.php:789
+msgid ""
+" theme notice: Please insert your Item Purchase Code in Theme Options to get "
+"the latest theme updates!"
+msgstr ""
+
+#: functions.php:849
+msgid "Navigation Menu"
+msgstr ""
+
+#: functions.php:850
+msgid "SideBar Menu"
+msgstr ""
+
+#: functions.php:2729
+msgid "Load More"
+msgstr ""
+
+#: functions.php:2813
+msgid "Next Page"
+msgstr ""
+
+#: functions.php:2814
+msgid "Previous Page"
+msgstr ""
+
+#: functions.php:2891 functions.php:2912 search.php:134
+msgid "Read More"
+msgstr ""
+
+#: functions.php:2837
+msgid "BACK"
+msgstr ""
+
+#: functions.php:3463
+msgid "Reply"
+msgstr ""
+
+#: functions.php:3471
+msgid "at"
+msgstr ""
+
+#: functions.php:3510
+msgid "Older Comments"
+msgstr ""
+
+#: functions.php:3514
+msgid "Newer Comments"
+msgstr ""
+
+#: header.php:56
+#, php-format
+msgid "Category \"%s\""
+msgstr ""
+
+#: header.php:65
+msgid "404 Page"
+msgstr ""
+
+#: header.php:68
+msgid "Search"
+msgstr ""
+
+#: header.php:275
+msgid "View your shopping cart"
+msgstr ""
+
+#: image.php:138 single-cws_portfolio.php:121
+msgid "Prev"
+msgstr ""
+
+#: search.php:52
+msgid "Empty search string"
+msgstr ""
+
+#: search.php:52
+msgid "Please, enter some characters to search field"
+msgstr ""
+
+#: search.php:151
+msgid "No search Results"
+msgstr ""
+
+#: search.php:151
+msgid "There are no posts matching your query"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:19
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:23
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:71
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:106 woocommerce/cart/mini-cart.php:38
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:122
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:122
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:122
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:129
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:57
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:65
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:70
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:71
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:21
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:46
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:19
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:23
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:25
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:29
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:31
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:37 woocommerce/checkout/thankyou.php:68
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:41
+msgid "Order Number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:45
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:49
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:54
+msgid "Payment Method:"
+msgstr ""
+
+#: woocommerce/single-product/related.php:43
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:46
+msgid "You may also like&hellip;"
+msgstr ""
