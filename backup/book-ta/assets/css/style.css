@@ -1,0 +1,537 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap");
+html,
+body {
+    height: 100%
+}
+
+html.video,
+body.video {
+    display: block;
+    position: static;
+    left: auto;
+    top: auto
+}
+
+.previewBody {
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background: #d2e9f7 url("//cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/bg-promo.png?v=1311318715387236624") center center no-repeat;
+    background-size: auto auto
+}
+
+body,
+input,
+textarea,
+button,
+select,
+.disclosure__toggle {
+    font-size: 15px;
+    font-family: Helvetica, "Helvetica Neue", Arial, "Lucida Grande", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #000082;
+    line-height: 1.5
+}
+
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
+    margin: 0 0 17.5px;
+    font-family: Helvetica, "Helvetica Neue", Arial, "Lucida Grande", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.2;
+    overflow-wrap: break-word;
+    word-wrap: break-word
+}
+
+h1,
+.h1 {
+    font-size: 2.33333em;
+    text-transform: none;
+    letter-spacing: 0
+}
+
+.flipbook-viewport {
+    overflow: hidden;
+    width: 100%;
+    height: 100%
+}
+
+.whiteBox1 {
+    background-image: url("1.png");
+    background-size: cover
+}
+
+.whiteBox2 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/2.png?v=15869732546994100095);
+    background-size: cover;
+    background-position: center
+}
+
+.whiteBox3 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/3.png?v=7436082779557830162);
+    background-size: cover;
+    background-position: center
+}
+
+.whiteBox4 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/4.png?v=8281134051763134672);
+    background-size: cover;
+    background-position: center
+}
+
+.whiteBox5 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/5.png?v=1659915778197167154);
+    background-size: cover;
+    background-position: center
+}
+
+.whiteBox6 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/6.png?v=14745156935186213606);
+    background-size: cover;
+    background-position: center
+}
+
+.whiteBox7 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/7.png?v=15110932322962801943);
+    background-size: cover;
+    background-position: center
+}
+
+.whiteBox8 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/8.png?v=15639520298948364660);
+    background-size: cover;
+    background-position: center
+}
+
+.whiteBox9 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/9.png?v=1412797088625041367);
+    background-size: cover;
+    background-position: center
+}
+
+.whiteBox10 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/10.png?v=2110694261519473032);
+    background-size: cover;
+    background-position: center
+}
+
+.whiteBox11 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/11.png?v=14619041199295630117);
+    background-size: cover;
+    background-position: center
+}
+
+.whiteBox12 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/12.png?v=12624694064031586522);
+    background-size: cover;
+    background-position: center
+}
+
+.whiteBox13 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/13.png?v=5455610874399955403);
+    background-size: cover;
+    background-position: center
+}
+
+.whiteBox14 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/14.png?v=5045781142285536261);
+    background-size: cover;
+    background-position: center
+}
+
+.whiteBox15 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/15.png?v=16673972295172073243);
+    background-size: cover;
+    background-position: center
+}
+
+.whiteBox16 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/16.png?v=10730863410717309953);
+    background-size: cover;
+    background-position: center
+}
+
+.whiteBox17 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/17.png?v=12859616288262357952);
+    background-size: cover;
+    background-position: center
+}
+
+.whiteBox18 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/18.png?v=16278585961537583582);
+    background-size: cover;
+    background-position: center
+}
+
+.whiteBox19 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/19.png?v=10393741378298840014);
+    background-size: cover;
+    background-position: center
+}
+
+.whiteBox20 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/20.png?v=4862014427736499673);
+    background-size: cover;
+    background-position: center
+}
+
+.whiteBox21 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/21.png?v=6463570505202268863);
+    background-size: cover;
+    background-position: center
+}
+
+.whiteBox22 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/22.png?v=4295386135838447515);
+    background-size: cover;
+    background-position: center
+}
+
+.whiteBox23 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/23.png?v=6757722128317565254);
+    background-size: cover;
+    background-position: center
+}
+
+.whiteBox24 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0277/6091/8628/t/1/assets/24.png?v=13634376987575481384);
+    background-size: cover;
+    background-position: center
+}
+
+.border01,
+.border02,
+.whiteBox {
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box
+}
+
+.whiteBox {
+    padding: 15px;
+    background-color: #fff
+}
+
+.flipbook-viewport .container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: auto;
+    -o-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%)
+}
+
+.flipbook-viewport .flipbook {
+    width: 922px;
+    height: 600px
+}
+
+.flipbook-viewport .page {
+    width: 461px;
+    height: 600px;
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: 100% 100%
+}
+
+.flipbook .page {
+    -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    -ms-box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    -o-box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2)
+}
+
+.flipbook-viewport .page img {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    margin: 0
+}
+
+.flipbook-viewport .shadow {
+    -webkit-transition: -webkit-box-shadow 0.5s;
+    -moz-transition: -moz-box-shadow 0.5s;
+    -o-transition: -webkit-box-shadow 0.5s;
+    -ms-transition: -ms-box-shadow 0.5s;
+    -webkit-box-shadow: 0 0 20px #ccc;
+    -moz-box-shadow: 0 0 20px #ccc;
+    -o-box-shadow: 0 0 20px #ccc;
+    -ms-box-shadow: 0 0 20px #ccc;
+    box-shadow: 0 0 20px #ccc
+}
+
+.class-fluid {
+    max-width: 100%;
+    height: auto
+}
+
+.whiteBox p {
+    font-family: 'Comfortaa', cursive;
+    font-size: 1.1em;
+    font-weight: bold
+}
+
+.whiteBox1 p {
+    margin-top: 15rem;
+    width: 60%;
+    margin-left: 8.5rem;
+    color: #0f316e
+}
+
+.whiteBox2 p {
+    margin-top: 7rem;
+    width: 60%;
+    margin-left: 3.5rem;
+    text-align: left;
+    color: #0f316e
+}
+
+.whiteBox3 p {
+    margin-top: 2rem;
+    width: 75%;
+    text-align: left;
+    color: #fff
+}
+
+.whiteBox4 p {
+    margin-top: 2rem;
+    width: 60%;
+    text-align: left;
+    margin-left: 14rem;
+    color: #fff
+}
+
+.whiteBox5 p {
+    margin-top: 29.5rem;
+    width: 57%;
+    text-align: left;
+    margin-left: 16rem;
+    color: #0f316e
+}
+
+.whiteBox6 p {
+    margin-top: 20.5rem;
+    width: 57%;
+    text-align: left;
+    margin-left: 24rem;
+    color: #0f316e
+}
+
+.whiteBox7 p {
+    margin-top: 1.5rem;
+    width: 90%;
+    text-align: left;
+    margin-left: 2rem;
+    color: #0f316e
+}
+
+.whiteBox8 p {
+    margin-top: 1.5rem;
+    width: 60%;
+    text-align: left;
+    margin-left: 14rem;
+    color: #0f316e
+}
+
+.whiteBox9 p {
+    margin-top: 1.5rem;
+    width: 98%;
+    text-align: left;
+    margin-left: 1rem;
+    color: #0f316e
+}
+
+.whiteBox10 p {
+    margin-top: 2rem;
+    width: 60%;
+    text-align: left;
+    margin-left: 1.5rem;
+    color: #0f316e
+}
+
+.whiteBox11 .one {
+    margin-top: 2rem;
+    width: 60%;
+    text-align: center;
+    margin-left: 3.5rem;
+    color: #0f316e
+}
+
+.whiteBox11 .two {
+    margin-top: 18rem;
+    width: 49%;
+    text-align: left;
+    margin-left: -0.5rem;
+    color: #0f316e
+}
+
+.whiteBox12 .one {
+    margin-top: 2rem;
+    width: 49%;
+    text-align: left;
+    margin-left: 8rem;
+    color: white
+}
+
+.whiteBox12 .two {
+    margin-top: 10rem;
+    width: 49%;
+    text-align: left;
+    margin-left: 26rem;
+    color: #0f316e
+}
+
+.whiteBox13 p {
+    margin-top: 3.5rem;
+    width: 90%;
+    text-align: left;
+    margin-left: 1rem;
+    color: #0f316e
+}
+
+.whiteBox14 .one {
+    margin-top: 3rem;
+    width: 52%;
+    text-align: center;
+    margin-left: 17.5rem;
+    color: #0f316e
+}
+
+.whiteBox14 .two {
+    margin-top: 3rem;
+    width: 50%;
+    text-align: left;
+    margin-left: 17.5rem;
+    color: #0f316e
+}
+
+.whiteBox14 .three {
+    margin-top: 17rem;
+    width: 49%;
+    text-align: left;
+    margin-left: 17.5rem;
+    color: white
+}
+
+.whiteBox15 p {
+    margin-top: 3.5rem;
+    width: 95%;
+    text-align: left;
+    margin-left: 1rem;
+    color: #0f316e
+}
+
+.whiteBox16 .one {
+    margin-top: 1.5rem;
+    width: 40%;
+    margin-left: 2.5rem;
+    text-align: left;
+    color: white
+}
+
+.whiteBox16 .two {
+    margin-top: 2.5rem;
+    width: 28%;
+    margin-left: 26.5rem;
+    text-align: left;
+    color: white
+}
+
+.whiteBox16 .three {
+    margin-top: 20rem;
+    width: 100%;
+    text-align: center;
+    color: #0f316e
+}
+
+.whiteBox17 p {
+    margin-top: 2rem;
+    width: 60%;
+    margin-left: 14.5rem;
+    text-align: center;
+    color: #0f316e
+}
+
+.whiteBox18 .one {
+    margin-top: 16rem;
+    width: 100%;
+    margin-left: 6.5rem;
+    text-align: left;
+    color: #0f316e
+}
+
+.whiteBox18 .two {
+    margin-top: 4rem;
+    width: 25%;
+    margin-left: 0.5rem;
+    text-align: left;
+    color: #0f316e
+}
+
+.whiteBox19 p {
+    margin-top: 2.5rem;
+    width: 96%;
+    text-align: left;
+    margin-left: 1rem;
+    color: #0f316e
+}
+
+.whiteBox20 .one {
+    margin-top: 3.5rem;
+    width: 89%;
+    text-align: left;
+    margin-left: 1rem;
+    color: #0f316e
+}
+
+.whiteBox20 .two {
+    margin-top: 2.5rem;
+    width: 48%;
+    text-align: right;
+    margin-left: 17rem;
+    color: #0f316e
+}
+
+.whiteBox21 p {
+    margin-top: 2.5rem;
+    width: 98%;
+    text-align: left;
+    margin-left: 1rem;
+    color: white
+}
+
+.whiteBox22 p {
+    margin-top: 2.5rem;
+    width: 90%;
+    text-align: left;
+    margin-left: 1.5rem;
+    color: #0f316e
+}
+
+.whiteBox24 p {
+    margin-top: 13rem;
+    width: 90%;
+    margin-left: 2.5rem;
+    color: #0f316e;
+    font-size: 0.8em
+}

@@ -1,0 +1,542 @@
+*{margin:0;padding:0;}
+body{font-family:"Gill Sans","Gill Sans MT","Myriad Pro","DejaVu Sans Condensed",Helvetica,Arial,"sans-serif";font-size:17.19pt}
+.clear{width:100%;display:table;clear:both}
+
+@page{size:1584pt 612pt;margin:0;page-break-after:always}
+@media print{
+.no-print{display:none}
+}
+
+.flipbook{width:92.147em;margin:0 auto}
+.flipbook>div{width:87.491em;height:33.274em;padding:2.328em 2.328em 0;position:relative;overflow:hidden;background-position:center center;background-repeat:no-repeat;page-break-after:always}
+.flipbook>div .txt_content{position:relative;z-index:5}
+.flipbook .sCharacter,
+.flipbook .wCharacter,
+.flipbook .characterSkin{position:absolute;z-index:0}
+.flipbook .faceSmile{position:absolute;z-index:1}
+.flipbook .freckles{position:absolute;z-index:2}
+.flipbook .eyesElement{position:absolute;z-index:3}
+.flipbook .hat,
+.flipbook .hijab,
+.flipbook .headWrap,
+.flipbook .cornrow,
+.flipbook .longBraidsDown,
+.flipbook .longPonytail,
+.flipbook .medAfro,
+.flipbook .medCurlyPomsDown,
+.flipbook .medPigtail,
+.flipbook .medPuffsUp,
+.flipbook .medSpikey,
+.flipbook .shortCurlyHair,
+.flipbook .shortHair,
+.flipbook .shortHairWavy,
+.flipbook .shortSpikeyHair{position:absolute;z-index:4}
+.flipbook>div p{margin-bottom:.75em}
+
+.airship{background-image:url('images/airship.jpg')}
+.airship .txt_content{width:20.503em;margin:5.817em 0 0 8.144em}
+.airship .airshipImg{position:absolute;left:0;top:0;right:0;z-index:5}
+.airship .sCharacter{left:1252px;top:454px;width:112px}
+.characterS .airship .faceSmile{left:1252px;top:454px;width:92px}
+.characterS .airship .freckles{left:1266px;top:490px;width:72px}
+.characterS .airship .eyesElement{left:1264px;top:478px;width:70px}
+.characterS .airship .headWrap{left:1254px;top:426px;width:88px}
+.characterS .airship .hijab{left:1254px;top:438px;width:88px}
+.characterS .airship .cornrow{left:1264px;top:454px;width:66px}
+.characterS .airship .longBraidsDown{left:1252px;top:436px;width:88px}
+.characterS .airship .longPonytail{left:1254px;top:412px;width:88px}
+.characterS .airship .medAfro{left:1250px;top:430px;width:94px}
+.characterS .airship .medCurlyPomsDown{left:1248px;top:454px;width:102px}
+.characterS .airship .medPigtail{left:1236px;top:434px;width:120px}
+.characterS .airship .medPuffsUp{left:1234px;top:432px;width:126px}
+.characterS .airship .medSpikey{left:1252px;top:432px;width:84px}
+.characterS .airship .shortCurlyHair{left:1254px;top:446px;width:80px}
+.characterS .airship .shortHair{left:1264px;top:448px;width:68px}
+.characterS .airship .shortHairWavy{left:1258px;top:444px;width:78px}
+.characterS .airship .shortSpikeyHair{left:1252px;top:446px;width:88px}
+.airship .wCharacter{left:1208px;top:452px;width:158px}
+.characterW .airship .faceSmile{left:1252px;top:468px;width:92px}
+.characterW .airship .freckles{left:1264px;top:502px;width:74px}
+.characterW .airship .eyesElement{left:1264px;top:492px;width:70px}
+.characterW .airship .headWrap{left:1254px;top:440px;width:88px}
+.characterW .airship .hijab{left:1254px;top:456px;width:88px}
+.characterW .airship .cornrow{left:1264px;top:468px;width:66px}
+.characterW .airship .longBraidsDown{left:1252px;top:450px;width:88px}
+.characterW .airship .longPonytail{left:1254px;top:426px;width:88px}
+.characterW .airship .medAfro{left:1250px;top:448px;width:94px}
+.characterW .airship .medCurlyPomsDown{left:1248px;top:470px;width:102px}
+.characterW .airship .medPigtail{left:1236px;top:450px;width:120px}
+.characterW .airship .medPuffsUp{left:1234px;top:448px;width:126px}
+.characterW .airship .medSpikey{left:1252px;top:446px;width:84px}
+.characterW .airship .shortCurlyHair{left:1254px;top:460px;width:80px}
+.characterW .airship .shortHair{left:1266px;top:464px;width:64px}
+.characterW .airship .shortHairWavy{left:1258px;top:458px;width:78px}
+.characterW .airship .shortSpikeyHair{left:1252px;top:460px;width:88px}
+
+.basketball{background-image:url('images/basketball.jpg')}
+.basketball .txt_content{width:16.87em;margin:0 0 0 auto}
+.basketball .sCharacter{left:612px;top:282px;width:468px}
+.characterS .basketball .faceSmile{left:738px;top:298px;width:190px}
+.characterS .basketball .freckles{left:766px;top:370px;width:146px}
+.characterS .basketball .eyesElement{left:766px;top:348px;width:136px}
+.characterS .basketball .headWrap{left:742px;top:244px;width:182px}
+.characterS .basketball .hijab{left:752px;top:286px;width:162px}
+.characterS .basketball .cornrow{left:768px;top:300px;width:130px}
+.characterS .basketball .longBraidsDown{left:742px;top:264px;width:174px}
+.characterS .basketball .longPonytail{left:744px;top:210px;width:180px}
+.characterS .basketball .medAfro{left:738px;top:252px;width:188px}
+.characterS .basketball .medCurlyPomsDown{left:736px;top:300px;width:202px}
+.characterS .basketball .medPigtail{left:708px;top:258px;width:242px}
+.characterS .basketball .medPuffsUp{left:704px;top:252px;width:256px}
+.characterS .basketball .medSpikey{left:740px;top:252px;width:170px}
+.characterS .basketball .shortCurlyHair{left:748px;top:284px;width:156px}
+.characterS .basketball .shortHair{left:766px;top:290px;width:136px}
+.characterS .basketball .shortHairWavy{left:754px;top:274px;width:158px}
+.characterS .basketball .shortSpikeyHair{left:740px;top:278px;width:180px}
+.basketball .wCharacter{left:704px;top:264px;width:288px}
+.characterW .basketball .faceSmile{left:752px;top:270px;width:170px}
+.characterW .basketball .freckles{left:778px;top:334px;width:124px}
+.characterW .basketball .eyesElement{left:778px;top:316px;width:118px}
+.characterW .basketball .headWrap{left:758px;top:234px;width:154px}
+.characterW .basketball .hijab{left:758px;top:252px;width:154px}
+.characterW .basketball .cornrow{left:778px;top:278px;width:114px}
+.characterW .basketball .longBraidsDown{left:756px;top:244px;width:152px}
+.characterW .basketball .longPonytail{left:760px;top:202px;width:154px}
+.characterW .basketball .medAfro{left:754px;top:242px;width:162px}
+.characterW .basketball .medCurlyPomsDown{left:752px;top:280px;width:172px}
+.characterW .basketball .medPigtail{left:728px;top:242px;width:208px}
+.characterW .basketball .medPuffsUp{left:722px;top:236px;width:224px}
+.characterW .basketball .medSpikey{left:756px;top:238px;width:144px}
+.characterW .basketball .shortCurlyHair{left:764px;top:264px;width:132px}
+.characterW .basketball .shortHair{left:778px;top:276px;width:116px}
+.characterW .basketball .shortHairWavy{left:768px;top:258px;width:134px}
+.characterW .basketball .shortSpikeyHair{left:756px;top:262px;width:152px}
+
+.camping{background-image:url('images/camping.jpg')}
+.camping .txt_content{width:20.503em;margin:.817em 0 0 20.144em;text-align:right}
+.camping .sCharacter{left:956px;top:322px;width:564px}
+.characterS .camping .faceSmile{left:1012px;top:340px;width:410px}
+.characterS .camping .freckles{left:1066px;top:494px;width:314px}
+.characterS .camping .eyesElement{left:1072px;top:450px;width:288px}
+.characterS .camping .hijab{left:1032px;top:322px;width:354px}
+.characterS .camping .headWrap{left:1012px;top:228px;width:394px}
+.characterS .camping .cornrow{left:1068px;top:352px;width:282px}
+.characterS .camping .longBraidsDown{left:1008px;top:268px;width:386px}
+.characterS .camping .longPonytail{left:1020px;top:158px;width:388px}
+.characterS .camping .medAfro{left:1002px;top:252px;width:410px}
+.characterS .camping .medCurlyPomsDown{left:994px;top:354px;width:446px}
+.characterS .camping .medPigtail{left:938px;top:262px;width:526px}
+.characterS .camping .medPuffsUp{left:922px;top:246px;width:566px}
+.characterS .camping .medSpikey{left:1004px;top:246px;width:374px}
+.characterS .camping .shortCurlyHair{left:1028px;top:320px;width:334px}
+.characterS .camping .shortHair{left:1064px;top:328px;width:292px}
+.characterS .camping .shortHairWavy{left:1038px;top:306px;width:338px}
+.characterS .camping .shortSpikeyHair{left:1006px;top:308px;width:390px}
+.camping .wCharacter{left:956px;top:322px;width:564px}
+.characterW .camping .faceSmile{left:1012px;top:340px;width:410px}
+.characterW .camping .freckles{left:1066px;top:494px;width:314px}
+.characterW .camping .eyesElement{left:1072px;top:450px;width:288px}
+.characterW .camping .hijab{left:1032px;top:322px;width:354px}
+.characterW .camping .headWrap{left:1012px;top:228px;width:394px}
+.characterW .camping .cornrow{left:1068px;top:352px;width:282px}
+.characterW .camping .longBraidsDown{left:1008px;top:268px;width:386px}
+.characterW .camping .longPonytail{left:1020px;top:158px;width:388px}
+.characterW .camping .medAfro{left:1002px;top:252px;width:410px}
+.characterW .camping .medCurlyPomsDown{left:994px;top:354px;width:446px}
+.characterW .camping .medPigtail{left:938px;top:262px;width:526px}
+.characterW .camping .medPuffsUp{left:922px;top:246px;width:566px}
+.characterW .camping .medSpikey{left:1004px;top:246px;width:374px}
+.characterW .camping .shortCurlyHair{left:1028px;top:320px;width:334px}
+.characterW .camping .shortHair{left:1064px;top:328px;width:292px}
+.characterW .camping .shortHairWavy{left:1038px;top:306px;width:338px}
+.characterW .camping .shortSpikeyHair{left:1006px;top:308px;width:390px}
+
+.superhero{background-image:url('images/superhero.jpg')}
+.superhero .txt_content{width:20.503em;margin:.817em 0 0 20.144em;text-align:right;color:#fff}
+.superhero .sCharacter{left:0;top:190px;width:406px}
+.superhero .wCharacter{left:0;top:190px;width:406px}
+.characterS .superhero .faceSmile{left:170px;top:292px;width:214px}
+.characterS .superhero .freckles{left:198px;top:370px;width:174px}
+.characterS .superhero .eyesElement{left:198px;top:346px;width:158px}
+.characterS .superhero .headWrap{left:172px;top:226px;width:208px}
+.characterS .superhero .hijab{left:180px;top:272px;width:194px}
+.characterS .superhero .cornrow{left:200px;top:286px;width:156px}
+.characterS .superhero .longBraidsDown{left:170px;top:244px;width:208px}
+.characterS .superhero .longPonytail{left:174px;top:180px;width:212px}
+.characterS .superhero .medAfro{left:166px;top:232px;width:220px}
+.characterS .superhero .medCurlyPomsDown{left:160px;top:288px;width:242px}
+.characterS .superhero .medPigtail{left:128px;top:236px;width:288px}
+.characterS .superhero .medPuffsUp{left:120px;top:226px;width:310px}
+.characterS .superhero .medSpikey{left:170px;top:234px;width:200px}
+.characterS .superhero .shortCurlyHair{left:180px;top:268px;width:182px}
+.characterS .superhero .shortHair{left:198px;top:278px;width:160px}
+.characterS .superhero .shortHairWavy{left:184px;top:258px;width:188px}
+.characterS .superhero .shortSpikeyHair{left:168px;top:262px;width:212px}
+.superhero .wCharacter{left:6px;top:230px;width:480px}
+.characterW .superhero .faceSmile{left:170px;top:274px;width:214px}
+.characterW .superhero .freckles{left:200px;top:352px;width:168px}
+.characterW .superhero .eyesElement{left:198px;top:328px;width:158px}
+.characterW .superhero .headWrap{left:172px;top:226px;width:208px}
+.characterW .superhero .hijab{left:180px;top:252px;width:194px}
+.characterW .superhero .cornrow{left:200px;top:272px;width:154px}
+.characterW .superhero .longBraidsDown{left:172px;top:228px;width:204px}
+.characterW .superhero .longPonytail{left:178px;top:172px;width:204px}
+.characterW .superhero .medAfro{left:168px;top:226px;width:216px}
+.characterW .superhero .medCurlyPomsDown{left:162px;top:272px;width:238px}
+.characterW .superhero .medPigtail{left:134px;top:224px;width:278px}
+.characterW .superhero .medPuffsUp{left:126px;top:216px;width:298px}
+.characterW .superhero .medSpikey{left:170px;top:220px;width:194px}
+.characterW .superhero .shortCurlyHair{left:184px;top:258px;width:174px}
+.characterW .superhero .shortHair{left:200px;top:268px;width:156px}
+.characterW .superhero .shortHairWavy{left:186px;top:246px;width:180px}
+.characterW .superhero .shortSpikeyHair{left:172px;top:250px;width:204px}
+
+.flowers{background-image:url('images/flowers.jpg')}
+.flowers .txt_content{margin:0 0 0 22.455em}
+.flowers .txt_content .text1{width:17.452em;display:inline-block}
+.flowers .txt_content .text2{display:inline-block;margin-left:7.563em}
+.flowers .sCharacter{left:1130px;top:270px;width:286px}
+.characterS .flowers .faceSmile{left:1160px;top:290px;width:218px}
+.characterS .flowers .freckles{left:1182px;top:374px;width:188px}
+.characterS .flowers .eyesElement{left:1194px;top:350px;width:156px}
+.characterS .flowers .headWrap{left:1158px;top:224px;width:222px}
+.characterS .flowers .hijab{left:1162px;top:266px;width:210px}
+.characterS .flowers .cornrow{left:1186px;top:288px;width:164px}
+.characterS .flowers .longBraidsDown{left:1152px;top:240px;width:222px}
+.characterS .flowers .longPonytail{left:1158px;top:176px;width:224px}
+.characterS .flowers .medAfro{left:1148px;top:228px;width:236px}
+.characterS .flowers .medCurlyPomsDown{left:1142px;top:286px;width:260px}
+.characterS .flowers .medPigtail{left:1108px;top:232px;width:308px}
+.characterS .flowers .medPuffsUp{left:1100px;top:224px;width:330px}
+.characterS .flowers .medSpikey{left:1150px;top:232px;width:214px}
+.characterS .flowers .shortCurlyHair{left:1164px;top:266px;width:192px}
+.characterS .flowers .shortHair{left:1182px;top:274px;width:172px}
+.characterS .flowers .shortHairWavy{left:1170px;top:258px;width:196px}
+.characterS .flowers .shortSpikeyHair{left:1150px;top:260px;width:226px}
+.flowers .wCharacter{left:1092px;top:266px;width:342px}
+.characterW .flowers .faceSmile{left:1160px;top:290px;width:218px}
+.characterW .flowers .freckles{left:1188px;top:372px;width:176px}
+.characterW .flowers .eyesElement{left:1194px;top:350px;width:156px}
+.characterW .flowers .headWrap{left:1158px;top:224px;width:222px}
+.characterW .flowers .hijab{left:1166px;top:258px;width:206px}
+.characterW .flowers .cornrow{left:1186px;top:282px;width:166px}
+.characterW .flowers .longBraidsDown{left:1158px;top:236px;width:214px}
+.characterW .flowers .longPonytail{left:1162px;top:172px;width:218px}
+.characterW .flowers .medAfro{left:1152px;top:230px;width:230px}
+.characterW .flowers .medCurlyPomsDown{left:1148px;top:282px;width:250px}
+.characterW .flowers .medPigtail{left:1116px;top:230px;width:296px}
+.characterW .flowers .medPuffsUp{left:1110px;top:222px;width:314px}
+.characterW .flowers .medSpikey{left:1154px;top:226px;width:210px}
+.characterW .flowers .shortCurlyHair{left:1170px;top:266px;width:184px}
+.characterW .flowers .shortHair{left:1186px;top:274px;width:166px}
+.characterW .flowers .shortHairWavy{left:1176px;top:260px;width:184px}
+.characterW .flowers .shortSpikeyHair{left:1156px;top:258px;width:218px}
+
+.crossroads{background-image:url('images/crossroads.jpg')}
+.crossroads .txt_content{width:20.477em;margin:0 0 0 16.87em}
+.crossroads .sCharacter{left:1112px;top:360px;width:300px}
+.characterS .crossroads .faceSmile{left:1172px;top:402px;width:140px}
+.characterS .crossroads .freckles{left:1188px;top:456px;width:116px}
+.characterS .crossroads .eyesElement{left:1192px;top:440px;width:100px}
+.characterS .crossroads .headWrap{left:1168px;top:352px;width:148px}
+.characterS .crossroads .hijab{left:1174px;top:380px;width:134px}
+.characterS .crossroads .cornrow{left:1188px;top:398px;width:106px}
+.characterS .crossroads .longBraidsDown{left:1172px;top:372px;width:136px}
+.characterS .crossroads .longPonytail{left:1172px;top:328px;width:142px}
+.characterS .crossroads .medAfro{left:1166px;top:330px;width:150px}
+.characterS .crossroads .medCurlyPomsDown{left:1162px;top:398px;width:164px}
+.characterS .crossroads .medPigtail{left:1142px;top:366px;width:192px}
+.characterS .crossroads .medPuffsUp{left:1134px;top:358px;width:210px}
+.characterS .crossroads .medSpikey{left:1166px;top:360px;width:138px}
+.characterS .crossroads .shortCurlyHair{left:1176px;top:384px;width:122px}
+.characterS .crossroads .shortHair{left:1186px;top:396px;width:110px}
+.characterS .crossroads .shortHairWavy{left:1178px;top:378px;width:126px}
+.characterS .crossroads .shortSpikeyHair{left:1168px;top:380px;width:142px}
+.crossroads .wCharacter{left:1154px;top:424px;width:180px}
+.characterW .crossroads .faceSmile{left:1170px;top:432px;width:148px}
+.characterW .crossroads .freckles{left:1194px;top:488px;width:110px}
+.characterW .crossroads .eyesElement{left:1194px;top:472px;width:102px}
+.characterW .crossroads .headWrap{left:1176px;top:400px;width:134px}
+.characterW .crossroads .hijab{left:1178px;top:414px;width:132px}
+.characterW .crossroads .cornrow{left:1194px;top:436px;width:100px}
+.characterW .crossroads .longBraidsDown{left:1174px;top:406px;width:134px}
+.characterW .crossroads .longPonytail{left:1178px;top:368px;width:134px}
+.characterW .crossroads .medAfro{left:1172px;top:404px;width:142px}
+.characterW .crossroads .medCurlyPomsDown{left:1170px;top:436px;width:152px}
+.characterW .crossroads .medPigtail{left:1148px;top:402px;width:184px}
+.characterW .crossroads .medPuffsUp{left:1142px;top:398px;width:198px}
+.characterW .crossroads .medSpikey{left:1174px;top:400px;width:128px}
+.characterW .crossroads .shortCurlyHair{left:1182px;top:424px;width:116px}
+.characterW .crossroads .shortHair{left:1194px;top:430px;width:100px}
+.characterW .crossroads .shortHairWavy{left:1184px;top:418px;width:118px}
+.characterW .crossroads .shortSpikeyHair{left:1174px;top:420px;width:134px}
+
+.music{background-image:url('images/music.jpg')}
+.music .txt_content{width:16.477em;color:#fff;margin:1.164em 0 0 4.072em}
+.music .sCharacter{left:590px;top:60px;width:470px}
+.music .sMic{position:absolute;left:490px;top:80px;width:450px;z-index:4}
+.characterS .music .faceSmile{left:760px;top:140px;width:200px}
+.characterS .music .freckles{left:784px;top:216px;width:170px}
+.characterS .music .eyesElement{left:790px;top:194px;width:142px}
+.characterS .music .headWrap{left:758px;top:72px;width:208px}
+.characterS .music .hijab{left:768px;top:116px;width:190px}
+.characterS .music .cornrow{left:784px;top:134px;width:154px}
+.characterS .music .longBraidsDown{left:756px;top:88px;width:204px}
+.characterS .music .longPonytail{left:758px;top:26px;width:210px}
+.characterS .music .medAfro{left:752px;top:78px;width:218px}
+.characterS .music .medCurlyPomsDown{left:746px;top:132px;width:238px}
+.characterS .music .medPigtail{left:718px;top:84px;width:280px}
+.characterS .music .medPuffsUp{left:710px;top:76px;width:300px}
+.characterS .music .medSpikey{left:752px;top:76px;width:200px}
+.characterS .music .shortCurlyHair{left:768px;top:118px;width:176px}
+.characterS .music .shortHair{left:784px;top:126px;width:156px}
+.characterS .music .shortHairWavy{left:770px;top:104px;width:182px}
+.characterS .music .shortSpikeyHair{left:752px;top:106px;width:210px}
+.music .wCharacter{left:610px;top:88px;width:470px}
+.music .wMic{position:absolute;left:530px;top:210px;width:390px;z-index:4}
+.characterW .music .faceSmile{left:768px;top:184px;width:210px}
+.characterW .music .freckles{left:798px;top:262px;width:160px}
+.characterW .music .eyesElement{left:798px;top:240px;width:150px}
+.characterW .music .headWrap{left:768px;top:132px;width:202px}
+.characterW .music .hijab{left:778px;top:162px;width:190px}
+.characterW .music .cornrow{left:796px;top:192px;width:150px}
+.characterW .music .longBraidsDown{left:770px;top:150px;width:194px}
+.characterW .music .longPonytail{left:774px;top:92px;width:198px}
+.characterW .music .medAfro{left:766px;top:144px;width:208px}
+.characterW .music .medCurlyPomsDown{left:762px;top:192px;width:224px}
+.characterW .music .medPigtail{left:732px;top:144px;width:268px}
+.characterW .music .medPuffsUp{left:726px;top:134px;width:288px}
+.characterW .music .medSpikey{left:770px;top:140px;width:186px}
+.characterW .music .shortCurlyHair{left:778px;top:176px;width:172px}
+.characterW .music .shortHair{left:798px;top:186px;width:148px}
+.characterW .music .shortHairWavy{left:784px;top:166px;width:172px}
+.characterW .music .shortSpikeyHair{left:770px;top:168px;width:196px}
+
+.pirates{background-image:url('images/pirates.jpg')}
+.pirates .txt_content{width:20.503em;margin:.517em 0 0 auto}
+.pirates .sCharacter{left:100px;top:158px;width:526px}
+.characterS .pirates .faceSmile{left:446px;top:346px;width:104px}
+.characterS .pirates .freckles{left:456px;top:386px;width:84px}
+.characterS .pirates .eyesElement{left:460px;top:374px;width:76px}
+.characterS .pirates .hat{left:418px;top:278px;width:142px}
+.pirates .wCharacter{left:110px;top:138px;width:546px}
+.characterW .pirates .faceSmile{left:438px;top:348px;width:110px}
+.characterW .pirates .freckles{left:452px;top:390px;width:82px}
+.characterW .pirates .eyesElement{left:454px;top:378px;width:78px}
+.characterW .pirates .hat{left:410px;top:280px;width:144px}
+
+.playground{background-image:url('images/playground.jpg')}
+.playground .txt_content{margin:1em 0 0 18.155em}
+.playground .txt_content .text1{width:15.452em;}
+.playground .txt_content .text2{width:14.452em;margin-left:4.563em}
+.playground .characterSkin{left:1520px;top:310px;width:500px}
+.playground .faceSmile{left:1702px;top:342px;width:146px;}
+.playground .freckles{left:1722px;top:398px;width:116px}
+.playground .eyesElement{left:1724px;top:384px;width:102px}
+.playground .hijab{left:1708px;top:318px;width:138px}
+.playground .headWrap{left:1704px;top:296px;width:144px}
+.playground .cornrow{left:1724px;top:340px;width:104px}
+.playground .longBraidsDown{left:1702px;top:310px;width:142px}
+.playground .longPonytail{left:1704px;top:270px;width:144px}
+.playground .medAfro{left:1700px;top:302px;width:150px}
+.playground .medCurlyPomsDown{left:1698px;top:342px;width:162px}
+.playground .medPigtail{left:1678px;top:310px;width:190px}
+.playground .medPuffsUp{left:1672px;top:302px;width:206px}
+.playground .medSpikey{left:1700px;top:302px;width:138px}
+.playground .shortCurlyHair{left:1710px;top:330px;width:122px}
+.playground .shortHair{left:1720px;top:340px;width:110px}
+.playground .shortHairWavy{left:1712px;top:322px;width:126px}
+.playground .shortSpikeyHair{left:1700px;top:324px;width:144px}
+
+.dragon{background-image:url('images/dragon.jpg')}
+.dragon .txt_content{width:20.503em;margin:.817em 0 0 20.144em}
+.dragon .characterSkin{left:862px;top:-490px;width:1894px}
+.dragon .faceSmile{left:1402px;top:254px;width:128px}
+.dragon .freckles{left:1418px;top:302px;width:106px}
+.dragon .eyesElement{left:1420px;top:288px;width:92px}
+.dragon .hijab{left:1404px;top:236px;width:124px}
+.dragon .headWrap{left:1400px;top:210px;width:132px}
+.dragon .cornrow{left:1418px;top:252px;width:96px}
+.dragon .longBraidsDown{left:1400px;top:226px;width:128px}
+.dragon .longPonytail{left:1402px;top:188px;width:130px}
+.dragon .medAfro{left:1398px;top:218px;width:134px}
+.dragon .medCurlyPomsDown{left:1390px;top:250px;width:154px}
+.dragon .medPigtail{left:1374px;top:220px;width:178px}
+.dragon .medPuffsUp{left:1370px;top:218px;width:188px}
+.dragon .medSpikey{left:1398px;top:218px;width:124px}
+.dragon .shortCurlyHair{left:1406px;top:242px;width:110px}
+.dragon .shortHair{left:1418px;top:248px;width:98px}
+.dragon .shortHairWavy{left:1410px;top:238px;width:112px}
+.dragon .shortSpikeyHair{left:1400px;top:240px;width:128px}
+
+.space{background-image:url('images/space.jpg')}
+.space .txt_content{width:18.503em;margin:.517em 0 0 10.144em;color:#8cc63f}
+.space .characterSkin{left:1150px;top:366px;width:640px}
+.space .faceSmile{left:1440px;top:386px;width:130px}
+.space .freckles{left:1456px;top:436px;width:108px}
+.space .eyesElement{left:1460px;top:422px;width:90px}
+.space .hijab{left:1440px;top:366px;width:128px}
+.space .headWrap{left:1440px;top:340px;width:134px}
+.space .cornrow{left:1456px;top:382px;width:98px}
+.space .longBraidsDown{left:1438px;top:356px;width:130px}
+.space .longPonytail{left:1442px;top:320px;width:130px}
+.space .medAfro{left:1436px;top:348px;width:138px}
+.space .medCurlyPomsDown{left:1434px;top:384px;width:150px}
+.space .medPigtail{left:1416px;top:354px;width:176px}
+.space .medPuffsUp{left:1410px;top:348px;width:190px}
+.space .medSpikey{left:1438px;top:350px;width:124px}
+.space .shortCurlyHair{left:1446px;top:372px;width:112px}
+.space .shortHair{left:1456px;top:378px;width:100px}
+.space .shortHairWavy{left:1450px;top:370px;width:112px}
+.space .shortSpikeyHair{left:1438px;top:370px;width:132px}
+
+.bedtime{background-image:url('images/bedtime.jpg')}
+.bedtime .txt_content{width:16.87em;margin:7.273em 0 0 auto;color:#fff}
+.bedtime .characterSkin{left:56px;top:130px;width:796px}
+.bedtime .faceSmile{left:404px;top:208px;width:144px}
+.bedtime .freckles{left:418px;top:262px;width:124px}
+.bedtime .eyesElement{left:424px;top:248px;width:102px}
+.bedtime .hijab{left:406px;top:190px;width:140px}
+.bedtime .headWrap{left:400px;top:156px;width:150px}
+.bedtime .cornrow{left:420px;top:202px;width:110px}
+.bedtime .longBraidsDown{left:400px;top:176px;width:146px}
+.bedtime .longPonytail{left:404px;top:132px;width:148px}
+.bedtime .medAfro{left:396px;top:166px;width:156px}
+.bedtime .medCurlyPomsDown{left:392px;top:204px;width:172px}
+.bedtime .medPigtail{left:370px;top:170px;width:204px}
+.bedtime .medPuffsUp{left:364px;top:162px;width:220px}
+.bedtime .medSpikey{left:396px;top:162px;width:146px}
+.bedtime .shortCurlyHair{left:406px;top:190px;width:128px}
+.bedtime .shortHair{left:418px;top:200px;width:114px}
+.bedtime .shortHairWavy{left:408px;top:182px;width:134px}
+.bedtime .shortSpikeyHair{left:396px;top:186px;width:152px}
+
+.fishing{background-image:url('images/fishing.jpg')}
+.fishing .txt_content{margin:.817em 0 0 21.144em;color:#fff}
+.fishing .txt_content .text1{width:19.503em;float:left}
+.fishing .txt_content .text2{width:18.503em;float:right;margin:13.5em 3em 0 0}
+.fishing .characterSkin{left:0px;top:290px;width:964px}
+.fishing .faceSmile{left:420px;top:356px;width:114px}
+.fishing .freckles{left:432px;top:400px;width:96px}
+.fishing .eyesElement{left:438px;top:388px;width:78px}
+.fishing .hijab{left:418px;top:338px;width:114px}
+.fishing .headWrap{left:416px;top:322px;width:118px}
+.fishing .cornrow{left:432px;top:354px;width:86px}
+.fishing .longBraidsDown{left:414px;top:330px;width:116px}
+.fishing .longPonytail{left:420px;top:300px;width:114px}
+.fishing .medAfro{left:414px;top:324px;width:122px}
+.fishing .medCurlyPomsDown{left:410px;top:356px;width:134px}
+.fishing .medPigtail{left:394px;top:328px;width:158px}
+.fishing .medPuffsUp{left:390px;top:324px;width:168px}
+.fishing .medSpikey{left:414px;top:324px;width:112px}
+.fishing .shortCurlyHair{left:422px;top:346px;width:100px}
+.fishing .shortHair{left:432px;top:352px;width:88px}
+.fishing .shortHairWavy{left:424px;top:340px;width:102px}
+.fishing .shortSpikeyHair{left:416px;top:344px;width:116px}
+
+.mermaid{background-image:url('images/mermaid.jpg')}
+.mermaid .txt_content{width:22.503em;margin:.817em 0 0 13.144em;color:#fff}
+.mermaid .txt_content .text1{width:50%;float:left}
+.mermaid .txt_content .text2{width:50%;float:right;margin:8.5em 0 0 0}
+.mermaid .characterSkin{left:1170px;top:10px;width:384px}
+.mermaid .faceSmile{left:1292px;top:102px;width:122px}
+.mermaid .freckles{left:1308px;top:148px;width:100px}
+.mermaid .eyesElement{left:1312px;top:136px;width:84px}
+.mermaid .hijab{left:1298px;top:90px;width:112px}
+.mermaid .headWrap{left:1294px;top:66px;width:122px}
+.mermaid .cornrow{left:1308px;top:100px;width:92px}
+.mermaid .longBraidsDown{left:1292px;top:74px;width:120px}
+.mermaid .longPonytail{left:1298px;top:44px;width:116px}
+.mermaid .medAfro{left:1290px;top:68px;width:126px}
+.mermaid .medCurlyPomsDown{left:1286px;top:100px;width:140px}
+.mermaid .medPigtail{left:1268px;top:72px;width:166px}
+.mermaid .medPuffsUp{left:1264px;top:66px;width:178px}
+.mermaid .medSpikey{left:1292px;top:70px;width:114px}
+.mermaid .shortCurlyHair{left:1298px;top:90px;width:104px}
+.mermaid .shortHair{left:1308px;top:96px;width:92px}
+.mermaid .shortHairWavy{left:1300px;top:86px;width:106px}
+.mermaid .shortSpikeyHair{left:1292px;top:88px;width:120px}
+
+.rainbow{background-image:url('images/rainbows.jpg')}
+.rainbow .txt_content{width:15.503em;margin:.517em 0 0 14.144em;color:#283891}
+.rainbow .characterSkin{left:1280px;top:372px;width:400px}
+.rainbow .faceSmile{left:1382px;top:444px;width:192px}
+.rainbow .freckles{left:1400px;top:518px;width:168px}
+.rainbow .eyesElement{left:1412px;top:498px;width:132px}
+.rainbow .hijab{left:1380px;top:414px;width:194px}
+.rainbow .headWrap{left:1376px;top:374px;width:204px}
+.rainbow .cornrow{left:1404px;top:440px;width:148px}
+.rainbow .longBraidsDown{left:1374px;top:396px;width:200px}
+.rainbow .longPonytail{left:1378px;top:340px;width:202px}
+.rainbow .medAfro{left:1372px;top:388px;width:210px}
+.rainbow .medCurlyPomsDown{left:1366px;top:442px;width:230px}
+.rainbow .medPigtail{left:1336px;top:392px;width:274px}
+.rainbow .medPuffsUp{left:1328px;top:384px;width:294px}
+.rainbow .medSpikey{left:1374px;top:388px;width:192px}
+.rainbow .shortCurlyHair{left:1386px;top:422px;width:170px}
+.rainbow .shortHair{left:1402px;top:432px;width:152px}
+.rainbow .shortHairWavy{left:1390px;top:416px;width:174px}
+.rainbow .shortSpikeyHair{left:1374px;top:416px;width:202px}
+
+.stillness{background-image:url('images/stillness.jpg')}
+.stillness .txt_content{width:18.034em;margin:0 0 0 26.178em;color:#fff}
+.stillness .characterSkin{left:200px;top:386px;width:780px}
+.stillness .faceSmile{left:330px;top:454px;width:148px;transform:rotate(-30deg)}
+.stillness .freckles{left:352px;top:508px;width:126px;transform:rotate(-30deg)}
+.stillness .eyesElement{left:350px;top:496px;width:102px;transform:rotate(-30deg)}
+.stillness .hijab{left:326px;top:438px;width:146px;transform:rotate(-30deg)}
+.stillness .headWrap{left:308px;top:408px;width:156px;transform:rotate(-30deg)}
+.stillness .cornrow{left:322px;top:452px;width:116px;transform:rotate(-30deg)}
+.stillness .longBraidsDown{left:344px;top:416px;width:152px;transform:rotate(-30deg)}
+.stillness .longPonytail{left:290px;top:386px;width:154px;transform:rotate(-30deg)}
+.stillness .medAfro{left:290px;top:418px;width:162px;transform:rotate(-30deg)}
+.stillness .medCurlyPomsDown{left:312px;top:446px;width:182px;transform:rotate(-30deg)}
+.stillness .medPigtail{left:294px;top:424px;width:196px;transform:rotate(-30deg)}
+.stillness .medPuffsUp{left:260px;top:416px;width:224px;transform:rotate(-30deg)}
+.stillness .medSpikey{left:296px;top:420px;width:146px;transform:rotate(-30deg)}
+.stillness .shortCurlyHair{left:312px;top:448px;width:134px;transform:rotate(-30deg)}
+.stillness .shortHair{left:320px;top:452px;width:120px;transform:rotate(-30deg)}
+.stillness .shortHairWavy{left:316px;top:440px;width:134px;transform:rotate(-30deg)}
+.stillness .shortSpikeyHair{left:300px;top:442px;width:154px;transform:rotate(-30deg)}
+
+.unicorn{background-image:url('images/unicorn.jpg')}
+.unicorn .txt_content{margin:2.327em 0 0 43.630em}
+.unicorn .characterSkin{left:100px;top:20px;width:730px}
+.unicorn .faceSmile{left:284px;top:170px;width:160px;transform:rotate(-10deg)}
+.unicorn .freckles{left:308px;top:232px;width:130px;transform:rotate(-10deg)}
+.unicorn .eyesElement{left:310px;top:216px;width:108px;transform:rotate(-10deg)}
+.unicorn .hijab{left:288px;top:152px;width:150px;transform:rotate(-10deg)}
+.unicorn .headWrap{left:278px;top:118px;width:160px;transform:rotate(-10deg)}
+.unicorn .cornrow{left:298px;top:170px;width:118px;transform:rotate(-10deg)}
+.unicorn .longBraidsDown{left:292px;top:146px;width:148px;transform:rotate(-10deg)}
+.unicorn .longPonytail{left:276px;top:98px;width:156px;transform:rotate(-10deg)}
+.unicorn .medAfro{left:268px;top:126px;width:168px;transform:rotate(-10deg)}
+.unicorn .medCurlyPomsDown{left:278px;top:168px;width:182px;transform:rotate(-14deg)}
+.unicorn .medPigtail{left:248px;top:134px;width:216px;transform:rotate(-14deg)}
+.unicorn .medPuffsUp{left:232px;top:126px;width:234px;transform:rotate(-14deg)}
+.unicorn .medSpikey{left:272px;top:134px;width:148px;transform:rotate(-14deg)}
+.unicorn .shortCurlyHair{left:280px;top:158px;width:136px;transform:rotate(-14deg)}
+.unicorn .shortHair{left:294px;top:166px;width:122px;transform:rotate(-14deg)}
+.unicorn .shortHairWavy{left:284px;top:152px;width:140px;transform:rotate(-14deg)}
+.unicorn .shortSpikeyHair{left:272px;top:154px;width:160px;transform:rotate(-14deg)}
+
+.wheels{background-image:url('images/wheels.jpg')}
+.wheels .txt_content{width:18.295em;margin:0 0 0 46.144em}
+.wheels .characterSkin{left:570px;top:140px;width:520px}
+.wheels .faceSmile{left:686px;top:174px;width:232px}
+.wheels .freckles{left:716px;top:264px;width:188px}
+.wheels .eyesElement{left:724px;top:240px;width:156px}
+.wheels .hijab{left:692px;top:144px;width:218px}
+.wheels .headWrap{left:684px;top:100px;width:234px}
+.wheels .cornrow{left:716px;top:170px;width:170px}
+.wheels .longBraidsDown{left:686px;top:124px;width:224px}
+.wheels .longPonytail{left:690px;top:60px;width:228px}
+.wheels .medAfro{left:678px;top:108px;width:244px}
+.wheels .medCurlyPomsDown{left:674px;top:170px;width:262px}
+.wheels .medPigtail{left:642px;top:116px;width:310px}
+.wheels .medPuffsUp{left:632px;top:106px;width:334px}
+.wheels .medSpikey{left:684px;top:112px;width:216px}
+.wheels .shortCurlyHair{left:696px;top:152px;width:196px}
+.wheels .shortHair{left:716px;top:162px;width:172px}
+.wheels .shortHairWavy{left:702px;top:144px;width:198px}
+.wheels .shortSpikeyHair{left:682px;top:146px;width:230px}
